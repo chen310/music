@@ -64,6 +64,14 @@
         "weibo_url": "https://weibo.com/detail/4638620633795323"
     },
     {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=83c6395d7fa6d8f9914e95a6291c4422&s=0099abe3953243fe985223be87268ae1",
+        "short_url": "http://t.cn/A6VqcvjE",
+        "weibo_url": "https://weibo.com/detail/4638661011833750"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -115,14 +123,6 @@
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=35e4a30706cf4ef2efd34157737b6263&s=efd38e572bef4c2a9b0e15a2e1ce5a8a",
-        "short_url": "http://t.cn/A6V4OW6j",
-        "weibo_url": "https://weibo.com/detail/4637935708406848"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=99d36e4860b522ae40a547291d905ee5&s=001180d64827484b85d84379158ed9f0",
         "short_url": "http://t.cn/A6V4BZae",
         "weibo_url": "https://weibo.com/detail/4637981035732479"
@@ -150,14 +150,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=fa2e4e4e88522c90953f1440d9924930&s=13b5f1feaace479097e37f9669d4d65f",
         "short_url": "http://t.cn/A6Vbr09f",
         "weibo_url": "https://weibo.com/detail/4638280450052916"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0037910c299e62c5c02b697cb0751a30&s=2c7104a155ba4f7abe34e61719a02e8d",
-        "short_url": "http://t.cn/A6V4W2fg",
-        "weibo_url": "https://weibo.com/detail/4637938237312166"
     },
     {
         "artist": "黄明昊 (Justin)",
