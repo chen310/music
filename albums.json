@@ -16,22 +16,6 @@
         "weibo_url": "https://weibo.com/detail/4637945485594173"
     },
     {
-        "artist": "周深",
-        "name": "归处",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=b5e5062e734206ec58c89fcfd1ab448f&s=874c9f26e549499dba1e90dfd4ced16e",
-        "short_url": "http://t.cn/A6V47tSc",
-        "weibo_url": "https://weibo.com/detail/4637780547734111"
-    },
-    {
-        "artist": "周深",
-        "name": "江湖觅知音",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=8ae5be510b05171143dbd86eded51db9&s=dcfa55e9a1c9456995b22c2ce9ed87ba",
-        "short_url": "http://t.cn/A6V4756k",
-        "weibo_url": "https://weibo.com/detail/4637780484820539"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -363,17 +347,17 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
-        "short_url": "http://t.cn/A6VGYTek",
-        "weibo_url": "https://weibo.com/detail/4638496267961343"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4b58f8bd866e1b6361e5682d9d44c477&s=2efaf3797c5947918cb081c1802add4e",
+        "short_url": "http://t.cn/A6VGYPDY",
+        "weibo_url": "https://weibo.com/detail/4638493840510945"
     },
     {
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4b58f8bd866e1b6361e5682d9d44c477&s=2efaf3797c5947918cb081c1802add4e",
-        "short_url": "http://t.cn/A6VGYPDY",
-        "weibo_url": "https://weibo.com/detail/4638493840510945"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
+        "short_url": "http://t.cn/A6VGYTek",
+        "weibo_url": "https://weibo.com/detail/4638496267961343"
     },
     {
         "artist": "黄明昊 (Justin)",
