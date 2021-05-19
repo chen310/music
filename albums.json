@@ -25,14 +25,6 @@
     },
     {
         "artist": "周深",
-        "name": "大鱼 (唱片版)",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=9139d76f6907540d87f4e1b87f80da2f&s=8e06d6caca2949c2bf98c8cff217534a",
-        "short_url": "http://t.cn/A6VqQEeO",
-        "weibo_url": "https://weibo.com/detail/4638730482353358"
-    },
-    {
-        "artist": "周深",
         "name": "归处",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=1543d496b6eaf7aadc87d99b538bba16&s=7851c1f7c1484b8bb9e8c7fc4006f1cc",
@@ -83,6 +75,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=12322e31799e14a6ba4e7deeb655b6dd&s=8b429bbd44ee48c5812c1ebf432bc04f",
+        "short_url": "http://t.cn/A6VqRdzG",
+        "weibo_url": "https://weibo.com/detail/4638741383086724"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8883946387cc16e729b630f832ce8c01&s=8e784948787c4190aaa26c1ca3ce9774",
         "short_url": "http://t.cn/A6VqTrXK",
         "weibo_url": "https://weibo.com/detail/4638724657251526"
@@ -112,14 +112,6 @@
         "weibo_url": "https://weibo.com/detail/4638647935042766"
     },
     {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=28d9d6d67c2f6466eeb385ba1692c809&s=97076b6675d14572b18b7d70058a69c5",
-        "short_url": "http://t.cn/A6Vq8q8B",
-        "weibo_url": "https://weibo.com/detail/4638732458395719"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -139,14 +131,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=af9391dacf26ed267ddec7facc2582c5&s=b2b3ec7bfe6e4b87b5ce1e41d58d3b02",
-        "short_url": "http://t.cn/A6Vb7JWb",
-        "weibo_url": "https://weibo.com/detail/4638027886363481"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=684acb63885f8c04f483a8fb802dbd2a&s=646cd76e4ddb425f876f72e9449f7618",
         "short_url": "http://t.cn/A6VbbanI",
         "weibo_url": "https://weibo.com/detail/4638107884587725"
@@ -158,14 +142,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=be8d70eb3d2c20ec767de4356865b447&s=0b81bacbf47d4ae6925e6624bf860a2c",
         "short_url": "http://t.cn/A6Vbqzhv",
         "weibo_url": "https://weibo.com/detail/4638114113392697"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fa2e4e4e88522c90953f1440d9924930&s=13b5f1feaace479097e37f9669d4d65f",
-        "short_url": "http://t.cn/A6Vbr09f",
-        "weibo_url": "https://weibo.com/detail/4638280450052916"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -198,14 +174,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2bbc1b8d197ae3c554443b9d35cca140&s=a9f773b585044acda1453dc7ed8957b1",
         "short_url": "http://t.cn/A6VGYgqg",
         "weibo_url": "https://weibo.com/detail/4638558923785496"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=bf41c29d046d8a700e5d87b298f86425&s=9ce32176b3244c71b780ec29f505f65d",
-        "short_url": "http://t.cn/A6VGjr1S",
-        "weibo_url": "https://weibo.com/detail/4638493294462317"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -283,9 +251,9 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5a2724ac0eed74d85ce6664acb4422af&s=f5e218d789ed478aaec67d2292cd5ea5",
-        "short_url": "http://t.cn/A6VGYxYI",
-        "weibo_url": "https://weibo.com/detail/4638495165647379"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bf41c29d046d8a700e5d87b298f86425&s=9ce32176b3244c71b780ec29f505f65d",
+        "short_url": "http://t.cn/A6VGjr1S",
+        "weibo_url": "https://weibo.com/detail/4638493294462317"
     },
     {
         "artist": "黄明昊 (Justin)",
