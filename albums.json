@@ -16,6 +16,30 @@
         "weibo_url": "https://weibo.com/detail/4637945485594173"
     },
     {
+        "artist": "周深",
+        "name": "化身孤岛的鲸",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=778f64d6c31c55f2bb886333c3891d65&s=b91e5b61a85f4400903887df8659080e",
+        "short_url": "http://t.cn/A6VGm9Gt",
+        "weibo_url": "https://weibo.com/detail/4638526744825839"
+    },
+    {
+        "artist": "周深",
+        "name": "归处",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=1543d496b6eaf7aadc87d99b538bba16&s=7851c1f7c1484b8bb9e8c7fc4006f1cc",
+        "short_url": "http://t.cn/A6VGmSSl",
+        "weibo_url": "https://weibo.com/detail/4638526563948941"
+    },
+    {
+        "artist": "周深",
+        "name": "江湖觅知音",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=1e73dc4775057795addaf25934272599&s=70dc703da87a4cffa23ebe2eaee3f1e5",
+        "short_url": "http://t.cn/A6VGmoCI",
+        "weibo_url": "https://weibo.com/detail/4638526639441278"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -331,17 +355,17 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4b58f8bd866e1b6361e5682d9d44c477&s=2efaf3797c5947918cb081c1802add4e",
-        "short_url": "http://t.cn/A6VGYPDY",
-        "weibo_url": "https://weibo.com/detail/4638493840510945"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
+        "short_url": "http://t.cn/A6VGYTek",
+        "weibo_url": "https://weibo.com/detail/4638496267961343"
     },
     {
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
-        "short_url": "http://t.cn/A6VGYTek",
-        "weibo_url": "https://weibo.com/detail/4638496267961343"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4b58f8bd866e1b6361e5682d9d44c477&s=2efaf3797c5947918cb081c1802add4e",
+        "short_url": "http://t.cn/A6VGYPDY",
+        "weibo_url": "https://weibo.com/detail/4638493840510945"
     },
     {
         "artist": "黄明昊 (Justin)",
