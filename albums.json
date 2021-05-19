@@ -25,6 +25,14 @@
     },
     {
         "artist": "周深",
+        "name": "大鱼 (唱片版)",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=9139d76f6907540d87f4e1b87f80da2f&s=8e06d6caca2949c2bf98c8cff217534a",
+        "short_url": "http://t.cn/A6VqQEeO",
+        "weibo_url": "https://weibo.com/detail/4638730482353358"
+    },
+    {
+        "artist": "周深",
         "name": "归处",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=1543d496b6eaf7aadc87d99b538bba16&s=7851c1f7c1484b8bb9e8c7fc4006f1cc",
@@ -83,9 +91,9 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=663fa8bc010ef2dd1aba9780c92fb46b&s=85269f150b924d968a7274d214cdd9a0",
-        "short_url": "http://t.cn/A6VbvTYz",
-        "weibo_url": "https://weibo.com/detail/4638006969632433"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=898ad70a796fc21376af376eb9b3865a&s=e42358c993994b0baf404c0d81b76682",
+        "short_url": "http://t.cn/A6VqQI7a",
+        "weibo_url": "https://weibo.com/detail/4638728821145891"
     },
     {
         "artist": "张哲瀚",
@@ -102,6 +110,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=63b161d03307feee8a5d1a103ddf6e22&s=6253788930c94563bed733dbe7b02cb4",
         "short_url": "http://t.cn/A6VqqhVV",
         "weibo_url": "https://weibo.com/detail/4638647935042766"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=28d9d6d67c2f6466eeb385ba1692c809&s=97076b6675d14572b18b7d70058a69c5",
+        "short_url": "http://t.cn/A6Vq8q8B",
+        "weibo_url": "https://weibo.com/detail/4638732458395719"
     },
     {
         "artist": "李润祺",
