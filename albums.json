@@ -80,6 +80,22 @@
         "weibo_url": "https://weibo.com/detail/4638006969632433"
     },
     {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1c38dd829c4d94124b5a9e2b2f15d8c2&s=13a0a00db9dc41598f73dee96b2a1459",
+        "short_url": "http://t.cn/A6VGrB78",
+        "weibo_url": "https://weibo.com/detail/4638549795674781"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3a0c28beab83226ab25a986022556cf7&s=ef48def8205d4ce1942300265dca05a3",
+        "short_url": "http://t.cn/A6VGr3Oa",
+        "weibo_url": "https://weibo.com/detail/4638549708639955"
+    },
+    {
         "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
@@ -355,17 +371,17 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b857e0f3f6ba7f8970327df591d336cc&s=9e88f08851424ba4968371a82f01da30",
-        "short_url": "http://t.cn/A6VGuOIm",
-        "weibo_url": "https://weibo.com/detail/4638531302988144"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e4dc6beddab2ca1404dfc2fd66f43ec4&s=717cf18f3b634d3b8e492784630d026f",
+        "short_url": "http://t.cn/A6VGnntk",
+        "weibo_url": "https://weibo.com/detail/4638523700022250"
     },
     {
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e4dc6beddab2ca1404dfc2fd66f43ec4&s=717cf18f3b634d3b8e492784630d026f",
-        "short_url": "http://t.cn/A6VGnntk",
-        "weibo_url": "https://weibo.com/detail/4638523700022250"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b857e0f3f6ba7f8970327df591d336cc&s=9e88f08851424ba4968371a82f01da30",
+        "short_url": "http://t.cn/A6VGuOIm",
+        "weibo_url": "https://weibo.com/detail/4638531302988144"
     },
     {
         "artist": "黄明昊 (Justin)",
