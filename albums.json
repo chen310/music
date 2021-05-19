@@ -283,14 +283,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=25d70e94bf1438f14d9d66a7639e7551&s=18b0f863224442d38fd837e71d2144d0",
-        "short_url": "http://t.cn/A6VGjiaq",
-        "weibo_url": "https://weibo.com/detail/4638497057539759"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4ec4f940bfbe70957333f2c6c8d1ebea&s=6815b65344ce492799954d65a4bcf7a1",
         "short_url": "http://t.cn/A6VGjiaG",
         "weibo_url": "https://weibo.com/detail/4638491562738859"
@@ -302,6 +294,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=670226edcd6a523f3e2bcdb8c1f8f0ff&s=d3278ad6b2da48e58c16212e0f21958c",
         "short_url": "http://t.cn/A6VGHwtd",
         "weibo_url": "https://weibo.com/detail/4638501640867208"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=25d70e94bf1438f14d9d66a7639e7551&s=18b0f863224442d38fd837e71d2144d0",
+        "short_url": "http://t.cn/A6VGjiaq",
+        "weibo_url": "https://weibo.com/detail/4638497057539759"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -374,14 +374,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
         "short_url": "http://t.cn/A6VGYTek",
         "weibo_url": "https://weibo.com/detail/4638496267961343"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ac91aa17505437b6046ca27f279600d7&s=58834a130a3641779a382d3e0511cd7c",
-        "short_url": "http://t.cn/A6VGYdec",
-        "weibo_url": "https://weibo.com/detail/4638497081656599"
     },
     {
         "artist": "黄明昊 (Justin)",
