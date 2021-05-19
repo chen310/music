@@ -96,14 +96,6 @@
         "weibo_url": "https://weibo.com/detail/4637991584142959"
     },
     {
-        "artist": "李鑫一",
-        "name": "失序抵抗",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1a061e9c878338a4bca4e440667f77d6&s=311e473e593143e4a2f3a713da3d5db9",
-        "short_url": "http://t.cn/A6VGuiBb",
-        "weibo_url": "https://weibo.com/detail/4638530480902155"
-    },
-    {
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
@@ -315,14 +307,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b857e0f3f6ba7f8970327df591d336cc&s=9e88f08851424ba4968371a82f01da30",
-        "short_url": "http://t.cn/A6VGuOIm",
-        "weibo_url": "https://weibo.com/detail/4638531302988144"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5c2f36e8cf6d650dfad1c34e29e233b7&s=d5a249fdc5e7492c865bb5b53246d217",
         "short_url": "http://t.cn/A6VGEYtF",
         "weibo_url": "https://weibo.com/detail/4638519375434790"
@@ -355,6 +339,14 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b857e0f3f6ba7f8970327df591d336cc&s=9e88f08851424ba4968371a82f01da30",
+        "short_url": "http://t.cn/A6VGuOIm",
+        "weibo_url": "https://weibo.com/detail/4638531302988144"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e4dc6beddab2ca1404dfc2fd66f43ec4&s=717cf18f3b634d3b8e492784630d026f",
         "short_url": "http://t.cn/A6VGnntk",
         "weibo_url": "https://weibo.com/detail/4638523700022250"
@@ -371,14 +363,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
-        "short_url": "http://t.cn/A6VGYTek",
-        "weibo_url": "https://weibo.com/detail/4638496267961343"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4b58f8bd866e1b6361e5682d9d44c477&s=2efaf3797c5947918cb081c1802add4e",
         "short_url": "http://t.cn/A6VGYPDY",
         "weibo_url": "https://weibo.com/detail/4638493840510945"
@@ -387,9 +371,9 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5e874f1e02daabbc4fd442767e3746ec&s=d7b375412be84d61bfffe11723e7337e",
-        "short_url": "http://t.cn/A6VGjiab",
-        "weibo_url": "https://weibo.com/detail/4638491826458314"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=97291018841d2247c3b51868e7b6a936&s=4c86fb5935394b9fb75c7b89246f503e",
+        "short_url": "http://t.cn/A6VGYTek",
+        "weibo_url": "https://weibo.com/detail/4638496267961343"
     },
     {
         "artist": "黄明昊 (Justin)",
