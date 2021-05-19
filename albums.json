@@ -64,6 +64,22 @@
         "weibo_url": "https://weibo.com/detail/4638620633795323"
     },
     {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=588e87cc98bf0a7d5e3bea6992a7bcb3&s=56197c8b891c477d89c601fd71abcfec",
+        "short_url": "http://t.cn/A6VqfatK",
+        "weibo_url": "https://weibo.com/detail/4638670780895851"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c6feb8eb7b11c763f297274be55067eb&s=d03216ba21da4928ba101da7134c1205",
+        "short_url": "http://t.cn/A6VqfJM7",
+        "weibo_url": "https://weibo.com/detail/4638670533953623"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -94,14 +110,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=684acb63885f8c04f483a8fb802dbd2a&s=646cd76e4ddb425f876f72e9449f7618",
         "short_url": "http://t.cn/A6VbbanI",
         "weibo_url": "https://weibo.com/detail/4638107884587725"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9ef3844bbf46c208be2059a66d11a608&s=bf5ec170ca76461d98c35490d068686f",
-        "short_url": "http://t.cn/A6V4jG4Y",
-        "weibo_url": "https://weibo.com/detail/4637947729283980"
     },
     {
         "artist": "范丞丞",
@@ -262,14 +270,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7c16c0ddab66848d117e6e724a784a95&s=7b6f660bd1b84b97abb3c5299d018f15",
         "short_url": "http://t.cn/A6VGHZU8",
         "weibo_url": "https://weibo.com/detail/4638501574805899"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4b58f8bd866e1b6361e5682d9d44c477&s=2efaf3797c5947918cb081c1802add4e",
-        "short_url": "http://t.cn/A6VGYPDY",
-        "weibo_url": "https://weibo.com/detail/4638493840510945"
     },
     {
         "artist": "黄明昊 (Justin)",
