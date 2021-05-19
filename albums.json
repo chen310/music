@@ -67,14 +67,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=588e87cc98bf0a7d5e3bea6992a7bcb3&s=56197c8b891c477d89c601fd71abcfec",
-        "short_url": "http://t.cn/A6VqfatK",
-        "weibo_url": "https://weibo.com/detail/4638670780895851"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c6feb8eb7b11c763f297274be55067eb&s=d03216ba21da4928ba101da7134c1205",
         "short_url": "http://t.cn/A6VqfJM7",
         "weibo_url": "https://weibo.com/detail/4638670533953623"
@@ -203,14 +195,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4ec4f940bfbe70957333f2c6c8d1ebea&s=6815b65344ce492799954d65a4bcf7a1",
-        "short_url": "http://t.cn/A6VGjiaG",
-        "weibo_url": "https://weibo.com/detail/4638491562738859"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5fb388522a9ba84daba779bf50f09144&s=41fa6f5afda742718899abd0af7f6f09",
         "short_url": "http://t.cn/A6VGjnZV",
         "weibo_url": "https://weibo.com/detail/4638494994206628"
@@ -246,6 +230,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e4dc6beddab2ca1404dfc2fd66f43ec4&s=717cf18f3b634d3b8e492784630d026f",
         "short_url": "http://t.cn/A6VGnntk",
         "weibo_url": "https://weibo.com/detail/4638523700022250"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4ec4f940bfbe70957333f2c6c8d1ebea&s=6815b65344ce492799954d65a4bcf7a1",
+        "short_url": "http://t.cn/A6VGjiaG",
+        "weibo_url": "https://weibo.com/detail/4638491562738859"
     },
     {
         "artist": "黄明昊 (Justin)",
