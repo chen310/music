@@ -35,17 +35,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=63b161d03307feee8a5d1a103ddf6e22&s=6253788930c94563bed733dbe7b02cb4",
-        "short_url": "http://t.cn/A6VqqhVV",
-        "weibo_url": "https://weibo.com/detail/4638647935042766"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=663fa8bc010ef2dd1aba9780c92fb46b&s=85269f150b924d968a7274d214cdd9a0",
+        "short_url": "http://t.cn/A6VbvTYz",
+        "weibo_url": "https://weibo.com/detail/4638006969632433"
     },
     {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=663fa8bc010ef2dd1aba9780c92fb46b&s=85269f150b924d968a7274d214cdd9a0",
-        "short_url": "http://t.cn/A6VbvTYz",
-        "weibo_url": "https://weibo.com/detail/4638006969632433"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=63b161d03307feee8a5d1a103ddf6e22&s=6253788930c94563bed733dbe7b02cb4",
+        "short_url": "http://t.cn/A6VqqhVV",
+        "weibo_url": "https://weibo.com/detail/4638647935042766"
     },
     {
         "artist": "张哲瀚",
@@ -70,6 +70,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=c6feb8eb7b11c763f297274be55067eb&s=d03216ba21da4928ba101da7134c1205",
         "short_url": "http://t.cn/A6VqfJM7",
         "weibo_url": "https://weibo.com/detail/4638670533953623"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c75f5a609c3aa690d818e1f8a89e3106&s=9da140088eb14362833b994644fbaf08",
+        "short_url": "http://t.cn/A6VqJnsK",
+        "weibo_url": "https://weibo.com/detail/4638687368845675"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9b1cd420f08f9d5f6f56978b5c487d91&s=8c0a618a0aa4445fa92dd04df7c1e43b",
+        "short_url": "http://t.cn/A6Vqi0YC",
+        "weibo_url": "https://weibo.com/detail/4638688933314757"
     },
     {
         "artist": "李润祺",
@@ -235,14 +251,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4ec4f940bfbe70957333f2c6c8d1ebea&s=6815b65344ce492799954d65a4bcf7a1",
-        "short_url": "http://t.cn/A6VGjiaG",
-        "weibo_url": "https://weibo.com/detail/4638491562738859"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5c2f36e8cf6d650dfad1c34e29e233b7&s=d5a249fdc5e7492c865bb5b53246d217",
         "short_url": "http://t.cn/A6VGEYtF",
         "weibo_url": "https://weibo.com/detail/4638519375434790"
@@ -254,6 +262,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b857e0f3f6ba7f8970327df591d336cc&s=9e88f08851424ba4968371a82f01da30",
         "short_url": "http://t.cn/A6VGuOIm",
         "weibo_url": "https://weibo.com/detail/4638531302988144"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4ec4f940bfbe70957333f2c6c8d1ebea&s=6815b65344ce492799954d65a4bcf7a1",
+        "short_url": "http://t.cn/A6VGjiaG",
+        "weibo_url": "https://weibo.com/detail/4638491562738859"
     },
     {
         "artist": "黄明昊 (Justin)",
