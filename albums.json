@@ -123,14 +123,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=12322e31799e14a6ba4e7deeb655b6dd&s=8b429bbd44ee48c5812c1ebf432bc04f",
-        "short_url": "http://t.cn/A6VqRdzG",
-        "weibo_url": "https://weibo.com/detail/4638741383086724"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=63b161d03307feee8a5d1a103ddf6e22&s=6253788930c94563bed733dbe7b02cb4",
         "short_url": "http://t.cn/A6VqqhVV",
         "weibo_url": "https://weibo.com/detail/4638647935042766"
@@ -262,13 +254,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=4ec4f940bfbe70957333f2c6c8d1ebea&s=6815b65344ce492799954d65a4bcf7a1",
         "short_url": "http://t.cn/A6VGjiaG",
         "weibo_url": "https://weibo.com/detail/4638491562738859"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=114c3a02982612b877b2efeb891c3e0c&s=027679979c524a1cbbaf827359995ebe",
-        "short_url": "http://t.cn/A6VG8gYe",
-        "weibo_url": "https://weibo.com/detail/4638512429140796"
     }
 ]
