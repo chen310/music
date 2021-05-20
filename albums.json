@@ -1,13 +1,5 @@
 [
     {
-        "artist": "IU",
-        "name": "에잇",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f3676d729bf84cb929203d906c4fbddd&s=fccc415dc13140d49fbd9d34447a4138",
-        "short_url": "http://t.cn/A6VblQKA",
-        "weibo_url": "https://weibo.com/detail/4638214490689055"
-    },
-    {
         "artist": "周深",
         "name": "化身孤岛的鲸",
         "type": "song",
@@ -83,14 +75,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cf4b543171a12cc1b4e1caef601a4d7e&s=b4cd61fec6124050952cdef8fd536c76",
-        "short_url": "http://t.cn/A6V5Zqp3",
-        "weibo_url": "https://weibo.com/detail/4638859386686341"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8883946387cc16e729b630f832ce8c01&s=8e784948787c4190aaa26c1ca3ce9774",
         "short_url": "http://t.cn/A6VqTrXK",
         "weibo_url": "https://weibo.com/detail/4638724657251526"
@@ -102,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=898ad70a796fc21376af376eb9b3865a&s=e42358c993994b0baf404c0d81b76682",
         "short_url": "http://t.cn/A6VqQI7a",
         "weibo_url": "https://weibo.com/detail/4638728821145891"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cf4b543171a12cc1b4e1caef601a4d7e&s=b4cd61fec6124050952cdef8fd536c76",
+        "short_url": "http://t.cn/A6V5Zqp3",
+        "weibo_url": "https://weibo.com/detail/4638859386686341"
     },
     {
         "artist": "张哲瀚",
@@ -150,6 +142,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=25336e90631ff6b8c8f58f83ebc8fd76&s=0b45fa31f03b45209d8bf083e177345c",
         "short_url": "http://t.cn/A6V5x0hW",
         "weibo_url": "https://weibo.com/detail/4638926424244907"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=42ab06745010673e5a99ffb2c9c5f552&s=078bbe5f43ca468b888e0b743b19939a",
+        "short_url": "http://t.cn/A6V5Jpc3",
+        "weibo_url": "https://weibo.com/detail/4638930533879202"
     },
     {
         "artist": "李润祺",
