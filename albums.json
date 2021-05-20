@@ -67,14 +67,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cf4b543171a12cc1b4e1caef601a4d7e&s=b4cd61fec6124050952cdef8fd536c76",
-        "short_url": "http://t.cn/A6V5Zqp3",
-        "weibo_url": "https://weibo.com/detail/4638859386686341"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=6b04889c077c5c7bc77644f33164ea7d&s=68c993bfd9744b05ad284c7acd177cfc",
         "short_url": "http://t.cn/A6VqsPcg",
         "weibo_url": "https://weibo.com/detail/4638838520285496"
@@ -86,6 +78,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a68500db6ef097a155594b19cc989c52&s=0a6eb1d8b1474aa29b3fa8d2fef0c8e4",
         "short_url": "http://t.cn/A6VqHzsG",
         "weibo_url": "https://weibo.com/detail/4638725184946661"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cf4b543171a12cc1b4e1caef601a4d7e&s=b4cd61fec6124050952cdef8fd536c76",
+        "short_url": "http://t.cn/A6V5Zqp3",
+        "weibo_url": "https://weibo.com/detail/4638859386686341"
     },
     {
         "artist": "张哲瀚",
@@ -142,14 +142,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7a74816860e93b187766dd10d3868629&s=3ba10e98324746839858e29e63363dba",
         "short_url": "http://t.cn/A6VqY1nZ",
         "weibo_url": "https://weibo.com/detail/4638722039744410"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f9984c1551dad7e1024d6f75b1b6232b&s=a3ae1f55d8644476a1cbfdf4cbe5a3c8",
-        "short_url": "http://t.cn/A6V5ANh2",
-        "weibo_url": "https://weibo.com/detail/4638867195695000"
     },
     {
         "artist": "黄明昊 (Justin)",
