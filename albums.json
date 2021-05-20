@@ -171,9 +171,25 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=022f5e0ba81c2f468e697daf7d1e367c&s=0425fef8e75b4cab9e20b08918e94d84",
+        "short_url": "http://t.cn/A6V536Fd",
+        "weibo_url": "https://weibo.com/detail/4639045223714717"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=7a74816860e93b187766dd10d3868629&s=3ba10e98324746839858e29e63363dba",
         "short_url": "http://t.cn/A6VqY1nZ",
         "weibo_url": "https://weibo.com/detail/4638722039744410"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6486dc549327171dd70329cb33f8a7f6&s=a2054e79cf774b328ef735d794e1720e",
+        "short_url": "http://t.cn/A6V53WAH",
+        "weibo_url": "https://weibo.com/detail/4639045936221002"
     },
     {
         "artist": "黄明昊 (Justin)",
