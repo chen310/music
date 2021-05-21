@@ -1,21 +1,5 @@
 [
     {
-        "artist": "BTS (防弹少年团)",
-        "name": "Butter",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=10e2e6ca671093a4b8b79ecb13d1e4f3&s=5f5ed7b627ee464fbf4af601b6676933",
-        "short_url": "http://t.cn/A6Vt82sD",
-        "weibo_url": "https://weibo.com/detail/4639281740513755"
-    },
-    {
-        "artist": "Gluneko",
-        "name": "Stray",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=61916dd02f7148eea8b03da622b40e23&s=822e83b5526c4a99ba7e0a588376c62e",
-        "short_url": "http://t.cn/A6VtHKux",
-        "weibo_url": "https://weibo.com/detail/4639274475196857"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
