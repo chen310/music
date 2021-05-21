@@ -9,11 +9,11 @@
     },
     {
         "artist": "BTS (防弹少年团)",
-        "name": "Dynamite (DayTime Version)",
+        "name": "Butter",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3388a5bd78da30538298c40e397ecb1d&s=713965c56c02465e888348c702f49ddb",
-        "short_url": "http://t.cn/A6VtgPXd",
-        "weibo_url": "https://weibo.com/detail/4639326924965888"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=955f2df9c84324bc5b0c479dc830185c&s=e028c36813b04f548e1b448d479d1669",
+        "short_url": "http://t.cn/A6VtkdAp",
+        "weibo_url": "https://weibo.com/detail/4639341949749394"
     },
     {
         "artist": "张哲瀚",
@@ -147,14 +147,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b46c39e81d4e1eab4b9a27ad19447864&s=503df0650fd64322b1b48184b8af1a3f",
-        "short_url": "http://t.cn/A6VtSieU",
-        "weibo_url": "https://weibo.com/detail/4639219044058789"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f8546194b8b4bbbe3bbcc6671247bc51&s=3d70caea797c4ba29437826132a0f3d5",
         "short_url": "http://t.cn/A6VqLPTt",
         "weibo_url": "https://weibo.com/detail/4638620633795323"
@@ -166,6 +158,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=63b161d03307feee8a5d1a103ddf6e22&s=6253788930c94563bed733dbe7b02cb4",
         "short_url": "http://t.cn/A6VqqhVV",
         "weibo_url": "https://weibo.com/detail/4638647935042766"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b46c39e81d4e1eab4b9a27ad19447864&s=503df0650fd64322b1b48184b8af1a3f",
+        "short_url": "http://t.cn/A6VtSieU",
+        "weibo_url": "https://weibo.com/detail/4639219044058789"
     },
     {
         "artist": "张哲瀚",
