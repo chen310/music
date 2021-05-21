@@ -1,13 +1,5 @@
 [
     {
-        "artist": "周深",
-        "name": "化身孤岛的鲸",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=778f64d6c31c55f2bb886333c3891d65&s=b91e5b61a85f4400903887df8659080e",
-        "short_url": "http://t.cn/A6VGm9Gt",
-        "weibo_url": "https://weibo.com/detail/4638526744825839"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -134,14 +126,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=397a8df05939bbd75a4a2c8b84997bd2&s=91d71288f7184beb94fcbde0955601a0",
         "short_url": "http://t.cn/A6V50w9A",
         "weibo_url": "https://weibo.com/detail/4638978751595033"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=88efbb9852b141cc1d8c83cfc1cb5f9b&s=3bec83324c79492987836c821f598d56",
-        "short_url": "http://t.cn/A6VqOvFI",
-        "weibo_url": "https://weibo.com/detail/4639050801874316"
     },
     {
         "artist": "张哲瀚",
