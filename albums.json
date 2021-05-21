@@ -1,5 +1,21 @@
 [
     {
+        "artist": "BTS (防弹少年团)",
+        "name": "Butter",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e8bb9be02cc693018aedad21a97526de&s=93c8273ecca64f8799a8aba4594b2efb",
+        "short_url": "http://t.cn/A6Vtr60o",
+        "weibo_url": "https://weibo.com/detail/4639320881758854"
+    },
+    {
+        "artist": "BTS (防弹少年团)",
+        "name": "Butter",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b071b5936328a2038d84785a51387bd9&s=0b91ce16cc944eee8edb29aba8773473",
+        "short_url": "http://t.cn/A6VtrkU3",
+        "weibo_url": "https://weibo.com/detail/4639322886635953"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -134,14 +150,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a1294dbcc72ecdaa07d86c4095e7db07&s=4036adb4140a4059bb36e90e621398c0",
         "short_url": "http://t.cn/A6VtvtUD",
         "weibo_url": "https://weibo.com/detail/4639068581532508"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b9d7b2ac33acbf1bf39e87400c575f57&s=786e07ad2ba44b28b4ec6e0900faf341",
-        "short_url": "http://t.cn/A6Vt80gD",
-        "weibo_url": "https://weibo.com/detail/4639283853660956"
     },
     {
         "artist": "张哲瀚",
