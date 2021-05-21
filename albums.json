@@ -1,5 +1,13 @@
 [
     {
+        "artist": "Gluneko",
+        "name": "Stray",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=61916dd02f7148eea8b03da622b40e23&s=822e83b5526c4a99ba7e0a588376c62e",
+        "short_url": "http://t.cn/A6VtHKux",
+        "weibo_url": "https://weibo.com/detail/4639274475196857"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -102,14 +110,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=898ad70a796fc21376af376eb9b3865a&s=e42358c993994b0baf404c0d81b76682",
         "short_url": "http://t.cn/A6VqQI7a",
         "weibo_url": "https://weibo.com/detail/4638728821145891"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=34484215ec4b386513415cb174ecd73a&s=a755523241624ad6b505589daca5de9f",
-        "short_url": "http://t.cn/A6V5psaw",
-        "weibo_url": "https://weibo.com/detail/4638978260863032"
     },
     {
         "artist": "张哲瀚",
