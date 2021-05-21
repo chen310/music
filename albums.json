@@ -1,5 +1,21 @@
 [
     {
+        "artist": "BTS (防弹少年团)",
+        "name": "Butter",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5279e0b949a94492685cf25c289386fd&s=016f74c75ff8488d9e2d481c3b376ae5",
+        "short_url": "http://t.cn/A6VtEufJ",
+        "weibo_url": "https://weibo.com/detail/4639294238753048"
+    },
+    {
+        "artist": "BTS (防弹少年团)",
+        "name": "Butter",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d8b8e89755b57e9afee3363ae4c0641a&s=181bb6824d8e4353b883a19073d531c3",
+        "short_url": "http://t.cn/A6VtE3rJ",
+        "weibo_url": "https://weibo.com/detail/4639294369825046"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -83,14 +99,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b9d7b2ac33acbf1bf39e87400c575f57&s=786e07ad2ba44b28b4ec6e0900faf341",
-        "short_url": "http://t.cn/A6Vt80gD",
-        "weibo_url": "https://weibo.com/detail/4639283853660956"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=04b32996f8e4999fb6c7f033d3fe6864&s=fb49389e30f242eb9763681c071596eb",
         "short_url": "http://t.cn/A6V58Kdk",
         "weibo_url": "https://weibo.com/detail/4639020920868240"
@@ -110,6 +118,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=898ad70a796fc21376af376eb9b3865a&s=e42358c993994b0baf404c0d81b76682",
         "short_url": "http://t.cn/A6VqQI7a",
         "weibo_url": "https://weibo.com/detail/4638728821145891"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b9d7b2ac33acbf1bf39e87400c575f57&s=786e07ad2ba44b28b4ec6e0900faf341",
+        "short_url": "http://t.cn/A6Vt80gD",
+        "weibo_url": "https://weibo.com/detail/4639283853660956"
     },
     {
         "artist": "张哲瀚",
