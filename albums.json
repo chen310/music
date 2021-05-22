@@ -947,14 +947,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=02b8149c81e79c0e2857bfb993db2cda&s=83dff87c493e4782bc72cbf0095e7b0f",
-        "short_url": "http://t.cn/A6VcXLWb",
-        "weibo_url": "https://weibo.com/detail/4639432982401928"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=28eb8b01ba01e4b925b3ec78bded0a44&s=b6cda1799789422f83b7999458ae1418",
         "short_url": "http://t.cn/A6VcVpTR",
         "weibo_url": "https://weibo.com/detail/4639418059329626"
@@ -1022,6 +1014,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d5ebae315aaeb916e4ae0c22c5a88333&s=e84caec949ba49cab71130d603e5000a",
         "short_url": "http://t.cn/A6VctvS8",
         "weibo_url": "https://weibo.com/detail/4639413311113383"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=02b8149c81e79c0e2857bfb993db2cda&s=83dff87c493e4782bc72cbf0095e7b0f",
+        "short_url": "http://t.cn/A6VcXLWb",
+        "weibo_url": "https://weibo.com/detail/4639432982401928"
     },
     {
         "artist": "张哲瀚",
@@ -1291,17 +1291,17 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c49b0506ab80cafb8198054809b79c2e&s=1be87afca292462293c8e4e622df7c46",
-        "short_url": "http://t.cn/A6V5reec",
-        "weibo_url": "https://weibo.com/detail/4639053843273704"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=022f5e0ba81c2f468e697daf7d1e367c&s=0425fef8e75b4cab9e20b08918e94d84",
+        "short_url": "http://t.cn/A6V536Fd",
+        "weibo_url": "https://weibo.com/detail/4639045223714717"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=022f5e0ba81c2f468e697daf7d1e367c&s=0425fef8e75b4cab9e20b08918e94d84",
-        "short_url": "http://t.cn/A6V536Fd",
-        "weibo_url": "https://weibo.com/detail/4639045223714717"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c49b0506ab80cafb8198054809b79c2e&s=1be87afca292462293c8e4e622df7c46",
+        "short_url": "http://t.cn/A6V5reec",
+        "weibo_url": "https://weibo.com/detail/4639053843273704"
     },
     {
         "artist": "李润祺",
