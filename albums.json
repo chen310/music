@@ -411,14 +411,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=44082b0951e5624e409520545958839d&s=3bc7284a016a4640a5daa07d52fef81d",
-        "short_url": "http://t.cn/A6VcqwXO",
-        "weibo_url": "https://weibo.com/detail/4639408672739997"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d8a2eb0440d1e3910a7d41f037163c4f&s=0f92828f99b74517bc2feee016ab5578",
         "short_url": "http://t.cn/A6VcbYsS",
         "weibo_url": "https://weibo.com/detail/4639403043720093"
@@ -430,6 +422,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2263301f108146d49a4592c216ae7d92&s=37165f1afd85428db9f383563f7115e4",
         "short_url": "http://t.cn/A6VcqxoS",
         "weibo_url": "https://weibo.com/detail/4639409372141290"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=44082b0951e5624e409520545958839d&s=3bc7284a016a4640a5daa07d52fef81d",
+        "short_url": "http://t.cn/A6VcqwXO",
+        "weibo_url": "https://weibo.com/detail/4639408672739997"
     },
     {
         "artist": "张哲瀚",
