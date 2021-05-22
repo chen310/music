@@ -1059,25 +1059,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1d01152d47214c54cf2ab45e7507293b&s=b26be404309743049ad8f34333a2c045",
-        "short_url": "http://t.cn/A6VcVz9S",
-        "weibo_url": "https://weibo.com/detail/4639420378514073"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=94a01a90bd65fc6682c64adefda0b9a6&s=aba10e88d5504ae0bc92a36d909db19c",
-        "short_url": "http://t.cn/A6Vcqzye",
-        "weibo_url": "https://weibo.com/detail/4639408168373441"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c7c7798dcebd30811b42a86466c5b437&s=2f983bb734eb4860ab0e88ed3accf98c",
         "short_url": "http://t.cn/A6Vcbnhl",
         "weibo_url": "https://weibo.com/detail/4639403387914954"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1d01152d47214c54cf2ab45e7507293b&s=b26be404309743049ad8f34333a2c045",
+        "short_url": "http://t.cn/A6VcVz9S",
+        "weibo_url": "https://weibo.com/detail/4639420378514073"
     },
     {
         "artist": "张哲瀚",
@@ -1118,6 +1110,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7c9cd603a4707f60bf6ddc5c3fb3f2cd&s=04393e7b71504cf5b3a8a18d581cd650",
         "short_url": "http://t.cn/A6VciWMI",
         "weibo_url": "https://weibo.com/detail/4639429346464713"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=94a01a90bd65fc6682c64adefda0b9a6&s=aba10e88d5504ae0bc92a36d909db19c",
+        "short_url": "http://t.cn/A6Vcqzye",
+        "weibo_url": "https://weibo.com/detail/4639408168373441"
     },
     {
         "artist": "张哲瀚",
