@@ -1,5 +1,21 @@
 [
     {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=51c93427592b65556a90b97d54e8469a&s=f3b248a8c4e84a169466b7e46c0ee182",
+        "short_url": "http://t.cn/A6Vi0N4o",
+        "weibo_url": "https://weibo.com/detail/4641216878351952"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=acbc79338c2093067794c6977012176b&s=f1be467474f143af8d70302b9a647352",
+        "short_url": "http://t.cn/A6Vi0KgW",
+        "weibo_url": "https://weibo.com/detail/4641214885791626"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
