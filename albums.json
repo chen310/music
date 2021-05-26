@@ -8,14 +8,6 @@
         "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
-        "artist": "IU",
-        "name": "에잇",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5cb28b8618af61442ebbc692a1df8630&s=5cb3bcd1aee44830afa1a5100e841d86",
-        "short_url": "http://t.cn/A6Vi4sut",
-        "weibo_url": "https://weibo.com/detail/4641122893433324"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -102,6 +94,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7cee00d4e0e576e14d2c6252e3976455&s=01056afb071a40c787678c31e6f2bd80",
         "short_url": "http://t.cn/A6VxkiIv",
         "weibo_url": "https://weibo.com/detail/4640831208425373"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a8fc8570e5bd43cd25171d0602c2f4b6&s=7f8971a64d0e412398710ced32148c97",
+        "short_url": "http://t.cn/A6VibTue",
+        "weibo_url": "https://weibo.com/detail/4641125543708212"
     },
     {
         "artist": "张哲瀚",
