@@ -75,25 +75,9 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c41c609918122eb4596d3ac8792e9e18&s=1a0dfa84f0834ade9555f199ed063385",
-        "short_url": "http://t.cn/A6Viulkj",
-        "weibo_url": "https://weibo.com/detail/4641245151892931"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=785e87c656fe739e50d7388b90c6f7b4&s=ff17b1ab039047bc8d3d7f34c863f254",
         "short_url": "http://t.cn/A6VimsBi",
         "weibo_url": "https://weibo.com/detail/4641244367816629"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4c79ceb1d5c3eb0e55a935fe0584df5e&s=64ec33e3bdba4ceabe66654e198dbffe",
-        "short_url": "http://t.cn/A6ViuTm9",
-        "weibo_url": "https://weibo.com/detail/4641245240757414"
     },
     {
         "artist": "吴宣仪",
@@ -118,6 +102,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a6c094cacdba571d668226c64076624c&s=168fdb8d17284978b7d2977f3420a061",
         "short_url": "http://t.cn/A6V6MoXg",
         "weibo_url": "https://weibo.com/detail/4641385510866328"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c41c609918122eb4596d3ac8792e9e18&s=1a0dfa84f0834ade9555f199ed063385",
+        "short_url": "http://t.cn/A6Viulkj",
+        "weibo_url": "https://weibo.com/detail/4641245151892931"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4c79ceb1d5c3eb0e55a935fe0584df5e&s=64ec33e3bdba4ceabe66654e198dbffe",
+        "short_url": "http://t.cn/A6ViuTm9",
+        "weibo_url": "https://weibo.com/detail/4641245240757414"
     },
     {
         "artist": "孟美岐",
@@ -270,6 +270,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=efc51c2267d097480620fc6284829df2&s=f4eb659a8d2543b989b7903030a54271",
         "short_url": "http://t.cn/A6Vi2Anl",
         "weibo_url": "https://weibo.com/detail/4641103913421209"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9354a40fac4eedb42c35b2c93272fd48&s=48143d77fdcd4bbfbbbe676b455136a2",
+        "short_url": "http://t.cn/A6V66Ca2",
+        "weibo_url": "https://weibo.com/detail/4641399893658574"
     },
     {
         "artist": "黄明昊 (Justin)",
