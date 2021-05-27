@@ -35,14 +35,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5a07a3a1d17f1c2105d8865e80bae166&s=7990f83ac7c64337a7763c8880bac888",
-        "short_url": "http://t.cn/A6V6JIs0",
-        "weibo_url": "https://weibo.com/detail/4641392230142078"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=246620ac9858a4a2fa901290d575ed6f&s=5ac4dc51e0a6490aaeccdb8f6ac1065c",
         "short_url": "http://t.cn/A6Vi3hLa",
         "weibo_url": "https://weibo.com/detail/4641245857582385"
@@ -59,17 +51,17 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=aa51e970587a7e9ce3185f60335aae88&s=bc67b62efbe0489ba1271bdad370b248",
-        "short_url": "http://t.cn/A6Vi3gAQ",
-        "weibo_url": "https://weibo.com/detail/4641247396105256"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5a07a3a1d17f1c2105d8865e80bae166&s=7990f83ac7c64337a7763c8880bac888",
+        "short_url": "http://t.cn/A6V6JIs0",
+        "weibo_url": "https://weibo.com/detail/4641392230142078"
     },
     {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=40429e7b2d8eda3a9af8409c66c3796d&s=79eb5de326764068bcf61a9cbfeadecc",
-        "short_url": "http://t.cn/A6V6bZoM",
-        "weibo_url": "https://weibo.com/detail/4641352195506871"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=aa51e970587a7e9ce3185f60335aae88&s=bc67b62efbe0489ba1271bdad370b248",
+        "short_url": "http://t.cn/A6Vi3gAQ",
+        "weibo_url": "https://weibo.com/detail/4641247396105256"
     },
     {
         "artist": "吴宣仪",
@@ -86,6 +78,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a6c094cacdba571d668226c64076624c&s=168fdb8d17284978b7d2977f3420a061",
         "short_url": "http://t.cn/A6V6MoXg",
         "weibo_url": "https://weibo.com/detail/4641385510866328"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=40429e7b2d8eda3a9af8409c66c3796d&s=79eb5de326764068bcf61a9cbfeadecc",
+        "short_url": "http://t.cn/A6V6bZoM",
+        "weibo_url": "https://weibo.com/detail/4641352195506871"
     },
     {
         "artist": "孟美岐",
@@ -222,6 +222,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=efc51c2267d097480620fc6284829df2&s=f4eb659a8d2543b989b7903030a54271",
         "short_url": "http://t.cn/A6Vi2Anl",
         "weibo_url": "https://weibo.com/detail/4641103913421209"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=05364da9a75c38aea3ee1b15462b0f36&s=dc9dbe8f711149b4b6d4cd6cac457f74",
+        "short_url": "http://t.cn/A6V6Knmt",
+        "weibo_url": "https://weibo.com/detail/4641418373499986"
     },
     {
         "artist": "范丞丞",
