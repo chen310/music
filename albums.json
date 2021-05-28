@@ -1,5 +1,13 @@
 [
     {
+        "artist": "BTS (防弹少年团)",
+        "name": "Butter",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7d82689c5523f6ca36ebae7d17f28060&s=3929ad0f494149e394c97b0977dca794",
+        "short_url": "http://t.cn/A6VaT8Bo",
+        "weibo_url": "https://weibo.com/detail/4641930548089840"
+    },
+    {
         "artist": "华晨宇",
         "name": "好想爱这个世界啊",
         "type": "album",
@@ -166,14 +174,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=516e80d90700d666ce5475d70b739162&s=24ba13d2619840668f29de5d4d4271c6",
         "short_url": "http://t.cn/A6Va7lCf",
         "weibo_url": "https://weibo.com/detail/4641778428545387"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a2272933fddeb4b57b5b18dcc7e9099b&s=ff19df64c93b48419d99c46b7ac1d402",
-        "short_url": "http://t.cn/A6ViCPNb",
-        "weibo_url": "https://weibo.com/detail/4641202143759243"
     },
     {
         "artist": "张哲瀚",
