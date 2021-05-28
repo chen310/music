@@ -83,6 +83,14 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=13800ac38551e62a465b98f42b47f958&s=fa5a0d52204240b7bfd5ce77fd48254a",
+        "short_url": "http://t.cn/A6VavqdU",
+        "weibo_url": "https://weibo.com/detail/4641767393069636"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=51c93427592b65556a90b97d54e8469a&s=f3b248a8c4e84a169466b7e46c0ee182",
         "short_url": "http://t.cn/A6Vi0N4o",
         "weibo_url": "https://weibo.com/detail/4641216878351952"
@@ -118,6 +126,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a1e8435cf16323732fd06245c852c9d9&s=acfb4abe58864cd089a57ec0d5b441cf",
         "short_url": "http://t.cn/A6Vieinv",
         "weibo_url": "https://weibo.com/detail/4641259392338316"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "光",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a3af01556b15a98b22bfd971cf39c20c&s=0eba6e1ab26848ab8dba5af332a55766",
+        "short_url": "http://t.cn/A6VaOSB1",
+        "weibo_url": "https://weibo.com/detail/4641910285403391"
     },
     {
         "artist": "张哲瀚",
@@ -168,6 +184,14 @@
         "weibo_url": "https://weibo.com/detail/4641891347333675"
     },
     {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=89b07c5b18270a7b9ec4593426c54bee&s=064f203d48d043e2921ac540c5ef9a8f",
+        "short_url": "http://t.cn/A6VaOxZ5",
+        "weibo_url": "https://weibo.com/detail/4641909837138740"
+    },
+    {
         "artist": "王一博",
         "name": "我的世界守则",
         "type": "album",
@@ -182,13 +206,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=1aa5366167f3db99244405b338c989eb&s=f1c350c18b1c41aa972ab9546e4febad",
         "short_url": "http://t.cn/A6V6KfKj",
         "weibo_url": "https://weibo.com/detail/4641416825801956"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1f82560c28e0b5d2604aa9669c7cdd63&s=0cc0f8a052fc43a893d2e864eee97215",
-        "short_url": "http://t.cn/A6ViaJoH",
-        "weibo_url": "https://weibo.com/detail/4641184015977314"
     }
 ]
