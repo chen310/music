@@ -67,14 +67,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a6c094cacdba571d668226c64076624c&s=168fdb8d17284978b7d2977f3420a061",
-        "short_url": "http://t.cn/A6V6MoXg",
-        "weibo_url": "https://weibo.com/detail/4641385510866328"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=31d009f42bb204a0c4ba6d6bc7fcab19&s=61a104f5390b4affb8225e38355b51fc",
         "short_url": "http://t.cn/A6VavBbZ",
         "weibo_url": "https://weibo.com/detail/4641769302002109"
@@ -158,5 +150,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=1aa5366167f3db99244405b338c989eb&s=f1c350c18b1c41aa972ab9546e4febad",
         "short_url": "http://t.cn/A6V6KfKj",
         "weibo_url": "https://weibo.com/detail/4641416825801956"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b35d8a98e31e725e11d4d7ee177117df&s=3c5cb619e2d94e4b8ed115d652fdc372",
+        "short_url": "http://t.cn/A6VSSoA7",
+        "weibo_url": "https://weibo.com/detail/4642110223681712"
     }
 ]
