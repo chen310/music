@@ -51,14 +51,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0d7b0a491896df855d88a2741fa94619&s=5932b47a5c39493dbc2243bdea5b0a11",
-        "short_url": "http://t.cn/A6V6XEaz",
-        "weibo_url": "https://weibo.com/detail/4641768576385120"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=31d009f42bb204a0c4ba6d6bc7fcab19&s=61a104f5390b4affb8225e38355b51fc",
         "short_url": "http://t.cn/A6VavBbZ",
         "weibo_url": "https://weibo.com/detail/4641769302002109"
@@ -86,6 +78,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d9d6f5e5aadce20a32eb332e718a3a30&s=f8830846c13f43e0bc0485e31af45c50",
         "short_url": "http://t.cn/A6VaKLXg",
         "weibo_url": "https://weibo.com/detail/4641885514105247"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=26ca6047de63e41088ee7482cdd8dbcd&s=732435cfb5574571a10a4fa288d3b2b7",
+        "short_url": "http://t.cn/A6VSCBoM",
+        "weibo_url": "https://weibo.com/detail/4642125159073148"
     },
     {
         "artist": "张哲瀚",
@@ -147,9 +147,9 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=01719fb88688528b2ee2e1fdf2335dc5&s=0f26c6514e9b49e7a120111805c88b50",
-        "short_url": "http://t.cn/A6VSSEga",
-        "weibo_url": "https://weibo.com/detail/4642111267801062"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2a61e4f021432ea32b618fe38cb636a7&s=c995be7f7e234ba8adafd1b2e467287b",
+        "short_url": "http://t.cn/A6VS9E6P",
+        "weibo_url": "https://weibo.com/detail/4642121698509448"
     },
     {
         "artist": "鞠婧祎",
@@ -166,6 +166,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ed652d52eb8067afebab5cf09a050b99&s=bfa54c16f8e84f3c928cdfd6909feb5f",
         "short_url": "http://t.cn/A6VSonQi",
         "weibo_url": "https://weibo.com/detail/4642115072820193"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=01719fb88688528b2ee2e1fdf2335dc5&s=0f26c6514e9b49e7a120111805c88b50",
+        "short_url": "http://t.cn/A6VSSEga",
+        "weibo_url": "https://weibo.com/detail/4642111267801062"
     },
     {
         "artist": "鞠婧祎",
