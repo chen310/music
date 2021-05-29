@@ -123,14 +123,6 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6deef91cba75f096cebfb49bbaec4d22&s=f027978f11ae408fa44015af14afc9cb",
-        "short_url": "http://t.cn/A6VSom6e",
-        "weibo_url": "https://weibo.com/detail/4642115109523737"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c4b7c6fe87ba2e3c5a06184c1c2f5598&s=7558faa2226746279af9058d90588ce5",
         "short_url": "http://t.cn/A6VSOQNQ",
         "weibo_url": "https://weibo.com/detail/4642137843698138"
@@ -158,5 +150,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2a61e4f021432ea32b618fe38cb636a7&s=c995be7f7e234ba8adafd1b2e467287b",
         "short_url": "http://t.cn/A6VS9E6P",
         "weibo_url": "https://weibo.com/detail/4642121698509448"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6deef91cba75f096cebfb49bbaec4d22&s=f027978f11ae408fa44015af14afc9cb",
+        "short_url": "http://t.cn/A6VSom6e",
+        "weibo_url": "https://weibo.com/detail/4642115109523737"
     }
 ]
