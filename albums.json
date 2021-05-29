@@ -1,13 +1,5 @@
 [
     {
-        "artist": "BTS (防弹少年团)",
-        "name": "Butter",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=39a961a31c06421068362105be35c0db&s=08ace54735b54422bca311d56135b40b",
-        "short_url": "http://t.cn/A6VoAYhR",
-        "weibo_url": "https://weibo.com/detail/4642267153828241"
-    },
-    {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
@@ -94,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a66f04a4178d684006d26d0e25220a51&s=48e5cd3f4cc54fd39e78690793f444c7",
         "short_url": "http://t.cn/A6Va8SBS",
         "weibo_url": "https://weibo.com/detail/4641953181075979"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b8c3d9810ecbe4e0ffc3642ed523dc0b&s=333216af5d1c4c4793c6c3295f5bfb4b",
+        "short_url": "http://t.cn/A6VoylXj",
+        "weibo_url": "https://weibo.com/detail/4642279128566639"
     },
     {
         "artist": "李润祺",
