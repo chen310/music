@@ -147,14 +147,6 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=01719fb88688528b2ee2e1fdf2335dc5&s=0f26c6514e9b49e7a120111805c88b50",
-        "short_url": "http://t.cn/A6VSSEga",
-        "weibo_url": "https://weibo.com/detail/4642111267801062"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=2a61e4f021432ea32b618fe38cb636a7&s=c995be7f7e234ba8adafd1b2e467287b",
         "short_url": "http://t.cn/A6VS9E6P",
         "weibo_url": "https://weibo.com/detail/4642121698509448"
@@ -182,5 +174,21 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ed652d52eb8067afebab5cf09a050b99&s=bfa54c16f8e84f3c928cdfd6909feb5f",
         "short_url": "http://t.cn/A6VSonQi",
         "weibo_url": "https://weibo.com/detail/4642115072820193"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=01719fb88688528b2ee2e1fdf2335dc5&s=0f26c6514e9b49e7a120111805c88b50",
+        "short_url": "http://t.cn/A6VSSEga",
+        "weibo_url": "https://weibo.com/detail/4642111267801062"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e9402e3ad4a7d7756ced8bc7888edec5&s=339580dad10c4f15adc8888db4616e35",
+        "short_url": "http://t.cn/A6V9vBHm",
+        "weibo_url": "https://weibo.com/detail/4642676727875048"
     }
 ]
