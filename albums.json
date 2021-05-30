@@ -91,6 +91,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1412958228f3112b113b390828340832&s=1bd0551e20d541ae81f9afff9f908213",
+        "short_url": "http://t.cn/A6V9ZoHi",
+        "weibo_url": "https://weibo.com/detail/4642685488468737"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b8c3d9810ecbe4e0ffc3642ed523dc0b&s=333216af5d1c4c4793c6c3295f5bfb4b",
         "short_url": "http://t.cn/A6VoylXj",
         "weibo_url": "https://weibo.com/detail/4642279128566639"
@@ -102,14 +110,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=eaba61184bdd575090e0e3283ba359c2&s=587fc06a99f647d3b0f6e5622cf232c7",
         "short_url": "http://t.cn/A6VS7gCt",
         "weibo_url": "https://weibo.com/detail/4641980812363183"
-    },
-    {
-        "artist": "王一博",
-        "name": "我的世界守则",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3b2ffa0a6ca98d1e8280461ce74d29b9&s=9f281c1afb8a421e85d420e105e49120",
-        "short_url": "http://t.cn/A6VSRpj4",
-        "weibo_url": "https://weibo.com/detail/4642174433496372"
     },
     {
         "artist": "王一博",
@@ -131,17 +131,17 @@
         "artist": "王一博",
         "name": "无感",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=34eeac84c36a5185e9d5eacc7c6d0ec5&s=51ab3ea228e944de9e9b57e7359f0cf4",
-        "short_url": "http://t.cn/A6VSRcC0",
-        "weibo_url": "https://weibo.com/detail/4642174433496372"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ffea062516d90bda00f9ac88f0be0016&s=8da5ae31313d426dba57565d21b16074",
+        "short_url": "http://t.cn/A6VohEih",
+        "weibo_url": "https://weibo.com/detail/4642246966906351"
     },
     {
         "artist": "王一博",
         "name": "无感",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ffea062516d90bda00f9ac88f0be0016&s=8da5ae31313d426dba57565d21b16074",
-        "short_url": "http://t.cn/A6VohEih",
-        "weibo_url": "https://weibo.com/detail/4642246966906351"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=34eeac84c36a5185e9d5eacc7c6d0ec5&s=51ab3ea228e944de9e9b57e7359f0cf4",
+        "short_url": "http://t.cn/A6VSRcC0",
+        "weibo_url": "https://weibo.com/detail/4642174433496372"
     },
     {
         "artist": "鞠婧祎",
