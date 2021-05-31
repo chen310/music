@@ -163,6 +163,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3d7b49ba25dc76a0aa4f8f15f725ad45&s=478993b66c6d455db4b470351cc01a16",
+        "short_url": "http://t.cn/A6VCV4AB",
+        "weibo_url": "https://weibo.com/detail/4642973167389560"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9ced0baec345b0f042415e2c84282a2a&s=1b7b39496e7245d79ed3bdd37fb9a5a2",
         "short_url": "http://t.cn/A6VC4JEc",
         "weibo_url": "https://weibo.com/detail/4642947557754729"
@@ -254,14 +262,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7fb50f93b2a89a22c3d746ca7f1da189&s=fe78808e024d46c98d149c16be3237c3",
         "short_url": "http://t.cn/A6VCPQSR",
         "weibo_url": "https://weibo.com/detail/4642908944991409"
-    },
-    {
-        "artist": "王一博",
-        "name": "无感",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ffea062516d90bda00f9ac88f0be0016&s=8da5ae31313d426dba57565d21b16074",
-        "short_url": "http://t.cn/A6VohEih",
-        "weibo_url": "https://weibo.com/detail/4642246966906351"
     },
     {
         "artist": "黄明昊 (Justin)",
