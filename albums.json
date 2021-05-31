@@ -1,13 +1,5 @@
 [
     {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=bb46ddba893122adfdc3657f8f551689&s=978cbd96ab464e2eb1d068dc0eef013d",
-        "short_url": "http://t.cn/A6VoMtfu",
-        "weibo_url": "https://weibo.com/detail/4642316369271495"
-    },
-    {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
@@ -86,6 +78,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7510bc63d2f30fd0c8032419fc8d7b35&s=1816159aa68a486d8141466290cc71e7",
         "short_url": "http://t.cn/A6V9nQI2",
         "weibo_url": "https://weibo.com/detail/4642856206074576"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=792c5e58ab1f9656ff798a95680adef2&s=427176f1e8e34fdb9c35d7092264a1c1",
+        "short_url": "http://t.cn/A6VCYhTa",
+        "weibo_url": "https://weibo.com/detail/4643041094403597"
     },
     {
         "artist": "张哲瀚",
@@ -286,6 +286,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b11245aa30b5e55c2fedf1bdba896230&s=62d69815d636421c91fb2b2132c8d99b",
         "short_url": "http://t.cn/A6VC4hvR",
         "weibo_url": "https://weibo.com/detail/4642946194605511"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=de868f886e6db0019d3a1085e6841a87&s=d89787a1a94d4ae391307a4d572f8bff",
+        "short_url": "http://t.cn/A6VCYMnS",
+        "weibo_url": "https://weibo.com/detail/4643041649101903"
     },
     {
         "artist": "毕雯珺",
