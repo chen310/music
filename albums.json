@@ -267,6 +267,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f5db1d31e082d9aa8f0d6b4c2fe09c6d&s=ace387f36b834e85b61297b46b031795",
+        "short_url": "http://t.cn/A6VN9fBq",
+        "weibo_url": "https://weibo.com/detail/4643223542173832"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=3bfc8fc409d72b269fe9503f5ea9af69&s=9b10d23c2d4e4e44ac032765019c3477",
         "short_url": "http://t.cn/A6VC6RCu",
         "weibo_url": "https://weibo.com/detail/4642999185707489"
@@ -302,6 +310,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7fb50f93b2a89a22c3d746ca7f1da189&s=fe78808e024d46c98d149c16be3237c3",
         "short_url": "http://t.cn/A6VCPQSR",
         "weibo_url": "https://weibo.com/detail/4643059562709507"
+    },
+    {
+        "artist": "赵天宇",
+        "name": "无惑",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=8bf697de66397f0abbd56e8a55d3df80&s=b28e32778f8348ab9701405948c2f305",
+        "short_url": "http://t.cn/A6VNCcLi",
+        "weibo_url": "https://weibo.com/detail/4643227079019554"
     },
     {
         "artist": "黄明昊 (Justin)",
