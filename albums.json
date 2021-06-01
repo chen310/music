@@ -91,17 +91,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ef34e9c2935635917fbdfd5f0bd9abc2&s=0faa415cf7074130bc1def1f36b0a479",
-        "short_url": "http://t.cn/A6VCIKY0",
-        "weibo_url": "https://weibo.com/detail/4642979652045218"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e1d24e0c44f53e804c18aedff90ceb46&s=77c393e7e6db47a09066834986b965a1",
+        "short_url": "http://t.cn/A6VCzsvS",
+        "weibo_url": "https://weibo.com/detail/4642920936247201"
     },
     {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e1d24e0c44f53e804c18aedff90ceb46&s=77c393e7e6db47a09066834986b965a1",
-        "short_url": "http://t.cn/A6VCzsvS",
-        "weibo_url": "https://weibo.com/detail/4642920936247201"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ef34e9c2935635917fbdfd5f0bd9abc2&s=0faa415cf7074130bc1def1f36b0a479",
+        "short_url": "http://t.cn/A6VCIKY0",
+        "weibo_url": "https://weibo.com/detail/4642979652045218"
     },
     {
         "artist": "张哲瀚",
@@ -158,6 +158,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=4dc8e4719a90cd12bc6d5569cd26abf0&s=774bc839d558441bac224e33877d3fb6",
         "short_url": "http://t.cn/A6VCCFzv",
         "weibo_url": "https://weibo.com/detail/4643023373469368"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dac09ce061675eab1f456200dce9786c&s=3df1bafd23504c5692aef222f6aab936",
+        "short_url": "http://t.cn/A6VN0jCL",
+        "weibo_url": "https://weibo.com/detail/4643237657052001"
     },
     {
         "artist": "李润祺",
@@ -326,14 +334,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7fb50f93b2a89a22c3d746ca7f1da189&s=fe78808e024d46c98d149c16be3237c3",
         "short_url": "http://t.cn/A6VCPQSR",
         "weibo_url": "https://weibo.com/detail/4643059562709507"
-    },
-    {
-        "artist": "赵天宇",
-        "name": "无惑",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=8bf697de66397f0abbd56e8a55d3df80&s=b28e32778f8348ab9701405948c2f305",
-        "short_url": "http://t.cn/A6VNCcLi",
-        "weibo_url": "https://weibo.com/detail/4643227079019554"
     },
     {
         "artist": "黄明昊 (Justin)",
