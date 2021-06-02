@@ -1,13 +1,5 @@
 [
     {
-        "artist": "华晨宇",
-        "name": "好想爱这个世界啊",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=776b06a14e3e994fcc6d8a8ac5975a67&s=3f676c6f27674d388bdf54b705b09465",
-        "short_url": "http://t.cn/A6V0aO84",
-        "weibo_url": "https://weibo.com/detail/4643656151072984"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -43,17 +35,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=792c5e58ab1f9656ff798a95680adef2&s=427176f1e8e34fdb9c35d7092264a1c1",
-        "short_url": "http://t.cn/A6VCYhTa",
-        "weibo_url": "https://weibo.com/detail/4643041094403597"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d943d41e9098c0419b6da3e64b6b4458&s=e4874efe0a3948be8852a4a1d8e6f622",
+        "short_url": "http://t.cn/A6VOLLly",
+        "weibo_url": "https://weibo.com/detail/4643751987514300"
     },
     {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4dc8e4719a90cd12bc6d5569cd26abf0&s=774bc839d558441bac224e33877d3fb6",
-        "short_url": "http://t.cn/A6VCCFzv",
-        "weibo_url": "https://weibo.com/detail/4643023373469368"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=792c5e58ab1f9656ff798a95680adef2&s=427176f1e8e34fdb9c35d7092264a1c1",
+        "short_url": "http://t.cn/A6VCYhTa",
+        "weibo_url": "https://weibo.com/detail/4643041094403597"
     },
     {
         "artist": "李润祺",
@@ -118,14 +110,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=c13ffb139854b313e1d72f4f6092693d&s=f54d84af48a14582b21f934cf621d109",
         "short_url": "http://t.cn/A6V0EqCA",
         "weibo_url": "https://weibo.com/detail/4643705896567242"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=aaf86402348c9c448d8cf2424224fa5e&s=91b0aa9606cf4795817d8d281a86cd3f",
-        "short_url": "http://t.cn/A6VCNULd",
-        "weibo_url": "https://weibo.com/detail/4643723760375362"
     },
     {
         "artist": "李润祺",
@@ -238,6 +222,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=adf6c9bcd94a22100f2918011ce5e75c&s=7e1793f394304de58f61c9917f54120c",
         "short_url": "http://t.cn/A6V0KSSy",
         "weibo_url": "https://weibo.com/detail/4643667731811170"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f09b47daaaccdfa6bbef5cc8fc876993&s=23a0968d037e48f28696b78a75e22689",
+        "short_url": "http://t.cn/A6VOLXVd",
+        "weibo_url": "https://weibo.com/detail/4643749688510094"
     },
     {
         "artist": "王一博",
