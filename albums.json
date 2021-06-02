@@ -59,6 +59,22 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=595e7c315b9fa1675ee5d736101757b5&s=11aa38df32584aec85dd9d2d52976d6d",
+        "short_url": "http://t.cn/A6V0kAzd",
+        "weibo_url": "https://weibo.com/detail/4643728055080757"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=108e569298ea8c0de7f6f8aa2f7bce11&s=525a0d270fb84ea48a1cacfa9a3b8bbb",
+        "short_url": "http://t.cn/A6V0FZ1C",
+        "weibo_url": "https://weibo.com/detail/4643729782079527"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a2854a0c418c2ccff510c91adfa0877f&s=6d1f7935e95743b58537c3f55cb97279",
         "short_url": "http://t.cn/A6Vpo0sQ",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
@@ -214,14 +230,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=82663974d3e7f506842ee0fa55f9b1f0&s=530e6295d45f47f7ab28a006833b800a",
         "short_url": "http://t.cn/A6Vp7ATm",
         "weibo_url": "https://weibo.com/detail/4643340517641135"
-    },
-    {
-        "artist": "李润祺",
-        "name": "请杀死我的浪漫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=f15c83d2ad6e7e2045e767991eddd981&s=2bab6dd05c144d438f2d38247f2556a5",
-        "short_url": "http://t.cn/A6V0eUYp",
-        "weibo_url": "https://weibo.com/detail/4643724354650401"
     },
     {
         "artist": "王一博",
