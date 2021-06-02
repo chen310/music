@@ -171,14 +171,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d36fb90f683f74323ad350df0ac1c649&s=98750454af364f84b1379910fe5e5025",
-        "short_url": "http://t.cn/A6VCUfLD",
-        "weibo_url": "https://weibo.com/detail/4642944554370633"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=884008610f1be309e51d6163e41ce7c3&s=81c540e461a74c8bbe2350db2adf7945",
         "short_url": "http://t.cn/A6VCtsgp",
         "weibo_url": "https://weibo.com/detail/4642967132312683"
@@ -249,11 +241,27 @@
     },
     {
         "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=adf6c9bcd94a22100f2918011ce5e75c&s=7e1793f394304de58f61c9917f54120c",
+        "short_url": "http://t.cn/A6V0KSSy",
+        "weibo_url": "https://weibo.com/detail/4643667731811170"
+    },
+    {
+        "artist": "王一博",
         "name": "无感",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=1bf4be6346a342719cc654f4894fbdc4&s=47d90e39cb62449f81b869835587bcd9",
         "short_url": "http://t.cn/A6Vpqmta",
         "weibo_url": "https://weibo.com/detail/4643386919490587"
+    },
+    {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8467260884d30c46e8a97ba3305eddab&s=96989a8bf7a24aae9eaa4db00c1941c8",
+        "short_url": "http://t.cn/A6V0KcO7",
+        "weibo_url": "https://weibo.com/detail/4643666981816267"
     },
     {
         "artist": "范丞丞",
