@@ -107,6 +107,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a6475894d7ab3354edeb3347ee604b63&s=49b2cc5945c042128c9b0c5d9a309000",
+        "short_url": "http://t.cn/A6VO8VCT",
+        "weibo_url": "https://weibo.com/detail/4643797159644018"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d47b60c8a09386e2f9d0815e5f91df9e&s=c257d044876149d2afc80031fb2f2995",
         "short_url": "http://t.cn/A6VpMAGq",
         "weibo_url": "https://weibo.com/detail/4643403247650642"
@@ -123,14 +131,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c5e0368c2fcf4920ba5b6bddd857e03a&s=df4ff5fcbb57456297c1c44e13d95fc3",
-        "short_url": "http://t.cn/A6V0R43h",
-        "weibo_url": "https://weibo.com/detail/4643703900343654"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f5db1d31e082d9aa8f0d6b4c2fe09c6d&s=ace387f36b834e85b61297b46b031795",
         "short_url": "http://t.cn/A6VN9fBq",
         "weibo_url": "https://weibo.com/detail/4643223542173832"
@@ -142,6 +142,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=1b743b12498202e28732a8c04cbccfdb&s=3f7dbc0faa684c8599a2867c3b88e2eb",
         "short_url": "http://t.cn/A6VpJ9Xt",
         "weibo_url": "https://weibo.com/detail/4643407492290161"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c5e0368c2fcf4920ba5b6bddd857e03a&s=df4ff5fcbb57456297c1c44e13d95fc3",
+        "short_url": "http://t.cn/A6V0R43h",
+        "weibo_url": "https://weibo.com/detail/4643703900343654"
     },
     {
         "artist": "李润祺",
