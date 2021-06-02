@@ -1,27 +1,11 @@
 [
     {
-        "artist": "BTS (防弹少年团)",
-        "name": "Butter",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=43e9ff2aef93624ca67ed7302e2b37c0&s=0c8d117c93ca4bc4b2f143a924f12e55",
-        "short_url": "http://t.cn/A6V0rRGH",
-        "weibo_url": "https://weibo.com/detail/4643720715046963"
-    },
-    {
         "artist": "华晨宇",
         "name": "好想爱这个世界啊",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=776b06a14e3e994fcc6d8a8ac5975a67&s=3f676c6f27674d388bdf54b705b09465",
         "short_url": "http://t.cn/A6V0aO84",
         "weibo_url": "https://weibo.com/detail/4643656151072984"
-    },
-    {
-        "artist": "周深",
-        "name": "大鱼 (唱片版)",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=912339095b3782abb3aa63539a03cdbd&s=6115591e8a1d4ac28a1764d4e45b3449",
-        "short_url": "http://t.cn/A6V0QPn1",
-        "weibo_url": "https://weibo.com/detail/4643699671436062"
     },
     {
         "artist": "张哲瀚",
@@ -91,22 +75,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c9bdcd5ae7691fdc6a0328552619d18d&s=bb2bcb2dff3549dbbefc12d0e7b05628",
-        "short_url": "http://t.cn/A6VC6lKT",
-        "weibo_url": "https://weibo.com/detail/4642998741369492"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=02ab87dad7b0694ca520659168ad84d0&s=84cc63aec7a044fe932d6d4191c3bb1c",
-        "short_url": "http://t.cn/A6VC6pNV",
-        "weibo_url": "https://weibo.com/detail/4642998468481290"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=08c0090c226bf47b47bf317843161f19&s=13d1f217e045481186ff3846402ef567",
         "short_url": "http://t.cn/A6V0QJaG",
         "weibo_url": "https://weibo.com/detail/4643700347767511"
@@ -131,14 +99,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7bf3d0485b09d18de71338b4f92010ea&s=bf36cbb332da4a11b3a7bb6f5c5be445",
-        "short_url": "http://t.cn/A6VC6nl3",
-        "weibo_url": "https://weibo.com/detail/4642999331459247"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c13ffb139854b313e1d72f4f6092693d&s=f54d84af48a14582b21f934cf621d109",
         "short_url": "http://t.cn/A6V0EqCA",
         "weibo_url": "https://weibo.com/detail/4643705896567242"
@@ -149,7 +109,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=aaf86402348c9c448d8cf2424224fa5e&s=91b0aa9606cf4795817d8d281a86cd3f",
         "short_url": "http://t.cn/A6VCNULd",
-        "weibo_url": "https://weibo.com/detail/4643024040107186"
+        "weibo_url": "https://weibo.com/detail/4643723760375362"
     },
     {
         "artist": "李润祺",
@@ -219,14 +179,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3bfc8fc409d72b269fe9503f5ea9af69&s=9b10d23c2d4e4e44ac032765019c3477",
-        "short_url": "http://t.cn/A6VC6RCu",
-        "weibo_url": "https://weibo.com/detail/4642999185707489"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9c2037ff11021fa23f28484237d4d89a&s=25b36996540444499b0036ec0c6ef5ab",
         "short_url": "http://t.cn/A6Vp5ci8",
         "weibo_url": "https://weibo.com/detail/4643388580695922"
@@ -262,6 +214,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=82663974d3e7f506842ee0fa55f9b1f0&s=530e6295d45f47f7ab28a006833b800a",
         "short_url": "http://t.cn/A6Vp7ATm",
         "weibo_url": "https://weibo.com/detail/4643340517641135"
+    },
+    {
+        "artist": "李润祺",
+        "name": "请杀死我的浪漫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=f15c83d2ad6e7e2045e767991eddd981&s=2bab6dd05c144d438f2d38247f2556a5",
+        "short_url": "http://t.cn/A6V0eUYp",
+        "weibo_url": "https://weibo.com/detail/4643724354650401"
     },
     {
         "artist": "王一博",
