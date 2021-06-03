@@ -75,6 +75,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d8af1db5829d89e4962d345b86dcae66&s=53c186ca13dc48789a02b890ff21efd3",
+        "short_url": "http://t.cn/A6VWpPmV",
+        "weibo_url": "https://weibo.com/detail/4643927674587535"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=08c0090c226bf47b47bf317843161f19&s=13d1f217e045481186ff3846402ef567",
         "short_url": "http://t.cn/A6V0QJaG",
         "weibo_url": "https://weibo.com/detail/4643700347767511"
@@ -278,6 +286,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e7879d6789b98402502c10df6e117447&s=de5b1bf00d214cd3acb25c3e969245b5",
         "short_url": "http://t.cn/A6VNkGyg",
         "weibo_url": "https://weibo.com/detail/4643318023326304"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d38546980588e0eb2a0feafc8fa7525a&s=e1c03cc4c77b4e62849cf807e9ea2f1e",
+        "short_url": "http://t.cn/A6VWNX9L",
+        "weibo_url": "https://weibo.com/detail/4643925526056266"
     },
     {
         "artist": "范丞丞",
