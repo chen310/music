@@ -1,5 +1,13 @@
 [
     {
+        "artist": "TOMORROW X TOGETHER/Seori",
+        "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=afb58a7768c22cfeff07ea58ee1c66a5&s=16eaa69c776d4e5fa87c7a8540526130",
+        "short_url": "http://t.cn/A6VWus1p",
+        "weibo_url": "https://weibo.com/detail/4643982732689768"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -270,6 +278,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=863b307bc3878eaf89101cfea2a6bbf4&s=76f49e1646c04494b3394c07cd574dec",
         "short_url": "http://t.cn/A6VOA0iM",
         "weibo_url": "https://weibo.com/detail/4643746303706290"
+    },
+    {
+        "artist": "李润祺",
+        "name": "请杀死我的浪漫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=039468ee5bff287770f9d50e5aa24423&s=b79ad2db664a44bc8fe78e7fec6f45a5",
+        "short_url": "http://t.cn/A6VW3M1n",
+        "weibo_url": "https://weibo.com/detail/4643984091124615"
     },
     {
         "artist": "王一博",
