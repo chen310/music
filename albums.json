@@ -1,5 +1,13 @@
 [
     {
+        "artist": "BTS (防弹少年团)",
+        "name": "Butter",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ca48831a6fde0d5c6ab395ce0ee7479c&s=df11e95b45d74732a17ce1915060e7c1",
+        "short_url": "http://t.cn/A6VlVhVK",
+        "weibo_url": "https://weibo.com/detail/4644099728081711"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -395,17 +403,17 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=262d8f309e1f09bd2e2c553bc9a0ef73&s=f6f0ac1065364a73bf5fc9de5a772719",
-        "short_url": "http://t.cn/A6VWTnnD",
-        "weibo_url": "https://weibo.com/detail/4643953066116868"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f79c8abc8bc88883bdd5ec9577da36f3&s=4b054a0ca5274eaba9e50980736f0334",
+        "short_url": "http://t.cn/A6VWHUtd",
+        "weibo_url": "https://weibo.com/detail/4643954387326597"
     },
     {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f79c8abc8bc88883bdd5ec9577da36f3&s=4b054a0ca5274eaba9e50980736f0334",
-        "short_url": "http://t.cn/A6VWHUtd",
-        "weibo_url": "https://weibo.com/detail/4643954387326597"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=262d8f309e1f09bd2e2c553bc9a0ef73&s=f6f0ac1065364a73bf5fc9de5a772719",
+        "short_url": "http://t.cn/A6VWTnnD",
+        "weibo_url": "https://weibo.com/detail/4643953066116868"
     },
     {
         "artist": "范丞丞",
