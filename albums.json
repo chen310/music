@@ -64,14 +64,6 @@
         "weibo_url": "https://weibo.com/detail/4643751987514300"
     },
     {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fc8826027ee7991d5bee5466036c52cd&s=775951d5c2784a48adcbc684c6ad2bf9",
-        "short_url": "http://t.cn/A6VWEiAw",
-        "weibo_url": "https://weibo.com/detail/4643969109592648"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -131,17 +123,17 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=08c0090c226bf47b47bf317843161f19&s=13d1f217e045481186ff3846402ef567",
-        "short_url": "http://t.cn/A6V0QJaG",
-        "weibo_url": "https://weibo.com/detail/4643700347767511"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c13ffb139854b313e1d72f4f6092693d&s=f54d84af48a14582b21f934cf621d109",
+        "short_url": "http://t.cn/A6V0EqCA",
+        "weibo_url": "https://weibo.com/detail/4643705896567242"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c13ffb139854b313e1d72f4f6092693d&s=f54d84af48a14582b21f934cf621d109",
-        "short_url": "http://t.cn/A6V0EqCA",
-        "weibo_url": "https://weibo.com/detail/4643705896567242"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=08c0090c226bf47b47bf317843161f19&s=13d1f217e045481186ff3846402ef567",
+        "short_url": "http://t.cn/A6V0QJaG",
+        "weibo_url": "https://weibo.com/detail/4643700347767511"
     },
     {
         "artist": "李润祺",
@@ -307,14 +299,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=262d8f309e1f09bd2e2c553bc9a0ef73&s=f6f0ac1065364a73bf5fc9de5a772719",
-        "short_url": "http://t.cn/A6VWTnnD",
-        "weibo_url": "https://weibo.com/detail/4643953066116868"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e7879d6789b98402502c10df6e117447&s=de5b1bf00d214cd3acb25c3e969245b5",
         "short_url": "http://t.cn/A6VNkGyg",
         "weibo_url": "https://weibo.com/detail/4643318023326304"
@@ -326,6 +310,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ef2c8dc533cb14b8108f9c996c25ac6a&s=a155b365000142a2b31781983e88da95",
         "short_url": "http://t.cn/A6VWTQpQ",
         "weibo_url": "https://weibo.com/detail/4643952835167489"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=262d8f309e1f09bd2e2c553bc9a0ef73&s=f6f0ac1065364a73bf5fc9de5a772719",
+        "short_url": "http://t.cn/A6VWTnnD",
+        "weibo_url": "https://weibo.com/detail/4643953066116868"
     },
     {
         "artist": "范丞丞",
@@ -373,7 +365,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b124fa91c62dcf501611fabeec04e82d&s=a0a0ecb81ea5477e8ffd4359becf789f",
         "short_url": "http://t.cn/A6VWC5sR",
-        "weibo_url": "https://weibo.com/detail/4643968488578020"
+        "weibo_url": "https://weibo.com/detail/4643935500632341"
     },
     {
         "artist": "范丞丞",
