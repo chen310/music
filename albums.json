@@ -67,9 +67,9 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=63551aa5754ce85ee497a183aebdec90&s=e112aebc2c3643b3b0a492aac013cc84",
-        "short_url": "http://t.cn/A6VW8kdO",
-        "weibo_url": "https://weibo.com/detail/4643963950601083"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fc8826027ee7991d5bee5466036c52cd&s=775951d5c2784a48adcbc684c6ad2bf9",
+        "short_url": "http://t.cn/A6VWEiAw",
+        "weibo_url": "https://weibo.com/detail/4643969109592648"
     },
     {
         "artist": "李润祺",
@@ -102,6 +102,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d8af1db5829d89e4962d345b86dcae66&s=53c186ca13dc48789a02b890ff21efd3",
         "short_url": "http://t.cn/A6VWpPmV",
         "weibo_url": "https://weibo.com/detail/4643927674587535"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8896e973f5d83caed3291dbdce5dbaa5&s=ff1f5152d1194c32b6167c5c6e18fc0e",
+        "short_url": "http://t.cn/A6VWE6A7",
+        "weibo_url": "https://weibo.com/detail/4643969164909086"
     },
     {
         "artist": "李润祺",
@@ -345,14 +353,6 @@
     },
     {
         "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7c7d158b5dc22165708ea1256644ef26&s=27127a947d4a4f8491c498687c67ee6e",
-        "short_url": "http://t.cn/A6VWHB64",
-        "weibo_url": "https://weibo.com/detail/4643956660635603"
-    },
-    {
-        "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=18baddd66af5c875d89a84daa7621966&s=ba674d37436e4ff792d466215d708558",
@@ -373,7 +373,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b124fa91c62dcf501611fabeec04e82d&s=a0a0ecb81ea5477e8ffd4359becf789f",
         "short_url": "http://t.cn/A6VWC5sR",
-        "weibo_url": "https://weibo.com/detail/4643935500632341"
+        "weibo_url": "https://weibo.com/detail/4643968488578020"
     },
     {
         "artist": "范丞丞",
