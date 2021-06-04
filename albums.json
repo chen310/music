@@ -115,14 +115,6 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=01dd2d073713b5a87b45af3659404db1&s=880d11455cb641d1be331d596874088a",
-        "short_url": "http://t.cn/A6Vj3Eqx",
-        "weibo_url": "https://weibo.com/detail/4644486624053728"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e7018c87b34718542af7ed02927e61f1&s=45f85e98b0a84a33903b33d108098277",
         "short_url": "http://t.cn/A6Vl27Yy",
         "weibo_url": "https://weibo.com/detail/4644057530502581"
@@ -134,6 +126,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d05485acbbde5b8452ac302f6e77ca67&s=93c2c45cac784f9aa4548da93f0a1de9",
         "short_url": "http://t.cn/A6VjmtzU",
         "weibo_url": "https://weibo.com/detail/4644478592483408"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=01dd2d073713b5a87b45af3659404db1&s=880d11455cb641d1be331d596874088a",
+        "short_url": "http://t.cn/A6Vj3Eqx",
+        "weibo_url": "https://weibo.com/detail/4644486624053728"
     },
     {
         "artist": "李润祺",
@@ -222,14 +222,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=3a048e639981306dae94735a56a5b6bc&s=e819055221434d42a68e3b0375bda10f",
         "short_url": "http://t.cn/A6VWrQNd",
         "weibo_url": "https://weibo.com/detail/4643997606479813"
-    },
-    {
-        "artist": "王一博",
-        "name": "我的世界守则",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=775346847c60e03602b90c16d85d66b8&s=2528411c075a440381833c454ac37042",
-        "short_url": "http://t.cn/A6VOJE8u",
-        "weibo_url": "https://weibo.com/detail/4643771675839447"
     },
     {
         "artist": "王一博",
