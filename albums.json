@@ -107,6 +107,14 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5bd73c4cb3e3543aa4e526324bdd8ac5&s=ce2b95f3a6ec4e4680760a2e0b67c84e",
+        "short_url": "http://t.cn/A6VjOW8w",
+        "weibo_url": "https://weibo.com/detail/4644425990406166"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e7018c87b34718542af7ed02927e61f1&s=45f85e98b0a84a33903b33d108098277",
         "short_url": "http://t.cn/A6Vl27Yy",
         "weibo_url": "https://weibo.com/detail/4644057530502581"
@@ -142,14 +150,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=c13ffb139854b313e1d72f4f6092693d&s=f54d84af48a14582b21f934cf621d109",
         "short_url": "http://t.cn/A6V0EqCA",
         "weibo_url": "https://weibo.com/detail/4643705896567242"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=08c0090c226bf47b47bf317843161f19&s=13d1f217e045481186ff3846402ef567",
-        "short_url": "http://t.cn/A6V0QJaG",
-        "weibo_url": "https://weibo.com/detail/4643946359425451"
     },
     {
         "artist": "李润祺",
@@ -198,14 +198,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=60e0741975dcd679d293be42ee3e0597&s=25e6ed39e6f341558b4d74f4cbb0787b",
         "short_url": "http://t.cn/A6VWFSHB",
         "weibo_url": "https://weibo.com/detail/4644020015860390"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c5e0368c2fcf4920ba5b6bddd857e03a&s=df4ff5fcbb57456297c1c44e13d95fc3",
-        "short_url": "http://t.cn/A6V0R43h",
-        "weibo_url": "https://weibo.com/detail/4643703900343654"
     },
     {
         "artist": "李润祺",
