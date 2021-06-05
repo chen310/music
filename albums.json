@@ -67,14 +67,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=587737334509dae1f31d062f82c61b27&s=4736d6c15bca411eaabd0e24a0dc80db",
-        "short_url": "http://t.cn/A6VWH4UB",
-        "weibo_url": "https://weibo.com/detail/4644484720366355"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=30bd4b5c4535abe93fac50d6a3faed79&s=d84aadb5293e429abfe8f9af0cbb8f9d",
         "short_url": "http://t.cn/A6VW1B7m",
         "weibo_url": "https://weibo.com/detail/4643989845709786"
@@ -198,45 +190,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=918c6cf9e1635bd705edcf9053496ea4&s=bb2e076c60cc4b7d9216d889dbb20552",
         "short_url": "http://t.cn/A6VWrRpZ",
         "weibo_url": "https://weibo.com/detail/4643997748037726"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ef2c8dc533cb14b8108f9c996c25ac6a&s=a155b365000142a2b31781983e88da95",
-        "short_url": "http://t.cn/A6VWTQpQ",
-        "weibo_url": "https://weibo.com/detail/4643952835167489"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f79c8abc8bc88883bdd5ec9577da36f3&s=4b054a0ca5274eaba9e50980736f0334",
-        "short_url": "http://t.cn/A6VWHUtd",
-        "weibo_url": "https://weibo.com/detail/4643954387326597"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ebc74ecc82f03009cab2800e26175295&s=b627819735f1421cb9b050b3bf01a22c",
-        "short_url": "http://t.cn/A6VWHCTt",
-        "weibo_url": "https://weibo.com/detail/4644659785633737"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=204ec20c1d60bd71e3b7acbf75dcdc7c&s=96be50abf56948548109cfbe64ec7f05",
-        "short_url": "http://t.cn/A6VWHZwf",
-        "weibo_url": "https://weibo.com/detail/4644659668716937"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9743dad49e8352aa6c297043e6a01a42&s=b5d495cf06c443b98c61fc3bd87cd7a0",
-        "short_url": "http://t.cn/A6VWHcNM",
-        "weibo_url": "https://weibo.com/detail/4644660310443737"
     }
 ]
