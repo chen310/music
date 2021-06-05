@@ -40,6 +40,14 @@
         "weibo_url": "https://weibo.com/detail/4644261884854818"
     },
     {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a5d9a0e85ed52261a411c132840da4c3&s=a7227a860d114d81b06952784ebf2c8a",
+        "short_url": "http://t.cn/A6VYFoUA",
+        "weibo_url": "https://weibo.com/detail/4644795358644367"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -62,6 +70,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2f19ddfd495245ab0af45f8714aa7b06&s=ef303bfabb95498cb63c2dfd2deb3897",
         "short_url": "http://t.cn/A6Vjn8Zz",
         "weibo_url": "https://weibo.com/detail/4644476234498736"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=62cd506892f17a98894430e2dfc64c7d&s=747d64f6545847feaa0c0aa54f0397d8",
+        "short_url": "http://t.cn/A6VYF5at",
+        "weibo_url": "https://weibo.com/detail/4644794200494595"
     },
     {
         "artist": "毕雯珺",
