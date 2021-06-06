@@ -43,22 +43,6 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=79e81363aa080748303c52ada95c1a0b&s=769862e6b51f4a4697334182d1019d26",
-        "short_url": "http://t.cn/A6VHrgch",
-        "weibo_url": "https://weibo.com/detail/4645224557315422"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a712689dc38ba9f09052cc311c1ed8dd&s=3daf43fa75e14e548de56a5434b6e34f",
-        "short_url": "http://t.cn/A6VH1Ext",
-        "weibo_url": "https://weibo.com/detail/4645221520903655"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b42f2f3a599967ecc0f4e0ee8b53959f&s=1bf0495e3ac14ca48ad0317ac0739c32",
         "short_url": "http://t.cn/A6VHBb2x",
         "weibo_url": "https://weibo.com/detail/4645222158176448"
@@ -70,6 +54,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=0e8df07d577b795da7104499409bb9dd&s=b66334bc2fd84ecb89c42741784d819f",
         "short_url": "http://t.cn/A6VHkG82",
         "weibo_url": "https://weibo.com/detail/4645230802111495"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=79e81363aa080748303c52ada95c1a0b&s=769862e6b51f4a4697334182d1019d26",
+        "short_url": "http://t.cn/A6VHrgch",
+        "weibo_url": "https://weibo.com/detail/4645224557315422"
     },
     {
         "artist": "张哲瀚",
@@ -110,14 +102,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=29c176ce036fbb48b0e2f23a152b39c2&s=453f8fdc520847ebbf52e7b8df4fad0d",
         "short_url": "http://t.cn/A6VHPkk5",
         "weibo_url": "https://weibo.com/detail/4645078331032769"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e762fc81fe93ab48c891cc88cda56f71&s=7819f5db2ede4deda2e0c1b905133a52",
-        "short_url": "http://t.cn/A6VHKZRB",
-        "weibo_url": "https://weibo.com/detail/4645174788227857"
     },
     {
         "artist": "李润祺",
