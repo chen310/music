@@ -57,22 +57,6 @@
     },
     {
         "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=ed3e4776fd6f557ae3db4a1e92a6dfa3&s=e4cabd0b856f4f468a32f80694ac0be2",
-        "short_url": "http://t.cn/A6VH246i",
-        "weibo_url": "https://weibo.com/detail/4645106344526078"
-    },
-    {
-        "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=7f130d4aa88faca9f38022127211ffd7&s=7decf6a7cb9741529aaa75c2d37da964",
-        "short_url": "http://t.cn/A6VH2LSs",
-        "weibo_url": "https://weibo.com/detail/4645100849730562"
-    },
-    {
-        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b7bedae286b21b7a54bd2f3f9227fc4b&s=426ee776467f4d9888534fd663b46abc",
@@ -139,14 +123,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2f19ddfd495245ab0af45f8714aa7b06&s=ef303bfabb95498cb63c2dfd2deb3897",
-        "short_url": "http://t.cn/A6Vjn8Zz",
-        "weibo_url": "https://weibo.com/detail/4644476234498736"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d4215cfa11d5e147003d96f3be4822e4&s=d539df7e50474df9924bb086617ce53d",
         "short_url": "http://t.cn/A6VTdV5G",
         "weibo_url": "https://weibo.com/detail/4645042721391028"
@@ -163,9 +139,9 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9119e41a641e6b54a3808b59eeb0bc2a&s=2b9876634acb4112a1ffd2f6936f6c88",
-        "short_url": "http://t.cn/A6VTR7S2",
-        "weibo_url": "https://weibo.com/detail/4645004038111298"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2f19ddfd495245ab0af45f8714aa7b06&s=ef303bfabb95498cb63c2dfd2deb3897",
+        "short_url": "http://t.cn/A6Vjn8Zz",
+        "weibo_url": "https://weibo.com/detail/4644476234498736"
     },
     {
         "artist": "李润祺",
