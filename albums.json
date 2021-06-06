@@ -51,6 +51,14 @@
         "artist": "李润祺",
         "name": "做勇敢的大人",
         "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=b32df0faa04cd57cb3af37aa6dcf2a2c&s=28e149176b43404e87b10797592aa72e",
+        "short_url": "http://t.cn/A6VTdfAF",
+        "weibo_url": "https://weibo.com/detail/4644899163210389"
+    },
+    {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=86f48e34461115358e47f509ebf02a1d&s=20d4e02f66ae4f80a4964653b56b3215",
         "short_url": "http://t.cn/A6VTBBsj",
         "weibo_url": "https://weibo.com/detail/4645035230366923"
@@ -99,9 +107,25 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=00e297308aa5f40d9851480f1fedde06&s=b556da31f0804a5386c790fafc19824f",
+        "short_url": "http://t.cn/A6VTd086",
+        "weibo_url": "https://weibo.com/detail/4645042113479048"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=2f19ddfd495245ab0af45f8714aa7b06&s=ef303bfabb95498cb63c2dfd2deb3897",
         "short_url": "http://t.cn/A6Vjn8Zz",
         "weibo_url": "https://weibo.com/detail/4644476234498736"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d4215cfa11d5e147003d96f3be4822e4&s=d539df7e50474df9924bb086617ce53d",
+        "short_url": "http://t.cn/A6VTdV5G",
+        "weibo_url": "https://weibo.com/detail/4645042721391028"
     },
     {
         "artist": "李润祺",
