@@ -27,14 +27,6 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=79e81363aa080748303c52ada95c1a0b&s=769862e6b51f4a4697334182d1019d26",
-        "short_url": "http://t.cn/A6VHrgch",
-        "weibo_url": "https://weibo.com/detail/4645224557315422"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ef5011325bfc57239895e357ff1be5ca&s=cf0cadd93e984a2fad1f1ac2e07e1b1c",
         "short_url": "http://t.cn/A6VH1kCg",
         "weibo_url": "https://weibo.com/detail/4645221806378271"
@@ -46,6 +38,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a712689dc38ba9f09052cc311c1ed8dd&s=3daf43fa75e14e548de56a5434b6e34f",
         "short_url": "http://t.cn/A6VH1Ext",
         "weibo_url": "https://weibo.com/detail/4645221520903655"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=79e81363aa080748303c52ada95c1a0b&s=769862e6b51f4a4697334182d1019d26",
+        "short_url": "http://t.cn/A6VHrgch",
+        "weibo_url": "https://weibo.com/detail/4645224557315422"
     },
     {
         "artist": "孟美岐",
