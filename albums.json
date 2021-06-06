@@ -8,6 +8,14 @@
         "weibo_url": "https://weibo.com/detail/4644485193535531"
     },
     {
+        "artist": "周深",
+        "name": "无限",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=a7441ba0fd133cdb8f8e2ca6e0cfbbc1&s=c0fe1cd8ff1f411d906422cc8b266b1a",
+        "short_url": "http://t.cn/A6VTQmIU",
+        "weibo_url": "https://weibo.com/detail/4644998957498734"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -166,5 +174,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5a0cd600f02fc248577a119eda8c5b82&s=fc81c673958e4009b1edd13b158afe60",
         "short_url": "http://t.cn/A6VYBLJh",
         "weibo_url": "https://weibo.com/detail/4644760323359773"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fadb4ad81f014f9da39ddba9d3e3b80b&s=acb2e9839f9c475b881571c9313d95cf",
+        "short_url": "http://t.cn/A6VTQlwU",
+        "weibo_url": "https://weibo.com/detail/4644998295586203"
     }
 ]
