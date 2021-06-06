@@ -11,6 +11,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1474da131bd281a47580385b7e4c116e&s=7dcf3f7d028441dcb27273db801f8a2f",
+        "short_url": "http://t.cn/A6VHvYnm",
+        "weibo_url": "https://weibo.com/detail/4645072346547180"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8b103b079a8d153986c8e15b6a58ac54&s=25c3f9f58d0d4f49a4ac5d3cfa51a839",
         "short_url": "http://t.cn/A6VTmROU",
         "weibo_url": "https://weibo.com/detail/4645018998407331"
@@ -46,22 +54,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a83afb717ce777ac41eec1e0a0957371&s=eac00980c4be47778abd20a8f74ebd65",
         "short_url": "http://t.cn/A6VjeZDk",
         "weibo_url": "https://weibo.com/detail/4644497348624872"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a9ff6d2ffded71181bdc04764654efaf&s=4cc3f18f370648c4b503cd2c3ea5e69b",
-        "short_url": "http://t.cn/A6VHvZap",
-        "weibo_url": "https://weibo.com/detail/4645069704138215"
-    },
-    {
-        "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=b32df0faa04cd57cb3af37aa6dcf2a2c&s=28e149176b43404e87b10797592aa72e",
-        "short_url": "http://t.cn/A6VTdfAF",
-        "weibo_url": "https://weibo.com/detail/4644899163210389"
     },
     {
         "artist": "李润祺",
@@ -131,17 +123,17 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9119e41a641e6b54a3808b59eeb0bc2a&s=2b9876634acb4112a1ffd2f6936f6c88",
-        "short_url": "http://t.cn/A6VTR7S2",
-        "weibo_url": "https://weibo.com/detail/4645004038111298"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3d62d7877fb69c0d937a08655de75f73&s=d091c5b0b5ca4cd1afd4b0d374c70992",
+        "short_url": "http://t.cn/A6VTeT5r",
+        "weibo_url": "https://weibo.com/detail/4645050686899802"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3d62d7877fb69c0d937a08655de75f73&s=d091c5b0b5ca4cd1afd4b0d374c70992",
-        "short_url": "http://t.cn/A6VTeT5r",
-        "weibo_url": "https://weibo.com/detail/4645050686899802"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9119e41a641e6b54a3808b59eeb0bc2a&s=2b9876634acb4112a1ffd2f6936f6c88",
+        "short_url": "http://t.cn/A6VTR7S2",
+        "weibo_url": "https://weibo.com/detail/4645004038111298"
     },
     {
         "artist": "李润祺",
