@@ -51,17 +51,41 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=29c176ce036fbb48b0e2f23a152b39c2&s=453f8fdc520847ebbf52e7b8df4fad0d",
+        "short_url": "http://t.cn/A6VHPkk5",
+        "weibo_url": "https://weibo.com/detail/4645078331032769"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a83afb717ce777ac41eec1e0a0957371&s=eac00980c4be47778abd20a8f74ebd65",
         "short_url": "http://t.cn/A6VjeZDk",
         "weibo_url": "https://weibo.com/detail/4644497348624872"
     },
     {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=14030ef95b041dc3d0462b94f566a577&s=d642b96cf2b64824a703f0af9aa9f898",
+        "short_url": "http://t.cn/A6VHPhVY",
+        "weibo_url": "https://weibo.com/detail/4645073998317057"
+    },
+    {
         "artist": "李润祺",
         "name": "做勇敢的大人",
         "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=86f48e34461115358e47f509ebf02a1d&s=20d4e02f66ae4f80a4964653b56b3215",
-        "short_url": "http://t.cn/A6VTBBsj",
-        "weibo_url": "https://weibo.com/detail/4645035230366923"
+        "url": "https://music.163.com/store/m/song/receive?tk=bc4223b79ccebec07f9f7b04afab04d6&s=ca1b92424e6940729620488dd1d43e9b",
+        "short_url": "http://t.cn/A6VHPHSW",
+        "weibo_url": "https://weibo.com/detail/4645077039189492"
+    },
+    {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=187a9f5b8c694be22014a653c47b6282&s=82327cc2bcbb47fb99b15ae74bc53510",
+        "short_url": "http://t.cn/A6VHhx0a",
+        "weibo_url": "https://weibo.com/detail/4645080243899627"
     },
     {
         "artist": "李润祺",
@@ -70,6 +94,14 @@
         "url": "https://music.163.com/store/m/song/receive?tk=c6634d6c1a70df977fff18d1ed0e4843&s=742866f97fea4c0f978a90e271937021",
         "short_url": "http://t.cn/A6VTuI5i",
         "weibo_url": "https://weibo.com/detail/4645021258876076"
+    },
+    {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=86f48e34461115358e47f509ebf02a1d&s=20d4e02f66ae4f80a4964653b56b3215",
+        "short_url": "http://t.cn/A6VTBBsj",
+        "weibo_url": "https://weibo.com/detail/4645035230366923"
     },
     {
         "artist": "李润祺",
@@ -102,6 +134,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=f3ec08c93b8784397fa48c987b78d583&s=c728be48305f45399ffa3fbe5f8299e6",
         "short_url": "http://t.cn/A6VThckg",
         "weibo_url": "https://weibo.com/detail/4644814471038836"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=800c78b71a38ac1ee75fe5f06d95dc4c&s=20e2806a9768499e98f1b913647a9d0b",
+        "short_url": "http://t.cn/A6VHPzc6",
+        "weibo_url": "https://weibo.com/detail/4645074145641675"
     },
     {
         "artist": "李润祺",
