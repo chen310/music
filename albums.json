@@ -1,6 +1,14 @@
 [
     {
         "artist": "吴宣仪",
+        "name": "25",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=37a7a3006d9e97999f68ac61a1a9be47&s=75866c00574149ab874d3c592da45c92",
+        "short_url": "http://t.cn/A6V8aA93",
+        "weibo_url": "https://weibo.com/detail/4645522613208200"
+    },
+    {
+        "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=18cfae096dfca076dcd61602d3614960&s=6f9fb3de55a84aa985d3e9e6a6a17010",
