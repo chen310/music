@@ -5,7 +5,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ebc7b31a6501d551fd51927b03e1cf1c&s=c4f6fc141bde4e1fb24f27d26ce77542",
         "short_url": "http://t.cn/A6V89iuc",
-        "weibo_url": "https://weibo.com/detail/4645544008354234"
+        "weibo_url": "https://weibo.com/detail/4645570679675637"
     },
     {
         "artist": "吴宣仪",
@@ -230,5 +230,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=fadb4ad81f014f9da39ddba9d3e3b80b&s=acb2e9839f9c475b881571c9313d95cf",
         "short_url": "http://t.cn/A6VTQlwU",
         "weibo_url": "https://weibo.com/detail/4644998295586203"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c0a1f7e4d441323f4ee72707be9c0cd3&s=dcf24da0d11e4408b55cb9fdef326905",
+        "short_url": "http://t.cn/A6V8Eg1j",
+        "weibo_url": "https://weibo.com/detail/4645585170209291"
     }
 ]
