@@ -112,14 +112,6 @@
         "weibo_url": "https://weibo.com/detail/4645513306047325"
     },
     {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a5c71b9765d41c115a8296356b904c37&s=780d9bd2076541dfb18e44c02113fc33",
-        "short_url": "http://t.cn/A6VHBUwe",
-        "weibo_url": "https://weibo.com/detail/4645222108368399"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -144,12 +136,12 @@
         "weibo_url": "https://weibo.com/detail/4645078331032769"
     },
     {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=05c56504cfb93d752ac5683fbab7791f&s=6784d0ace5dd4ba29fdc6e25c4b15193",
-        "short_url": "http://t.cn/A6VRoA2v",
-        "weibo_url": "https://weibo.com/detail/4645771183393895"
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=7861e28c7449469c06af8928175f467a&s=aeb6856b46914505841a57cba52f0009",
+        "short_url": "http://t.cn/A6VRKNto",
+        "weibo_url": "https://weibo.com/detail/4645776380136336"
     },
     {
         "artist": "李润祺",
@@ -161,27 +153,11 @@
     },
     {
         "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=7861e28c7449469c06af8928175f467a&s=aeb6856b46914505841a57cba52f0009",
-        "short_url": "http://t.cn/A6VRKNto",
-        "weibo_url": "https://weibo.com/detail/4645776380136336"
-    },
-    {
-        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=46afc2f6267227b1e527eac99fe6cbdd&s=126ef561505e4dfcacb0d896d2bd8dca",
         "short_url": "http://t.cn/A6VRzSnl",
         "weibo_url": "https://weibo.com/detail/4645641043575353"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b7bedae286b21b7a54bd2f3f9227fc4b&s=426ee776467f4d9888534fd663b46abc",
-        "short_url": "http://t.cn/A6VTDlzI",
-        "weibo_url": "https://weibo.com/detail/4645054629285701"
     },
     {
         "artist": "李润祺",
@@ -206,13 +182,5 @@
         "url": "https://music.163.com/store/m/song/receive?tk=c2a90a9cf0787bbd833142e38293587a&s=bb7294941e4c43be9dc0afd7c18b08fc",
         "short_url": "http://t.cn/A6V87WaM",
         "weibo_url": "https://weibo.com/detail/4645435106920348"
-    },
-    {
-        "artist": "李润祺",
-        "name": "请杀死我的浪漫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=bf0b6fdd5870d53ef3991ee3f06f5e07&s=63c3714ca1634edcb4461dfbaccaad1e",
-        "short_url": "http://t.cn/A6VRKH0w",
-        "weibo_url": "https://weibo.com/detail/4645776942432540"
     }
 ]
