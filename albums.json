@@ -1,5 +1,21 @@
 [
     {
+        "artist": "华晨宇",
+        "name": "好想爱这个世界啊",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f1487c67ff07657ee397a81aa9a80438&s=b0f4cf95b5d1469b972c5686fe77cca2",
+        "short_url": "http://t.cn/A6VR8Dg5",
+        "weibo_url": "https://weibo.com/detail/4645829644125886"
+    },
+    {
+        "artist": "华晨宇",
+        "name": "新世界NEW WORLD",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=53abe728e902f1ab79aa8401d9817539&s=6d6d9c2aeb1a4e75b56858e1519e7b6c",
+        "short_url": "http://t.cn/A6VRRhCw",
+        "weibo_url": "https://weibo.com/detail/4645830000380978"
+    },
+    {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
