@@ -171,14 +171,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=573065e065d2ff93117e4f48113a55e3&s=5796b3c4029b477283a751bbaf2f47a8",
-        "short_url": "http://t.cn/A6VEshg4",
-        "weibo_url": "https://weibo.com/detail/4646129616290671"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a854f1c38fda81a9e3719b2b6ae38194&s=e1540fd024d741f09cb953fca61240f9",
         "short_url": "http://t.cn/A6VnhWFx",
         "weibo_url": "https://weibo.com/detail/4646137900308573"
@@ -251,6 +243,14 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=af517055be99ced6303201de1be0792a&s=dfca93ebc8c74473a54eb3a667d1c799",
+        "short_url": "http://t.cn/A6VnidPc",
+        "weibo_url": "https://weibo.com/detail/4646213473797153"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=918b9573bf8ac8cc9f55231bf0f33bef&s=d28532d2a1c94e41910dab6fe571fb01",
         "short_url": "http://t.cn/A6Vncn4q",
         "weibo_url": "https://weibo.com/detail/4646205008645112"
@@ -262,6 +262,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=107e6c7771af4ad3247a1905e8994282&s=92b1a4b9f80c49128d05d26de7a603ee",
         "short_url": "http://t.cn/A6Vnxnep",
         "weibo_url": "https://weibo.com/detail/4646206863840562"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9d9cb2caffaa65b3443c661c88be7022&s=53cb797b2b6d4d78aeab434850108b51",
+        "short_url": "http://t.cn/A6Vn67Re",
+        "weibo_url": "https://weibo.com/detail/4646214002281146"
     },
     {
         "artist": "朱正廷",
@@ -366,6 +374,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9ed62c26b8da0b152bcf156ef088623b&s=8e4f36299199411e96d91b2a7d403ece",
         "short_url": "http://t.cn/A6Vn4Gj6",
         "weibo_url": "https://weibo.com/detail/4646166563653749"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8f2ec4ef052e793891df15f615d75564&s=b43b7166428041c1ae7836332352ba19",
+        "short_url": "http://t.cn/A6VnXGUt",
+        "weibo_url": "https://weibo.com/detail/4646217784759025"
     },
     {
         "artist": "范丞丞",
@@ -670,6 +686,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e6e59692bda6e0110ccbe75270aa4355&s=07cad57d820145ccbfbdf04438d578e4",
         "short_url": "http://t.cn/A6Vn5V66",
         "weibo_url": "https://weibo.com/detail/4646181244505668"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5fa6c15a7f510d1b0d96586b2521ea09&s=e92184326f7c4a1da6abc576c2db7822",
+        "short_url": "http://t.cn/A6VniEKP",
+        "weibo_url": "https://weibo.com/detail/4646213079009180"
     },
     {
         "artist": "黄明昊 (Justin)",
