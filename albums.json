@@ -1,13 +1,5 @@
 [
     {
-        "artist": "TOMORROW X TOGETHER/Seori",
-        "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=1a1ede61567334b3a945b8d955db2ce2&s=03b25771de8648c8b839e2fa990d5a4c",
-        "short_url": "http://t.cn/A6VnQAaZ",
-        "weibo_url": "https://weibo.com/detail/4646279806979802"
-    },
-    {
         "artist": "华晨宇",
         "name": "好想爱这个世界啊",
         "type": "album",
@@ -43,14 +35,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fde1b5744dd2ab41d5fb45d54bb2c940&s=a15c1165a7914918a5a068ff4be619c3",
-        "short_url": "http://t.cn/A6V8WQyb",
-        "weibo_url": "https://weibo.com/detail/4645564111916225"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=eff6b1985f7b6d7ded5f4c39befc21fd&s=ee24335515a8420da97ab6cb8e4c6dc6",
         "short_url": "http://t.cn/A6V8TkNP",
         "weibo_url": "https://weibo.com/detail/4645575880082643"
@@ -78,14 +62,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7fcfdd03a5e8a63a8ef7cec485799018&s=e840fb38cdd34c93a905683f09aa629a",
         "short_url": "http://t.cn/A6VnPlsx",
         "weibo_url": "https://weibo.com/detail/4646132213616344"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=034d12fb4773063b66860c9b83f3be02&s=87c68af22ac94b4b9b36c741b61c0c5c",
-        "short_url": "http://t.cn/A6VEgs4R",
-        "weibo_url": "https://weibo.com/detail/4646109714060629"
     },
     {
         "artist": "吴宣仪",
@@ -582,14 +558,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=cbf7f4dfef2479b56ef46c21a9084124&s=4429f8d42766416f81da98b15b48c459",
         "short_url": "http://t.cn/A6VnbMUy",
         "weibo_url": "https://weibo.com/detail/4646173598549990"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=30d4d8973105793fa782f35cfacb8d15&s=b2427ab3fcf04cdcb6624237951473f6",
-        "short_url": "http://t.cn/A6VnLB0X",
-        "weibo_url": "https://weibo.com/detail/4646158661585731"
     },
     {
         "artist": "黄明昊 (Justin)",
