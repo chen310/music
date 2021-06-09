@@ -123,14 +123,6 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=004315daf4be7568ad56e5f058d87ba0&s=5701ae87adc44dc280fe369b7345cf1a",
-        "short_url": "http://t.cn/A6VnEFO4",
-        "weibo_url": "https://weibo.com/detail/4646294737913023"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=35912255d7359649f31cb0383ab1b5a4&s=f5067977fec041a984f6cd047a69976b",
         "short_url": "http://t.cn/A6VnnaMc",
         "weibo_url": "https://weibo.com/detail/4646296373956758"
@@ -147,17 +139,17 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b61a7c85f5c2583f5fa361623a5d4fe6&s=4022ae8d85a84cc38f178193a394cebf",
-        "short_url": "http://t.cn/A6VndXgk",
-        "weibo_url": "https://weibo.com/detail/4646310391320948"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a3d2598523772b7b0cff19d7e68b3cba&s=69418c18ae134a3583dbad14742bdfb8",
+        "short_url": "http://t.cn/A6Vnc25v",
+        "weibo_url": "https://weibo.com/detail/4646204631945009"
     },
     {
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a3d2598523772b7b0cff19d7e68b3cba&s=69418c18ae134a3583dbad14742bdfb8",
-        "short_url": "http://t.cn/A6Vnc25v",
-        "weibo_url": "https://weibo.com/detail/4646204631945009"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b61a7c85f5c2583f5fa361623a5d4fe6&s=4022ae8d85a84cc38f178193a394cebf",
+        "short_url": "http://t.cn/A6VndXgk",
+        "weibo_url": "https://weibo.com/detail/4646310391320948"
     },
     {
         "artist": "戴萌",
@@ -483,14 +475,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d3988df8eb9bd7a4977324782919f48a&s=5f9aa7a44b2746ce8caf519732b576d9",
-        "short_url": "http://t.cn/A6Vnbe6y",
-        "weibo_url": "https://weibo.com/detail/4646172515370351"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=76509cf9fd7804dc1c4f844c3dafab35&s=6f9224382a44423eae27e2133eaa80a5",
         "short_url": "http://t.cn/A6VnG5Xw",
         "weibo_url": "https://weibo.com/detail/4646173757147547"
@@ -518,6 +502,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=aca804ed8b4492ecaa588361773f62d1&s=ab445db03cd746f488395388e2e0cbdc",
         "short_url": "http://t.cn/A6VnLyAU",
         "weibo_url": "https://weibo.com/detail/4646156354720792"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d3988df8eb9bd7a4977324782919f48a&s=5f9aa7a44b2746ce8caf519732b576d9",
+        "short_url": "http://t.cn/A6Vnbe6y",
+        "weibo_url": "https://weibo.com/detail/4646172515370351"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -614,13 +606,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=10a7b39922491587f50a2c4a2e35045d&s=93828e05a4c14b709be9f7148f06ae81",
         "short_url": "http://t.cn/A6VnqIzX",
         "weibo_url": "https://weibo.com/detail/4646177591787601"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Liar",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=59281c691b3df8737c4ed85710452d4e&s=ac2aa1c55e7d4e48bd8eb07091d966b3",
-        "short_url": "http://t.cn/A6VnqCqP",
-        "weibo_url": "https://weibo.com/detail/4646178262880453"
     }
 ]
