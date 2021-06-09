@@ -1,5 +1,13 @@
 [
     {
+        "artist": "TOMORROW X TOGETHER/Seori",
+        "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=1a1ede61567334b3a945b8d955db2ce2&s=03b25771de8648c8b839e2fa990d5a4c",
+        "short_url": "http://t.cn/A6VnQAaZ",
+        "weibo_url": "https://weibo.com/detail/4646279806979802"
+    },
+    {
         "artist": "华晨宇",
         "name": "好想爱这个世界啊",
         "type": "album",
@@ -14,14 +22,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=01f5a60a99d5015b26249087e0c9a5ae&s=4ec7ee07ca104586bf8bc06ef0b5afee",
         "short_url": "http://t.cn/A6VEgHEq",
         "weibo_url": "https://weibo.com/detail/4646115456582274"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=859132a295c1faf90bc810de4e0d064e&s=b89d2ded3414469393b45125f6d62ff1",
-        "short_url": "http://t.cn/A6V80Fpd",
-        "weibo_url": "https://weibo.com/detail/4645563553289812"
     },
     {
         "artist": "吴宣仪",
