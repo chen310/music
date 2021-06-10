@@ -208,6 +208,22 @@
         "weibo_url": "https://weibo.com/detail/4646198487813366"
     },
     {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=c1a90623337f15a7b9fea38689f40033&s=d166562d0a4744f0871c2636b46284e6",
+        "short_url": "http://t.cn/A6VmRHSq",
+        "weibo_url": "https://weibo.com/detail/4646551282779612"
+    },
+    {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=a1124b2beea685c448b2737ef03dc023&s=a80d4eb235ee49c9a21b72a963cfecd2",
+        "short_url": "http://t.cn/A6Vm8NJS",
+        "weibo_url": "https://weibo.com/detail/4646547445515981"
+    },
+    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -395,17 +411,17 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6b914e46b94aa84611d5294570033361&s=4e83241b55d14c94b59c85cd087c63f8",
-        "short_url": "http://t.cn/A6VnbNmF",
-        "weibo_url": "https://weibo.com/detail/4646171211468002"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=85ad3a1a4df0e9ecbdf5823d3ffabf42&s=8abf8057bf5e41be8fe54e9b29720603",
+        "short_url": "http://t.cn/A6Vnbb1P",
+        "weibo_url": "https://weibo.com/detail/4646170393841864"
     },
     {
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=85ad3a1a4df0e9ecbdf5823d3ffabf42&s=8abf8057bf5e41be8fe54e9b29720603",
-        "short_url": "http://t.cn/A6Vnbb1P",
-        "weibo_url": "https://weibo.com/detail/4646170393841864"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6b914e46b94aa84611d5294570033361&s=4e83241b55d14c94b59c85cd087c63f8",
+        "short_url": "http://t.cn/A6VnbNmF",
+        "weibo_url": "https://weibo.com/detail/4646171211468002"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -542,14 +558,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e3148d7a3e97778bc98afe1506619bfb&s=01414ecbfc654af7980cedec68875d39",
         "short_url": "http://t.cn/A6VmhtXe",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c6db32f13817bd323632d6d82c4769a2&s=9e63931094e54347ac89eb9eeab0c0be",
-        "short_url": "http://t.cn/A6VmWaai",
-        "weibo_url": "https://weibo.com/detail/4646516406619443"
     },
     {
         "artist": "黄明昊 (Justin)",
