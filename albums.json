@@ -51,6 +51,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bb34dfe0d99ec736f1819499772add75&s=aa2ba6f3e43446088dcfed4df38de69c",
+        "short_url": "http://t.cn/A6Vuz4vY",
+        "weibo_url": "https://weibo.com/detail/4646621390049012"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e47cceeddb255818b11f01f23a667bc1&s=a9cd1b0fa2ec46be9e254812ead58437",
         "short_url": "http://t.cn/A6VnjK07",
         "weibo_url": "https://weibo.com/detail/4646266296601236"
@@ -443,17 +451,17 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6b914e46b94aa84611d5294570033361&s=4e83241b55d14c94b59c85cd087c63f8",
-        "short_url": "http://t.cn/A6VnbNmF",
-        "weibo_url": "https://weibo.com/detail/4646171211468002"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=aca804ed8b4492ecaa588361773f62d1&s=ab445db03cd746f488395388e2e0cbdc",
+        "short_url": "http://t.cn/A6VnLyAU",
+        "weibo_url": "https://weibo.com/detail/4646156354720792"
     },
     {
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=aca804ed8b4492ecaa588361773f62d1&s=ab445db03cd746f488395388e2e0cbdc",
-        "short_url": "http://t.cn/A6VnLyAU",
-        "weibo_url": "https://weibo.com/detail/4646156354720792"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6b914e46b94aa84611d5294570033361&s=4e83241b55d14c94b59c85cd087c63f8",
+        "short_url": "http://t.cn/A6VnbNmF",
+        "weibo_url": "https://weibo.com/detail/4646171211468002"
     },
     {
         "artist": "黄明昊 (Justin)",
