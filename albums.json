@@ -139,14 +139,6 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b61a7c85f5c2583f5fa361623a5d4fe6&s=4022ae8d85a84cc38f178193a394cebf",
-        "short_url": "http://t.cn/A6VndXgk",
-        "weibo_url": "https://weibo.com/detail/4646310391320948"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=107e6c7771af4ad3247a1905e8994282&s=92b1a4b9f80c49128d05d26de7a603ee",
         "short_url": "http://t.cn/A6Vnxnep",
         "weibo_url": "https://weibo.com/detail/4646206863840562"
@@ -155,17 +147,17 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a5120a5a4ff511f0c4eefe1339307854&s=77cf834311584e93b4c4787628b87d39",
-        "short_url": "http://t.cn/A6Vn9KGy",
-        "weibo_url": "https://weibo.com/detail/4646236031025658"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b61a7c85f5c2583f5fa361623a5d4fe6&s=4022ae8d85a84cc38f178193a394cebf",
+        "short_url": "http://t.cn/A6VndXgk",
+        "weibo_url": "https://weibo.com/detail/4646310391320948"
     },
     {
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ebb682fb86687ca0837110e6bf57526d&s=6a713add078b4c3ea4a65309f6de6b6d",
-        "short_url": "http://t.cn/A6VnDXjJ",
-        "weibo_url": "https://weibo.com/detail/4646316582372987"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a5120a5a4ff511f0c4eefe1339307854&s=77cf834311584e93b4c4787628b87d39",
+        "short_url": "http://t.cn/A6Vn9KGy",
+        "weibo_url": "https://weibo.com/detail/4646236031025658"
     },
     {
         "artist": "朱正廷",
@@ -190,6 +182,14 @@
         "url": "https://music.163.com/store/m/song/receive?tk=a1124b2beea685c448b2737ef03dc023&s=a80d4eb235ee49c9a21b72a963cfecd2",
         "short_url": "http://t.cn/A6Vm8NJS",
         "weibo_url": "https://weibo.com/detail/4646547445515981"
+    },
+    {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=6edde42bf034704d5e5e1d916b40d30f&s=52b7e296b1334dec8353d86ebe38cca1",
+        "short_url": "http://t.cn/A6Vu4T3A",
+        "weibo_url": "https://weibo.com/detail/4646651681574673"
     },
     {
         "artist": "李润祺",
@@ -278,6 +278,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e7000ac9d465bba8ce5090bf578b8832&s=8648ae1ecf0c40bc90f56e289ae9822a",
         "short_url": "http://t.cn/A6VnGijk",
         "weibo_url": "https://weibo.com/detail/4646174311846305"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a14b933f279679e4cea1f0044c990615&s=04e7992b9e7a42eb9e65be40889836bf",
+        "short_url": "http://t.cn/A6VuGuIv",
+        "weibo_url": "https://weibo.com/detail/4646658925397428"
     },
     {
         "artist": "范丞丞",
