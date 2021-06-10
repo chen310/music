@@ -208,14 +208,6 @@
         "weibo_url": "https://weibo.com/detail/4646198487813366"
     },
     {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=994543dd0a1d73219b117b258cd204ff&s=1c6ae8c5446a4dc89741103dff14c978",
-        "short_url": "http://t.cn/A6VRCDPA",
-        "weibo_url": "https://weibo.com/detail/4645785318196596"
-    },
-    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -443,9 +435,25 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1dee51c2225300cee27f06d39fc97b53&s=7b33fcdfdb584560ab996650b2f809ba",
+        "short_url": "http://t.cn/A6Vn2LKw",
+        "weibo_url": "https://weibo.com/detail/4646154313139609"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=28296e971c52bb46d2c0914313737d3e&s=5d833013277c43dba05d44521b87b971",
         "short_url": "http://t.cn/A6VnbdII",
         "weibo_url": "https://weibo.com/detail/4646172385348560"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6b914e46b94aa84611d5294570033361&s=4e83241b55d14c94b59c85cd087c63f8",
+        "short_url": "http://t.cn/A6VnbNmF",
+        "weibo_url": "https://weibo.com/detail/4646171211468002"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -574,6 +582,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5fa6c15a7f510d1b0d96586b2521ea09&s=e92184326f7c4a1da6abc576c2db7822",
         "short_url": "http://t.cn/A6VniEKP",
         "weibo_url": "https://weibo.com/detail/4646213079009180"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c6db32f13817bd323632d6d82c4769a2&s=9e63931094e54347ac89eb9eeab0c0be",
+        "short_url": "http://t.cn/A6VmWaai",
+        "weibo_url": "https://weibo.com/detail/4646516406619443"
     },
     {
         "artist": "黄明昊 (Justin)",
