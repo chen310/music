@@ -171,14 +171,6 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dc785e914a0975a390d3057ee3e57fd3&s=6ede1bbba98845529bfa9a54667059eb",
-        "short_url": "http://t.cn/A6VnEdIh",
-        "weibo_url": "https://weibo.com/detail/4646454172319815"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=af517055be99ced6303201de1be0792a&s=dfca93ebc8c74473a54eb3a667d1c799",
         "short_url": "http://t.cn/A6VnidPc",
         "weibo_url": "https://weibo.com/detail/4646213473797153"
@@ -438,6 +430,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7a36fa0c47fb06363a3c6d75d80d8479&s=60369aeb155744be9877fe6cbae95649",
         "short_url": "http://t.cn/A6VnLtRY",
         "weibo_url": "https://weibo.com/detail/4646156946901123"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6b914e46b94aa84611d5294570033361&s=4e83241b55d14c94b59c85cd087c63f8",
+        "short_url": "http://t.cn/A6VnbNmF",
+        "weibo_url": "https://weibo.com/detail/4646171211468002"
     },
     {
         "artist": "黄明昊 (Justin)",
