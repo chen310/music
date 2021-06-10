@@ -289,14 +289,6 @@
     },
     {
         "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5f695955380f73db2e30e15b3d34d6f2&s=bd0af971bd104f3a9804d7d88f3bb1f3",
-        "short_url": "http://t.cn/A6VRTorO",
-        "weibo_url": "https://weibo.com/detail/4645816394319375"
-    },
-    {
-        "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=15fe012f15485c9ab1af91748b9d6c68&s=9a01fce5407f4e4e97ba8a59aa730729",
@@ -315,14 +307,6 @@
         "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ee0d5f5ea1cabb3b3adac6178b9a5efc&s=5d72188d3a1344ffae1b7fe209280a5e",
-        "short_url": "http://t.cn/A6VRTWwM",
-        "weibo_url": "https://weibo.com/detail/4645817229250676"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=34646e60f2f4010cc536572d6c9ce7fa&s=5abfef3ea8a84aa79a57c9a7108fd851",
         "short_url": "http://t.cn/A6VnGijF",
         "weibo_url": "https://weibo.com/detail/4646174311846305"
@@ -334,14 +318,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=4aad0c01de1c4e0a40355ff6d395b426&s=54057bc49c3246c4b8b9202dc26d3dff",
         "short_url": "http://t.cn/A6VnbK01",
         "weibo_url": "https://weibo.com/detail/4646171043697158"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8b45a7e8fe82cd4aaa8f0748c7c33841&s=4d4e241e9c904a6f872a8f5bb9307d27",
-        "short_url": "http://t.cn/A6VRTNyH",
-        "weibo_url": "https://weibo.com/detail/4645816604820381"
     },
     {
         "artist": "范丞丞",
@@ -366,14 +342,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2bf5c6901f6367b4bc4cf42ceb217dde&s=06a738a9c1c948b7b9a00353a0739a44",
         "short_url": "http://t.cn/A6VnGm6n",
         "weibo_url": "https://weibo.com/detail/4646175716151528"
-    },
-    {
-        "artist": "莫寒",
-        "name": "梦与星光的海上",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=7bd5c1996a96fc16437980c7e52d911c&s=ea78d6a61bfc4edfbf5a9f7814468d7b",
-        "short_url": "http://t.cn/A6Vm9A76",
-        "weibo_url": "https://weibo.com/detail/4646492926644751"
     },
     {
         "artist": "黄明昊 (Justin)",
@@ -438,6 +406,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=85ad3a1a4df0e9ecbdf5823d3ffabf42&s=8abf8057bf5e41be8fe54e9b29720603",
         "short_url": "http://t.cn/A6Vnbb1P",
         "weibo_url": "https://weibo.com/detail/4646170393841864"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=89d3f6a9036ea87609032a64064d9041&s=6bcb6a4c544e4d41a1a145a672678364",
+        "short_url": "http://t.cn/A6VmH9rT",
+        "weibo_url": "https://weibo.com/detail/4646538444538778"
     },
     {
         "artist": "黄明昊 (Justin)",
