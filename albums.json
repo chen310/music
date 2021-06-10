@@ -163,17 +163,17 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ebb682fb86687ca0837110e6bf57526d&s=6a713add078b4c3ea4a65309f6de6b6d",
-        "short_url": "http://t.cn/A6VnDXjJ",
-        "weibo_url": "https://weibo.com/detail/4646316582372987"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a5120a5a4ff511f0c4eefe1339307854&s=77cf834311584e93b4c4787628b87d39",
+        "short_url": "http://t.cn/A6Vn9KGy",
+        "weibo_url": "https://weibo.com/detail/4646236031025658"
     },
     {
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a5120a5a4ff511f0c4eefe1339307854&s=77cf834311584e93b4c4787628b87d39",
-        "short_url": "http://t.cn/A6Vn9KGy",
-        "weibo_url": "https://weibo.com/detail/4646236031025658"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ebb682fb86687ca0837110e6bf57526d&s=6a713add078b4c3ea4a65309f6de6b6d",
+        "short_url": "http://t.cn/A6VnDXjJ",
+        "weibo_url": "https://weibo.com/detail/4646316582372987"
     },
     {
         "artist": "朱正廷",
@@ -342,6 +342,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ebeb368798341b8c13f3e025d3b8718b&s=ce043249175848609e47083ecbb38877",
         "short_url": "http://t.cn/A6VuP4F2",
         "weibo_url": "https://weibo.com/detail/4646609911287867"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0bb393f4ca2efb3b94d02d983a9d7d6c&s=10f0df94a1d8463982f36cdbb32efddb",
+        "short_url": "http://t.cn/A6VuZWwX",
+        "weibo_url": "https://weibo.com/detail/4646627064942278"
     },
     {
         "artist": "鞠婧祎",
