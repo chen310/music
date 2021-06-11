@@ -219,6 +219,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=642c01128d6a15607863720cabea5be2&s=0d11ecca22974dcb9609e05f4d8e75f0",
+        "short_url": "http://t.cn/A6Vn4tWS",
+        "weibo_url": "https://weibo.com/detail/4646851368197118"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=1cee7c0e1115b3320d7f44e888d584f8&s=4d33c197ca5e4ac099886fa9187a3062",
         "short_url": "http://t.cn/A6Vn5nHP",
         "weibo_url": "https://weibo.com/detail/4646836712769820"
@@ -333,7 +341,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=479d6b3d3435ef7d795442c692892c88&s=ab7adf6ec19c44a9b27f2f5e284bb0ce",
         "short_url": "http://t.cn/A6VueM8E",
-        "weibo_url": "https://weibo.com/detail/4646826017292747"
+        "weibo_url": "https://weibo.com/detail/4646827548741423"
     },
     {
         "artist": "范丞丞",
