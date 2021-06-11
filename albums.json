@@ -59,14 +59,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e47cceeddb255818b11f01f23a667bc1&s=a9cd1b0fa2ec46be9e254812ead58437",
-        "short_url": "http://t.cn/A6VnjK07",
-        "weibo_url": "https://weibo.com/detail/4646266296601236"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=6a5fb050f5b4098aaf1d6a54b13ec62a&s=a21402d093c041eab05cd48d30d51aa2",
         "short_url": "http://t.cn/A6VufqLA",
         "weibo_url": "https://weibo.com/detail/4646668768646670"
@@ -80,20 +72,20 @@
         "weibo_url": "https://weibo.com/detail/4646296373956758"
     },
     {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=20ddff7adc26534db3ea87fc3a61a04c&s=43f716a48f564be4bdbb31f34ee667d3",
-        "short_url": "http://t.cn/A6V30SZc",
-        "weibo_url": "https://weibo.com/detail/4646975011817467"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5a511cdacb51c4a106d20939e043b546&s=bb3bba1aeaed4c1598de2394e16d1048",
         "short_url": "http://t.cn/A6VuyX1P",
         "weibo_url": "https://weibo.com/detail/4646645172800634"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c42767ff3c48f82c52b24ce329cfd92e&s=19781e96541543ef9ba8a3beb060b5f3",
+        "short_url": "http://t.cn/A6V3jsgE",
+        "weibo_url": "https://weibo.com/detail/4646991479182112"
     },
     {
         "artist": "范丞丞",
