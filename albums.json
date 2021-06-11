@@ -1,13 +1,5 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7fcfdd03a5e8a63a8ef7cec485799018&s=e840fb38cdd34c93a905683f09aa629a",
-        "short_url": "http://t.cn/A6VnPlsx",
-        "weibo_url": "https://weibo.com/detail/4646132213616344"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -46,6 +38,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e1ed92064a022cfc3cdc0ab60db115cc&s=86347f40c13341b6a62f5b661569022f",
         "short_url": "http://t.cn/A6VutBv0",
         "weibo_url": "https://weibo.com/detail/4646664377993315"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b895b8d00ff07de8100b0a608ee18a16&s=17997b3c504b46ce812b0c82b30f3db0",
+        "short_url": "http://t.cn/A6V37y76",
+        "weibo_url": "https://weibo.com/detail/4646854237885404"
     },
     {
         "artist": "张哲瀚",
@@ -259,14 +259,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2dd7b2f08ec6d7bc6e95741589c5f313&s=fbbaa49115f74343aeb8cdd0f834c225",
-        "short_url": "http://t.cn/A6Vn4npT",
-        "weibo_url": "https://weibo.com/detail/4646168531307493"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=92c017ccb6469e223e27109e4d715db1&s=05ba683e52e84f73b5c1cbd85b9a1224",
         "short_url": "http://t.cn/A6VnG6vv",
         "weibo_url": "https://weibo.com/detail/4646174331503053"
@@ -278,6 +270,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9ed62c26b8da0b152bcf156ef088623b&s=8e4f36299199411e96d91b2a7d403ece",
         "short_url": "http://t.cn/A6Vn4Gj6",
         "weibo_url": "https://weibo.com/detail/4646166563653749"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2dd7b2f08ec6d7bc6e95741589c5f313&s=fbbaa49115f74343aeb8cdd0f834c225",
+        "short_url": "http://t.cn/A6Vn4npT",
+        "weibo_url": "https://weibo.com/detail/4646168531307493"
     },
     {
         "artist": "范丞丞",
@@ -341,7 +341,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=479d6b3d3435ef7d795442c692892c88&s=ab7adf6ec19c44a9b27f2f5e284bb0ce",
         "short_url": "http://t.cn/A6VueM8E",
-        "weibo_url": "https://weibo.com/detail/4646827548741423"
+        "weibo_url": "https://weibo.com/detail/4646827783098729"
     },
     {
         "artist": "范丞丞",
@@ -390,6 +390,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2bf5c6901f6367b4bc4cf42ceb217dde&s=06a738a9c1c948b7b9a00353a0739a44",
         "short_url": "http://t.cn/A6VnGm6n",
         "weibo_url": "https://weibo.com/detail/4646175716151528"
+    },
+    {
+        "artist": "赵泳鑫",
+        "name": "慢镜头",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=a0a54d74e96294d2c68b671f7166262c&s=0b7b0affcb914514a570d34ed1f1b5a4",
+        "short_url": "http://t.cn/A6V37EhK",
+        "weibo_url": "https://weibo.com/detail/4646856452211649"
     },
     {
         "artist": "鞠婧祎",
