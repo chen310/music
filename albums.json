@@ -75,14 +75,6 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=efda7625c57f5d0d6907cf895e562e7a&s=a4405336b23f456e8c31de3d1283d4a4",
-        "short_url": "http://t.cn/A6VnCgOS",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=86ffa68c31e486849b9d5158eb70cba0&s=efda0232e171497e95768bd56c08fe28",
         "short_url": "http://t.cn/A6Vn9Z4H",
         "weibo_url": "https://weibo.com/detail/4646234398655585"
@@ -102,14 +94,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=35912255d7359649f31cb0383ab1b5a4&s=f5067977fec041a984f6cd047a69976b",
         "short_url": "http://t.cn/A6VnnaMc",
         "weibo_url": "https://weibo.com/detail/4646296373956758"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=af517055be99ced6303201de1be0792a&s=dfca93ebc8c74473a54eb3a667d1c799",
-        "short_url": "http://t.cn/A6VnidPc",
-        "weibo_url": "https://weibo.com/detail/4646213473797153"
     },
     {
         "artist": "戴萌",
@@ -214,13 +198,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=89d3f6a9036ea87609032a64064d9041&s=6bcb6a4c544e4d41a1a145a672678364",
         "short_url": "http://t.cn/A6VmH9rT",
         "weibo_url": "https://weibo.com/detail/4646538444538778"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5fa6c15a7f510d1b0d96586b2521ea09&s=e92184326f7c4a1da6abc576c2db7822",
-        "short_url": "http://t.cn/A6VniEKP",
-        "weibo_url": "https://weibo.com/detail/4646213079009180"
     }
 ]
