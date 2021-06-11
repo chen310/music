@@ -1,5 +1,13 @@
 [
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=76fd82a7f33b321b58b78037ee5dc66f&s=0fa7b0bf70864bfb83e6f856ba59d2fd",
+        "short_url": "http://t.cn/A6V3ZOSo",
+        "weibo_url": "https://weibo.com/detail/4646863015516182"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -54,14 +62,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e47cceeddb255818b11f01f23a667bc1&s=a9cd1b0fa2ec46be9e254812ead58437",
         "short_url": "http://t.cn/A6VnjK07",
         "weibo_url": "https://weibo.com/detail/4646266296601236"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=31ee148981aeebd7ed1424194444a6be&s=681016bb813d47a38de51e44d9acf4c7",
-        "short_url": "http://t.cn/A6Vnze4P",
-        "weibo_url": "https://weibo.com/detail/4646142661627263"
     },
     {
         "artist": "张哲瀚",
@@ -379,17 +379,17 @@
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0634a7cd2eb75d6dd07d1230702f33ff&s=951016beda844c0780a333e9cdca620c",
-        "short_url": "http://t.cn/A6Vue17e",
-        "weibo_url": "https://weibo.com/detail/4646827644686899"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2bf5c6901f6367b4bc4cf42ceb217dde&s=06a738a9c1c948b7b9a00353a0739a44",
+        "short_url": "http://t.cn/A6VnGm6n",
+        "weibo_url": "https://weibo.com/detail/4646175716151528"
     },
     {
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2bf5c6901f6367b4bc4cf42ceb217dde&s=06a738a9c1c948b7b9a00353a0739a44",
-        "short_url": "http://t.cn/A6VnGm6n",
-        "weibo_url": "https://weibo.com/detail/4646175716151528"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0634a7cd2eb75d6dd07d1230702f33ff&s=951016beda844c0780a333e9cdca620c",
+        "short_url": "http://t.cn/A6Vue17e",
+        "weibo_url": "https://weibo.com/detail/4646827644686899"
     },
     {
         "artist": "鞠婧祎",
