@@ -209,30 +209,6 @@
     },
     {
         "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=92c017ccb6469e223e27109e4d715db1&s=05ba683e52e84f73b5c1cbd85b9a1224",
-        "short_url": "http://t.cn/A6VnG6vv",
-        "weibo_url": "https://weibo.com/detail/4646174331503053"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fad853986f77e00b4d4041a657389f32&s=cae52d55a23f4d4d91469e499b6ecc3c",
-        "short_url": "http://t.cn/A6VnGRnd",
-        "weibo_url": "https://weibo.com/detail/4646175981175870"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e7000ac9d465bba8ce5090bf578b8832&s=8648ae1ecf0c40bc90f56e289ae9822a",
-        "short_url": "http://t.cn/A6VnGijk",
-        "weibo_url": "https://weibo.com/detail/4646174311846305"
-    },
-    {
-        "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a14b933f279679e4cea1f0044c990615&s=04e7992b9e7a42eb9e65be40889836bf",
@@ -272,30 +248,6 @@
         "weibo_url": "https://weibo.com/detail/4646187938086962"
     },
     {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=05d5c81bed4c93e10d631bf8bac16ef7&s=85f78a7be3634b22a7202ddd15eb5677",
-        "short_url": "http://t.cn/A6VnGijg",
-        "weibo_url": "https://weibo.com/detail/4646174311846305"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2bf5c6901f6367b4bc4cf42ceb217dde&s=06a738a9c1c948b7b9a00353a0739a44",
-        "short_url": "http://t.cn/A6VnGm6n",
-        "weibo_url": "https://weibo.com/detail/4646175716151528"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0634a7cd2eb75d6dd07d1230702f33ff&s=951016beda844c0780a333e9cdca620c",
-        "short_url": "http://t.cn/A6Vue17e",
-        "weibo_url": "https://weibo.com/detail/4646827644686899"
-    },
-    {
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
@@ -331,22 +283,6 @@
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0ca89f53acc6d0e0b6a12ec38412ec12&s=0ea59945d0d34ba0938d8e778b0ba444",
-        "short_url": "http://t.cn/A6VnGsG2",
-        "weibo_url": "https://weibo.com/detail/4646176413188856"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1a56feddc647d73560e383ddab058d78&s=a817072dd69d4d318e3982dd98b508af",
-        "short_url": "http://t.cn/A6Vnq925",
-        "weibo_url": "https://weibo.com/detail/4646178199177683"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e6e59692bda6e0110ccbe75270aa4355&s=07cad57d820145ccbfbdf04438d578e4",
         "short_url": "http://t.cn/A6Vn5V66",
         "weibo_url": "https://weibo.com/detail/4646181244505668"
@@ -358,13 +294,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5fa6c15a7f510d1b0d96586b2521ea09&s=e92184326f7c4a1da6abc576c2db7822",
         "short_url": "http://t.cn/A6VniEKP",
         "weibo_url": "https://weibo.com/detail/4646213079009180"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Liar",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=10a7b39922491587f50a2c4a2e35045d&s=93828e05a4c14b709be9f7148f06ae81",
-        "short_url": "http://t.cn/A6VnqIzX",
-        "weibo_url": "https://weibo.com/detail/4646177591787601"
     }
 ]
