@@ -51,6 +51,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bad6fbe9f3aca11ab96c0c23c18f04e6&s=45da750e04334776b3e5ad5896895065",
+        "short_url": "http://t.cn/A6VBXU0G",
+        "weibo_url": "https://weibo.com/detail/4647384757311878"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a366ff797d5b662084e9f70e12492360&s=f995f2c3ae3248878c6e53ba17dcfbc8",
         "short_url": "http://t.cn/A6V3fX2s",
         "weibo_url": "https://weibo.com/detail/4646920457552901"
@@ -78,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=1638e55306e67a912d0e6050cd0fa70b&s=3f9499e132df445091f9db45282d2e26",
         "short_url": "http://t.cn/A6V3gE2I",
         "weibo_url": "https://weibo.com/detail/4647036173686416"
+    },
+    {
+        "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=59ecea52f6b9c25eda043620cc91def8&s=f65f00de3110464fae82663687bcfe73",
+        "short_url": "http://t.cn/A6VBnSY8",
+        "weibo_url": "https://weibo.com/detail/4647382308361392"
     },
     {
         "artist": "李润祺",
@@ -142,14 +158,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=eb9f922167ecd6ab31111186ebd4aa22&s=0dcf1660284d41da853625fcbacbd46a",
         "short_url": "http://t.cn/A6VuePCI",
         "weibo_url": "https://weibo.com/detail/4646824566591291"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a14b933f279679e4cea1f0044c990615&s=04e7992b9e7a42eb9e65be40889836bf",
-        "short_url": "http://t.cn/A6VuGuIv",
-        "weibo_url": "https://weibo.com/detail/4646831202764107"
     },
     {
         "artist": "范丞丞",
