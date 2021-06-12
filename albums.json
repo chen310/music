@@ -3,6 +3,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8934d4a0dde24dac609c1df1fabf6d44&s=59d1ba30d8a442b1ad6e63b0145e30f6",
+        "short_url": "http://t.cn/A6V1NBHn",
+        "weibo_url": "https://weibo.com/detail/4647213613190812"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c28bb6e723e08970154e71b302e779dd&s=8c2338a019114b14ba8aa8a03710366f",
         "short_url": "http://t.cn/A6VuSThG",
         "weibo_url": "https://weibo.com/detail/4646685089468973"
@@ -83,6 +91,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0d565c1129c8c386e93ac7d4446ac64b&s=e9c7bbed2f6848f296a0a8e09cf08fe5",
+        "short_url": "http://t.cn/A6V1NyyE",
+        "weibo_url": "https://weibo.com/detail/4647212179261069"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5a511cdacb51c4a106d20939e043b546&s=bb3bba1aeaed4c1598de2394e16d1048",
         "short_url": "http://t.cn/A6VuyX1P",
         "weibo_url": "https://weibo.com/detail/4646645172800634"
@@ -102,6 +118,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=c42767ff3c48f82c52b24ce329cfd92e&s=19781e96541543ef9ba8a3beb060b5f3",
         "short_url": "http://t.cn/A6V3jsgE",
         "weibo_url": "https://weibo.com/detail/4646991479182112"
+    },
+    {
+        "artist": "管栎",
+        "name": "CENTER",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=638f83d8174480142d749dec4616df8f&s=c9f2ad2f31da4e69ade95ec8329de516",
+        "short_url": "http://t.cn/A6V1Nrsi",
+        "weibo_url": "https://weibo.com/detail/4647213651722731"
     },
     {
         "artist": "范丞丞",
