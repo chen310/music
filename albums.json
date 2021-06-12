@@ -51,17 +51,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=33d65f0acfc5b2adf514cc2672a62e91&s=ce98428ead224608a25b43ddfc410c26",
-        "short_url": "http://t.cn/A6V3fiIS",
-        "weibo_url": "https://weibo.com/detail/4646920812757146"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6a5fb050f5b4098aaf1d6a54b13ec62a&s=a21402d093c041eab05cd48d30d51aa2",
+        "short_url": "http://t.cn/A6VufqLA",
+        "weibo_url": "https://weibo.com/detail/4646668768646670"
     },
     {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6a5fb050f5b4098aaf1d6a54b13ec62a&s=a21402d093c041eab05cd48d30d51aa2",
-        "short_url": "http://t.cn/A6VufqLA",
-        "weibo_url": "https://weibo.com/detail/4646668768646670"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=33d65f0acfc5b2adf514cc2672a62e91&s=ce98428ead224608a25b43ddfc410c26",
+        "short_url": "http://t.cn/A6V3fiIS",
+        "weibo_url": "https://weibo.com/detail/4646920812757146"
     },
     {
         "artist": "戴萌",
@@ -198,13 +198,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=35d903a97e4c81e5f814cdeed4de2646&s=19e3bf844bfd4a3eb4286a14230823e1",
         "short_url": "http://t.cn/A6V36fgM",
         "weibo_url": "https://weibo.com/detail/4646940102628430"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ebeb368798341b8c13f3e025d3b8718b&s=ce043249175848609e47083ecbb38877",
-        "short_url": "http://t.cn/A6VuP4F2",
-        "weibo_url": "https://weibo.com/detail/4646609911287867"
     }
 ]
