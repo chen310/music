@@ -112,14 +112,6 @@
         "weibo_url": "https://weibo.com/detail/4646991479182112"
     },
     {
-        "artist": "管栎",
-        "name": "CENTER",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=638f83d8174480142d749dec4616df8f&s=c9f2ad2f31da4e69ade95ec8329de516",
-        "short_url": "http://t.cn/A6V1Nrsi",
-        "weibo_url": "https://weibo.com/detail/4647213651722731"
-    },
-    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -206,13 +198,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ebeb368798341b8c13f3e025d3b8718b&s=ce043249175848609e47083ecbb38877",
         "short_url": "http://t.cn/A6VuP4F2",
         "weibo_url": "https://weibo.com/detail/4646609911287867"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=89d3f6a9036ea87609032a64064d9041&s=6bcb6a4c544e4d41a1a145a672678364",
-        "short_url": "http://t.cn/A6VmH9rT",
-        "weibo_url": "https://weibo.com/detail/4646538444538778"
     }
 ]
