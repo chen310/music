@@ -41,6 +41,14 @@
     },
     {
         "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=4f612fc7204912b530f5e01d7d414fc6&s=c31400aa2fd74b7388c9afabe7609852",
+        "short_url": "http://t.cn/A6Vg4J38",
+        "weibo_url": "https://weibo.com/detail/4647790054214665"
+    },
+    {
+        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=0d565c1129c8c386e93ac7d4446ac64b&s=e9c7bbed2f6848f296a0a8e09cf08fe5",
@@ -118,5 +126,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=98878636ffb66e136572d8c4817ef02e&s=6dd466acceae4183b29412cfc5dba214",
         "short_url": "http://t.cn/A6VdRvuJ",
         "weibo_url": "https://weibo.com/detail/4647725678725454"
+    },
+    {
+        "artist": "黄鲲",
+        "name": "躲在被窝里呼吸",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=9686837cec2aff1f05d6e9a893b2bbbf&s=7885163477a649e180ea452744bed3c8",
+        "short_url": "http://t.cn/A6Vg4J3R",
+        "weibo_url": "https://weibo.com/detail/4647790054214665"
     }
 ]
