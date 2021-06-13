@@ -27,6 +27,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f27e96e4141e42f547a41f74420428e2&s=c59a8f68fd624705b3f6e9e3be05fc7f",
+        "short_url": "http://t.cn/A6VgtVn3",
+        "weibo_url": "https://weibo.com/detail/4647808596707020"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ab221d4b79c200780cf5736761226886&s=e1d5645632b14100a77e1aa067fc10cc",
         "short_url": "http://t.cn/A6VdZvc2",
         "weibo_url": "https://weibo.com/detail/4647555139111068"
@@ -126,13 +134,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=98878636ffb66e136572d8c4817ef02e&s=6dd466acceae4183b29412cfc5dba214",
         "short_url": "http://t.cn/A6VdRvuJ",
         "weibo_url": "https://weibo.com/detail/4647725678725454"
-    },
-    {
-        "artist": "黄鲲",
-        "name": "躲在被窝里呼吸",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=9686837cec2aff1f05d6e9a893b2bbbf&s=7885163477a649e180ea452744bed3c8",
-        "short_url": "http://t.cn/A6Vg4J3R",
-        "weibo_url": "https://weibo.com/detail/4647790054214665"
     }
 ]
