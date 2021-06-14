@@ -19,14 +19,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8934d4a0dde24dac609c1df1fabf6d44&s=59d1ba30d8a442b1ad6e63b0145e30f6",
-        "short_url": "http://t.cn/A6V1NBHn",
-        "weibo_url": "https://weibo.com/detail/4647213613190812"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=7b609d55df4aab17eb29a13282aeadd7&s=d5764d6c6dcf44b7afd88f61cb9b8f9b",
         "short_url": "http://t.cn/A6Vg0HWt",
         "weibo_url": "https://weibo.com/detail/4647920974958825"
@@ -54,6 +46,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=bad6fbe9f3aca11ab96c0c23c18f04e6&s=45da750e04334776b3e5ad5896895065",
         "short_url": "http://t.cn/A6VBXU0G",
         "weibo_url": "https://weibo.com/detail/4647384757311878"
+    },
+    {
+        "artist": "李易峰",
+        "name": "Dream Visit",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=db5cbd6e83a7baedb16f532aa36400dc&s=e4f8403b826c4d0b81f592a53d21776c",
+        "short_url": "http://t.cn/A6VgYVrY",
+        "weibo_url": "https://weibo.com/detail/4647937848903888"
+    },
+    {
+        "artist": "李易峰",
+        "name": "角色",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=86b34f02e7bb650f614abc427382146e&s=5534bb60863e41c189145567e088c210",
+        "short_url": "http://t.cn/A6VgYCXF",
+        "weibo_url": "https://weibo.com/detail/4647938657617962"
     },
     {
         "artist": "李润祺",
