@@ -24,14 +24,6 @@
         "weibo_url": "https://weibo.com/detail/4647576215490753"
     },
     {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=20542327fb3b682ce889373022f8b059&s=107e0eead81f4762960859db0a5ce23b",
-        "short_url": "http://t.cn/A6VdLEsj",
-        "weibo_url": "https://weibo.com/detail/4647571739641178"
-    },
-    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -62,13 +54,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=98878636ffb66e136572d8c4817ef02e&s=6dd466acceae4183b29412cfc5dba214",
         "short_url": "http://t.cn/A6VdRvuJ",
         "weibo_url": "https://weibo.com/detail/4647725678725454"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=adf4ab11472fb477e9bf993bb04c38a2&s=e2c46f2f715744fba19560ea12170e5e",
-        "short_url": "http://t.cn/A6VeQAzT",
-        "weibo_url": "https://weibo.com/detail/4648161421558683"
     }
 ]
