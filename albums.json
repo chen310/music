@@ -49,6 +49,14 @@
     },
     {
         "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=3488b7e9a986624a7d86d80032e6b32a&s=af5c4905317445c6b85af0b4cc5493d2",
+        "short_url": "http://t.cn/A6VDll04",
+        "weibo_url": "https://weibo.com/detail/4648452866182429"
+    },
+    {
+        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=38897aa8fc851260998a4a6ea517a7ba&s=5cfbc7f1cd9043dc964e1285a57150c0",
@@ -78,14 +86,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5b58453875b7b16c2e7602ab0180631a&s=fcfc507bc6204e30b1f70f81e4014cc2",
         "short_url": "http://t.cn/A6VDcqOs",
         "weibo_url": "https://weibo.com/detail/4648357249680249"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=98878636ffb66e136572d8c4817ef02e&s=6dd466acceae4183b29412cfc5dba214",
-        "short_url": "http://t.cn/A6VdRvuJ",
-        "weibo_url": "https://weibo.com/detail/4647725678725454"
     },
     {
         "artist": "黄明昊 (Justin)",
