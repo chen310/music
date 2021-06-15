@@ -27,6 +27,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f43bec8104fc342a12802b7d40313ba5&s=0735037c65b7409fb11bff9bceb4252d",
+        "short_url": "http://t.cn/A6VD1ixo",
+        "weibo_url": "https://weibo.com/detail/4648488141065852"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=11c975054dc84e782b76ab4bdba52edc&s=85d9df8a1f7c403c9830de374bafcf0b",
         "short_url": "http://t.cn/A6VDuhov",
         "weibo_url": "https://weibo.com/detail/4648483153513425"
@@ -137,11 +145,11 @@
     },
     {
         "artist": "罗云熙",
-        "name": "逆流而上",
+        "name": "等风停",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=72f94459010aee5bcf1abe0344169cf0&s=ea151edbc42f469e91fa8991107fb3a2",
-        "short_url": "http://t.cn/A6VDuikd",
-        "weibo_url": "https://weibo.com/detail/4648483951219006"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3adf45d7fc279941294cf1c779cffbcf&s=5258e46d0d8f49b0b0578df86f2e2c21",
+        "short_url": "http://t.cn/A6VD3kgs",
+        "weibo_url": "https://weibo.com/detail/4648487209408584"
     },
     {
         "artist": "范丞丞",
