@@ -13,7 +13,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=43424178e98960c7020c1093b0668ecd&s=f7b032ff272f4ef88d2f0a55d2a832e7",
         "short_url": "http://t.cn/A6VkmNm5",
-        "weibo_url": "https://weibo.com/detail/4648757721305350"
+        "weibo_url": "https://weibo.com/detail/4648758698315895"
     },
     {
         "artist": "孟美岐",
@@ -291,14 +291,6 @@
         "artist": "戴萌",
         "name": "How we do it",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a44630e93a47375e275b6f94c5a5c64f&s=89bdf9455dbd407f809e83a94c64e3f5",
-        "short_url": "http://t.cn/A6Vk0JYp",
-        "weibo_url": "https://weibo.com/detail/4648768999260601"
-    },
-    {
-        "artist": "戴萌",
-        "name": "How we do it",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=67beb3abc9d86a450e65a27d610f6c4c&s=613974ba3d8e4ee2a18fe810b5051615",
         "short_url": "http://t.cn/A6VDqBag",
         "weibo_url": "https://weibo.com/detail/4648346058231210"
@@ -312,12 +304,12 @@
         "weibo_url": "https://weibo.com/detail/4648361301377961"
     },
     {
-        "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=892c5c8f57d2e9b04b693b7336a0b2c5&s=20e46df3d60d4fa293602b0867004c11",
-        "short_url": "http://t.cn/A6VkX67D",
-        "weibo_url": "https://weibo.com/detail/4648670936700629"
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a44630e93a47375e275b6f94c5a5c64f&s=89bdf9455dbd407f809e83a94c64e3f5",
+        "short_url": "http://t.cn/A6Vk0JYp",
+        "weibo_url": "https://weibo.com/detail/4648768999260601"
     },
     {
         "artist": "李润祺",
@@ -459,6 +451,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=59dbaf43132bf79ef5d5910cb78ff839&s=94708f13c2934f699a9bb99a6778245d",
+        "short_url": "http://t.cn/A6VkOan1",
+        "weibo_url": "https://weibo.com/detail/4648794513739802"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=292b0d83859275003402fe9c0fa494fb&s=60e6a55b421e45ff89d672f7eae513a7",
         "short_url": "http://t.cn/A6VkOzx4",
         "weibo_url": "https://weibo.com/detail/4648707184920815"
@@ -485,7 +485,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=2cab155c11e87b2ed1ad0c640716fdac&s=cd7751f707c147509a6eda2877c83e19",
         "short_url": "http://t.cn/A6VkObMK",
-        "weibo_url": "https://weibo.com/detail/4648707767407928"
+        "weibo_url": "https://weibo.com/detail/4648794513739802"
     },
     {
         "artist": "范丞丞",
@@ -507,14 +507,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2c35baa49f2cabee54e5dd2fcbfe3966&s=1fe1d0624ed149cd9e1f82ad1892a724",
-        "short_url": "http://t.cn/A6VkBIaW",
-        "weibo_url": "https://weibo.com/detail/4648772666395881"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b885984b2d2f9aefbad0bdf567cf72f3&s=017b71635d064d9d961b70f86913f7b5",
         "short_url": "http://t.cn/A6VkCn06",
         "weibo_url": "https://weibo.com/detail/4648694509471350"
@@ -531,6 +523,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2c35baa49f2cabee54e5dd2fcbfe3966&s=1fe1d0624ed149cd9e1f82ad1892a724",
+        "short_url": "http://t.cn/A6VkBIaW",
+        "weibo_url": "https://weibo.com/detail/4648772666395881"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=806831f947c81e6cae276729aaf30262&s=ec756da949df4926bcc4a57cb15c9643",
         "short_url": "http://t.cn/A6VkWNqp",
         "weibo_url": "https://weibo.com/detail/4648713370472210"
@@ -539,9 +539,25 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c62dd15beefeacb694fdef55cba2080f&s=538b6bf994e54bbb82c3811537a97466",
+        "short_url": "http://t.cn/A6VkOMb3",
+        "weibo_url": "https://weibo.com/detail/4648793310495920"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=521de319a2489b411e52d65c0ef7631d&s=74b169108c18476c9807017a5b54e2d1",
         "short_url": "http://t.cn/A6VktJj7",
         "weibo_url": "https://weibo.com/detail/4648632371118272"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3f76730ff1d83ee487197c957f065f6a&s=922d9f5c97b946d5b53f091841e98846",
+        "short_url": "http://t.cn/A6VkOtFI",
+        "weibo_url": "https://weibo.com/detail/4648794513739802"
     },
     {
         "artist": "范丞丞",
@@ -590,6 +606,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5b58453875b7b16c2e7602ab0180631a&s=fcfc507bc6204e30b1f70f81e4014cc2",
         "short_url": "http://t.cn/A6VDcqOs",
         "weibo_url": "https://weibo.com/detail/4648357249680249"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=919c80b3f1b7a6ae7c4e2c74331f2a66&s=9c4aea89c1d74627847decfdcd0949c8",
+        "short_url": "http://t.cn/A6VkO0pd",
+        "weibo_url": "https://weibo.com/detail/4648794513739802"
     },
     {
         "artist": "范丞丞",
