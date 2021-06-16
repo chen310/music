@@ -187,6 +187,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fee847fbcedc1bbc2a0083ba1c155664&s=c683aa0bc951466ebc1d3fa07b8a5035",
+        "short_url": "http://t.cn/A6VkNgyy",
+        "weibo_url": "https://weibo.com/detail/4648698509788380"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=980abd86b54c45da673d80863791ec17&s=05ea908d394247319593e415d7443630",
         "short_url": "http://t.cn/A6VkIkOP",
         "weibo_url": "https://weibo.com/detail/4648650867214013"
@@ -451,17 +459,25 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=521de319a2489b411e52d65c0ef7631d&s=74b169108c18476c9807017a5b54e2d1",
-        "short_url": "http://t.cn/A6VktJj7",
-        "weibo_url": "https://weibo.com/detail/4648632371118272"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ada612b77a5f7f88cdce843d211fb848&s=93cf47cb385047de8631bdc3b5540cb2",
+        "short_url": "http://t.cn/A6VkCDpW",
+        "weibo_url": "https://weibo.com/detail/4648695028780767"
     },
     {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d8fa57ddb72e4b256edcfff07e48339b&s=ca070bc8ab4f4d4fb8e3e2aa660048db",
-        "short_url": "http://t.cn/A6VDfkuy",
-        "weibo_url": "https://weibo.com/detail/4648368129967063"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b885984b2d2f9aefbad0bdf567cf72f3&s=017b71635d064d9d961b70f86913f7b5",
+        "short_url": "http://t.cn/A6VkCn06",
+        "weibo_url": "https://weibo.com/detail/4648694509471350"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=521de319a2489b411e52d65c0ef7631d&s=74b169108c18476c9807017a5b54e2d1",
+        "short_url": "http://t.cn/A6VktJj7",
+        "weibo_url": "https://weibo.com/detail/4648632371118272"
     },
     {
         "artist": "范丞丞",
@@ -494,14 +510,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ae4458cf1805bedf350daa23522dda95&s=0a267d0538e4491094edee36d628045c",
         "short_url": "http://t.cn/A6VktqIl",
         "weibo_url": "https://weibo.com/detail/4648631762157811"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "咦？",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fcb1e82dadc3d472fb26c2ca65661d18&s=6809ee4d5068458280325a03fc67e219",
-        "short_url": "http://t.cn/A6Vk9I75",
-        "weibo_url": "https://weibo.com/detail/4648689094628906"
     },
     {
         "artist": "鞠婧祎",
