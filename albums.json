@@ -219,14 +219,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b8b06f3798ba1c89757a6c04042e97f7&s=3ef8c36ee25f44ad8790871fdeb5bfce",
-        "short_url": "http://t.cn/A6VDBAqh",
-        "weibo_url": "https://weibo.com/detail/4648494259765811"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=11c975054dc84e782b76ab4bdba52edc&s=85d9df8a1f7c403c9830de374bafcf0b",
         "short_url": "http://t.cn/A6VDuhov",
         "weibo_url": "https://weibo.com/detail/4648483153513425"
@@ -246,6 +238,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a70461272801190e5490d81c1640b5e9&s=aefec8fc70c8466a85f5257080d96066",
         "short_url": "http://t.cn/A6VDmkIG",
         "weibo_url": "https://weibo.com/detail/4648482968701412"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b8b06f3798ba1c89757a6c04042e97f7&s=3ef8c36ee25f44ad8790871fdeb5bfce",
+        "short_url": "http://t.cn/A6VDBAqh",
+        "weibo_url": "https://weibo.com/detail/4648494259765811"
     },
     {
         "artist": "张哲瀚",
@@ -515,6 +515,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f4d3624d268cff619532c9a02e29c3fe&s=a50aeb4b34334128818cd43d234aa7f8",
+        "short_url": "http://t.cn/A6VkOH4o",
+        "weibo_url": "https://weibo.com/detail/4648709751048913"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c556066e69bd1b0fe63c32461b157f26&s=36a492075f4f49f98b60d174b2339547",
         "short_url": "http://t.cn/A6VkOqbZ",
         "weibo_url": "https://weibo.com/detail/4648708547282435"
@@ -526,6 +534,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b885984b2d2f9aefbad0bdf567cf72f3&s=017b71635d064d9d961b70f86913f7b5",
         "short_url": "http://t.cn/A6VkCn06",
         "weibo_url": "https://weibo.com/detail/4648694509471350"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=806831f947c81e6cae276729aaf30262&s=ec756da949df4926bcc4a57cb15c9643",
+        "short_url": "http://t.cn/A6VkWNqp",
+        "weibo_url": "https://weibo.com/detail/4648713370472210"
     },
     {
         "artist": "范丞丞",
