@@ -43,14 +43,6 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f6938d8fabcf2dca1979212bcd6edccd&s=e14041e8de6e499690b44aec53716eb1",
-        "short_url": "http://t.cn/A6VkIGgZ",
-        "weibo_url": "https://weibo.com/detail/4648648056767177"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d73b80e1378257add5d0a0113906745a&s=901a1a834f164f9aa9695ea2f1c49b67",
         "short_url": "http://t.cn/A6VktpTQ",
         "weibo_url": "https://weibo.com/detail/4648633137889409"
@@ -70,6 +62,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5726e888b9884a9e2039d44d07c61b6c&s=b6ae315ba6c549708da91471666de768",
         "short_url": "http://t.cn/A6VkUYmt",
         "weibo_url": "https://weibo.com/detail/4648608156878229"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7acde3b0e76f3e7178778b446b9199c7&s=091c3a18ac614717a2374cc495ebb6f8",
+        "short_url": "http://t.cn/A6Vki2Yt",
+        "weibo_url": "https://weibo.com/detail/4648663013394479"
     },
     {
         "artist": "孟美岐",
@@ -166,6 +166,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=fe75d3545189833d05bb5fc410c5678b&s=2a73cd69442f4defa69bd5a4578a12fb",
         "short_url": "http://t.cn/A6VktOhw",
         "weibo_url": "https://weibo.com/detail/4648633239339687"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bb46e80aa6bd5ff009a5e092ec3d0061&s=c54000a1ac704cfd939a4ae878b0b65d",
+        "short_url": "http://t.cn/A6VkJwf1",
+        "weibo_url": "https://weibo.com/detail/4648658777937464"
     },
     {
         "artist": "孟美岐",
@@ -307,6 +315,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=3ec3a0f7b8b25d1088dc56da29d43803&s=0a53effd2cc74dc1940853a2042c578e",
+        "short_url": "http://t.cn/A6VkJfH8",
+        "weibo_url": "https://weibo.com/detail/4648659624921838"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=581be239f27852d8b187d4652ae6ba1e&s=78996f89a6e448379bab950cf0b9facf",
         "short_url": "http://t.cn/A6VDifdn",
         "weibo_url": "https://weibo.com/detail/4648387758000642"
@@ -374,6 +390,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ae4458cf1805bedf350daa23522dda95&s=0a267d0538e4491094edee36d628045c",
         "short_url": "http://t.cn/A6VktqIl",
         "weibo_url": "https://weibo.com/detail/4648631762157811"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ae6f6efc40250c99eb62432c124182b9&s=17151cd282cc490e8181f41d8b3f6dac",
+        "short_url": "http://t.cn/A6Vki7p0",
+        "weibo_url": "https://weibo.com/detail/4648662771175078"
     },
     {
         "artist": "黄明昊 (Justin)",
