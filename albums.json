@@ -35,6 +35,14 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=84c94a4a29fad12a455eac519ea88e28&s=8f968cf6919b4c238c9b5b483a45231f",
+        "short_url": "http://t.cn/A6VkimEJ",
+        "weibo_url": "https://weibo.com/detail/4648665841667292"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a03f169fa9a7b617e33e3c4bbb5aefc8&s=04c44bd0c98a4a5e8544bbbd6e3254c7",
         "short_url": "http://t.cn/A6VktZ64",
         "weibo_url": "https://weibo.com/detail/4648633179309331"
@@ -299,9 +307,33 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a8020edc02cae48bfe893af9e8b842ad&s=b071147f527b488d97c83b0c80ea5700",
+        "short_url": "http://t.cn/A6Vkin7t",
+        "weibo_url": "https://weibo.com/detail/4648668528902963"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=38897aa8fc851260998a4a6ea517a7ba&s=5cfbc7f1cd9043dc964e1285a57150c0",
         "short_url": "http://t.cn/A6VDiUMh",
         "weibo_url": "https://weibo.com/detail/4648388597124867"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5756e948c114a8257cb1a7f710c50db1&s=c7b0aa826b5e4ec49680798b543164f8",
+        "short_url": "http://t.cn/A6Vk6yf5",
+        "weibo_url": "https://weibo.com/detail/4648666445381674"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d729fb6e0780603d328b37175c2d4a15&s=2ce2ce78874b4ff18725171d5b26a582",
+        "short_url": "http://t.cn/A6Vk6AjN",
+        "weibo_url": "https://weibo.com/detail/4648666264244474"
     },
     {
         "artist": "李润祺",
