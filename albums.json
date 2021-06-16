@@ -11,9 +11,9 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f6938d8fabcf2dca1979212bcd6edccd&s=e14041e8de6e499690b44aec53716eb1",
-        "short_url": "http://t.cn/A6VkIGgZ",
-        "weibo_url": "https://weibo.com/detail/4648648056767177"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=699fbaceec9b479f0cac1f563f38dc9b&s=7e86f99e300143a2bb563cfd2f996b07",
+        "short_url": "http://t.cn/A6VkxbuM",
+        "weibo_url": "https://weibo.com/detail/4648657502864278"
     },
     {
         "artist": "孟美岐",
@@ -43,9 +43,25 @@
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f6938d8fabcf2dca1979212bcd6edccd&s=e14041e8de6e499690b44aec53716eb1",
+        "short_url": "http://t.cn/A6VkIGgZ",
+        "weibo_url": "https://weibo.com/detail/4648648056767177"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d73b80e1378257add5d0a0113906745a&s=901a1a834f164f9aa9695ea2f1c49b67",
         "short_url": "http://t.cn/A6VktpTQ",
         "weibo_url": "https://weibo.com/detail/4648633137889409"
+    },
+    {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=00f4795195ed8fa8c0b5ee0489a03692&s=2ce7672804c54af58636ed48d97af050",
+        "short_url": "http://t.cn/A6Vkxhzr",
+        "weibo_url": "https://weibo.com/detail/4648654880903311"
     },
     {
         "artist": "孟美岐",
@@ -278,6 +294,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=38897aa8fc851260998a4a6ea517a7ba&s=5cfbc7f1cd9043dc964e1285a57150c0",
         "short_url": "http://t.cn/A6VDiUMh",
         "weibo_url": "https://weibo.com/detail/4648388597124867"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=436712dafa4aee4d365f6c8f40f87ea0&s=511d4217f18643e69ec89bf96e7dbf6a",
+        "short_url": "http://t.cn/A6VkxKfU",
+        "weibo_url": "https://weibo.com/detail/4648656571204363"
     },
     {
         "artist": "李润祺",
