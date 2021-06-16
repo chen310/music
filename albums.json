@@ -313,6 +313,14 @@
     },
     {
         "artist": "李润祺",
+        "name": "做勇敢的大人",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=cae55d15a85178ddcf3d0d8fb082e02c&s=1d30e64b2bcb4e7799a39ae3185e90af",
+        "short_url": "http://t.cn/A6VFSESy",
+        "weibo_url": "https://weibo.com/detail/4648915011895348"
+    },
+    {
+        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=37e3a4565267716769d8c27b9380389a&s=7119f163f626434a82f9e4d554c4edc6",
@@ -390,6 +398,14 @@
         "url": "https://music.163.com/store/m/song/receive?tk=436712dafa4aee4d365f6c8f40f87ea0&s=511d4217f18643e69ec89bf96e7dbf6a",
         "short_url": "http://t.cn/A6VkxKfU",
         "weibo_url": "https://weibo.com/detail/4648656571204363"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b60b17ee806b9a6ea40502ed83871154&s=660056d8b34a45228d3b54bc1c10216c",
+        "short_url": "http://t.cn/A6VFSRxl",
+        "weibo_url": "https://weibo.com/detail/4648914756043164"
     },
     {
         "artist": "李润祺",
@@ -523,17 +539,17 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2cab155c11e87b2ed1ad0c640716fdac&s=cd7751f707c147509a6eda2877c83e19",
-        "short_url": "http://t.cn/A6VkObMK",
-        "weibo_url": "https://weibo.com/detail/4648794513739802"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=806831f947c81e6cae276729aaf30262&s=ec756da949df4926bcc4a57cb15c9643",
+        "short_url": "http://t.cn/A6VkWNqp",
+        "weibo_url": "https://weibo.com/detail/4648713370472210"
     },
     {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=806831f947c81e6cae276729aaf30262&s=ec756da949df4926bcc4a57cb15c9643",
-        "short_url": "http://t.cn/A6VkWNqp",
-        "weibo_url": "https://weibo.com/detail/4648713370472210"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2cab155c11e87b2ed1ad0c640716fdac&s=cd7751f707c147509a6eda2877c83e19",
+        "short_url": "http://t.cn/A6VkObMK",
+        "weibo_url": "https://weibo.com/detail/4648794513739802"
     },
     {
         "artist": "范丞丞",
@@ -611,17 +627,17 @@
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=99da88ed22f314b6eea4cd0b26d65cdb&s=e232ab4a30ca4154a22cd1f33b544104",
-        "short_url": "http://t.cn/A6VkO4VO",
-        "weibo_url": "https://weibo.com/detail/4648708547282435"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ae4458cf1805bedf350daa23522dda95&s=0a267d0538e4491094edee36d628045c",
+        "short_url": "http://t.cn/A6VktqIl",
+        "weibo_url": "https://weibo.com/detail/4648631762157811"
     },
     {
         "artist": "范丞丞",
         "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ae4458cf1805bedf350daa23522dda95&s=0a267d0538e4491094edee36d628045c",
-        "short_url": "http://t.cn/A6VktqIl",
-        "weibo_url": "https://weibo.com/detail/4648631762157811"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=99da88ed22f314b6eea4cd0b26d65cdb&s=e232ab4a30ca4154a22cd1f33b544104",
+        "short_url": "http://t.cn/A6VkO4VO",
+        "weibo_url": "https://weibo.com/detail/4648708547282435"
     },
     {
         "artist": "鞠婧祎",
