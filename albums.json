@@ -323,14 +323,6 @@
         "artist": "李润祺",
         "name": "做勇敢的大人",
         "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=3488b7e9a986624a7d86d80032e6b32a&s=af5c4905317445c6b85af0b4cc5493d2",
-        "short_url": "http://t.cn/A6VDll04",
-        "weibo_url": "https://weibo.com/detail/4648452866182429"
-    },
-    {
-        "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=892c5c8f57d2e9b04b693b7336a0b2c5&s=20e46df3d60d4fa293602b0867004c11",
         "short_url": "http://t.cn/A6VkX67D",
         "weibo_url": "https://weibo.com/detail/4648670936700629"
@@ -507,17 +499,17 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2c35baa49f2cabee54e5dd2fcbfe3966&s=1fe1d0624ed149cd9e1f82ad1892a724",
-        "short_url": "http://t.cn/A6VkBIaW",
-        "weibo_url": "https://weibo.com/detail/4648772666395881"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ada612b77a5f7f88cdce843d211fb848&s=93cf47cb385047de8631bdc3b5540cb2",
+        "short_url": "http://t.cn/A6VkCDpW",
+        "weibo_url": "https://weibo.com/detail/4648695028780767"
     },
     {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ada612b77a5f7f88cdce843d211fb848&s=93cf47cb385047de8631bdc3b5540cb2",
-        "short_url": "http://t.cn/A6VkCDpW",
-        "weibo_url": "https://weibo.com/detail/4648695028780767"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2c35baa49f2cabee54e5dd2fcbfe3966&s=1fe1d0624ed149cd9e1f82ad1892a724",
+        "short_url": "http://t.cn/A6VkBIaW",
+        "weibo_url": "https://weibo.com/detail/4648772666395881"
     },
     {
         "artist": "范丞丞",
