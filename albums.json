@@ -219,6 +219,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cfdf92f2ef81b4ad3f56f19bf583c803&s=2d7d671d1da74200afa371898e43a559",
+        "short_url": "http://t.cn/A6VkBb6b",
+        "weibo_url": "https://weibo.com/detail/4648772115893127"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=44547987e6cc3fccb3a6f1d2844ca6e1&s=fc343770a47546848858f5cc810f120f",
         "short_url": "http://t.cn/A6VkPR10",
         "weibo_url": "https://weibo.com/detail/4648517665293251"
@@ -499,6 +507,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2c35baa49f2cabee54e5dd2fcbfe3966&s=1fe1d0624ed149cd9e1f82ad1892a724",
+        "short_url": "http://t.cn/A6VkBIaW",
+        "weibo_url": "https://weibo.com/detail/4648772666395881"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ada612b77a5f7f88cdce843d211fb848&s=93cf47cb385047de8631bdc3b5540cb2",
         "short_url": "http://t.cn/A6VkCDpW",
         "weibo_url": "https://weibo.com/detail/4648695028780767"
@@ -534,14 +550,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=521de319a2489b411e52d65c0ef7631d&s=74b169108c18476c9807017a5b54e2d1",
         "short_url": "http://t.cn/A6VktJj7",
         "weibo_url": "https://weibo.com/detail/4648632371118272"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b06be6b4d49f0e354f993a0776663c4f&s=4e701e9c177a4a659faf530377d60fc4",
-        "short_url": "http://t.cn/A6VkOxvf",
-        "weibo_url": "https://weibo.com/detail/4648708408347670"
     },
     {
         "artist": "范丞丞",
