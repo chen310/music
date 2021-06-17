@@ -195,17 +195,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fee847fbcedc1bbc2a0083ba1c155664&s=c683aa0bc951466ebc1d3fa07b8a5035",
-        "short_url": "http://t.cn/A6VkNgyy",
-        "weibo_url": "https://weibo.com/detail/4648698509788380"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f824d1782f297f728bf52268bb57c20a&s=222449d656ef4684995cc667a0a73c69",
+        "short_url": "http://t.cn/A6VFQneV",
+        "weibo_url": "https://weibo.com/detail/4649006355190828"
     },
     {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f824d1782f297f728bf52268bb57c20a&s=222449d656ef4684995cc667a0a73c69",
-        "short_url": "http://t.cn/A6VFQneV",
-        "weibo_url": "https://weibo.com/detail/4649006355190828"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fee847fbcedc1bbc2a0083ba1c155664&s=c683aa0bc951466ebc1d3fa07b8a5035",
+        "short_url": "http://t.cn/A6VkNgyy",
+        "weibo_url": "https://weibo.com/detail/4648698509788380"
     },
     {
         "artist": "张哲瀚",
@@ -504,6 +504,14 @@
         "weibo_url": "https://weibo.com/detail/4649031391249726"
     },
     {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7fb9baf99571f89d411f7ff123571f6e&s=1984b312daba4be0b229935033d5d48c",
+        "short_url": "http://t.cn/A6VF3nHd",
+        "weibo_url": "https://weibo.com/detail/4649032372720266"
+    },
+    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -598,6 +606,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7745771e6dce67b795644ef83b5f2da7&s=02e4f90475c749d089043d93bf38e552",
         "short_url": "http://t.cn/A6Vk9rRn",
         "weibo_url": "https://weibo.com/detail/4648691208291886"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d02ee94d0e1c396f2146554127bc7ef2&s=ebad188ae3584f50bff30b7e0ccecd8c",
+        "short_url": "http://t.cn/A6VF1BGc",
+        "weibo_url": "https://weibo.com/detail/4649035976148317"
     },
     {
         "artist": "范丞丞",
