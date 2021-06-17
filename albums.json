@@ -203,6 +203,14 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f824d1782f297f728bf52268bb57c20a&s=222449d656ef4684995cc667a0a73c69",
+        "short_url": "http://t.cn/A6VFQneV",
+        "weibo_url": "https://weibo.com/detail/4649006355190828"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f43bec8104fc342a12802b7d40313ba5&s=0735037c65b7409fb11bff9bceb4252d",
         "short_url": "http://t.cn/A6VD1ixo",
         "weibo_url": "https://weibo.com/detail/4648488141065852"
@@ -488,14 +496,6 @@
         "weibo_url": "https://weibo.com/detail/4648469974752273"
     },
     {
-        "artist": "罗云熙",
-        "name": "等风停",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3adf45d7fc279941294cf1c779cffbcf&s=5258e46d0d8f49b0b0578df86f2e2c21",
-        "short_url": "http://t.cn/A6VD3kgs",
-        "weibo_url": "https://weibo.com/detail/4648487209408584"
-    },
-    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -662,14 +662,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=99da88ed22f314b6eea4cd0b26d65cdb&s=e232ab4a30ca4154a22cd1f33b544104",
         "short_url": "http://t.cn/A6VkO4VO",
         "weibo_url": "https://weibo.com/detail/4648794513739802"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "咦？",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7288fb1c299e14af69dee8a68d6a2e2d&s=22660b65fb554048b059b361efbd9bd3",
-        "short_url": "http://t.cn/A6VkO7RU",
-        "weibo_url": "https://weibo.com/detail/4648707142454073"
     },
     {
         "artist": "鞠婧祎",
