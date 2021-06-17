@@ -203,17 +203,17 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fee847fbcedc1bbc2a0083ba1c155664&s=c683aa0bc951466ebc1d3fa07b8a5035",
-        "short_url": "http://t.cn/A6VkNgyy",
-        "weibo_url": "https://weibo.com/detail/4648698509788380"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f43bec8104fc342a12802b7d40313ba5&s=0735037c65b7409fb11bff9bceb4252d",
+        "short_url": "http://t.cn/A6VD1ixo",
+        "weibo_url": "https://weibo.com/detail/4648488141065852"
     },
     {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f43bec8104fc342a12802b7d40313ba5&s=0735037c65b7409fb11bff9bceb4252d",
-        "short_url": "http://t.cn/A6VD1ixo",
-        "weibo_url": "https://weibo.com/detail/4648488141065852"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fee847fbcedc1bbc2a0083ba1c155664&s=c683aa0bc951466ebc1d3fa07b8a5035",
+        "short_url": "http://t.cn/A6VkNgyy",
+        "weibo_url": "https://weibo.com/detail/4648698509788380"
     },
     {
         "artist": "张哲瀚",
@@ -294,6 +294,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=abb994c2b8859b3a12eefc8d2a1737f2&s=0db97d27e2484059ad7b0a7af763813a",
         "short_url": "http://t.cn/A6VF36Ml",
         "weibo_url": "https://weibo.com/detail/4649031265423962"
+    },
+    {
+        "artist": "戴萌",
+        "name": "How we do it",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6e0dcb4282c91582a396f727bc4ae1ec&s=d803db2037d64a68aef4a2e9fe968061",
+        "short_url": "http://t.cn/A6VFBl3D",
+        "weibo_url": "https://weibo.com/detail/4649038634549989"
     },
     {
         "artist": "戴萌",
