@@ -1,13 +1,5 @@
 [
     {
-        "artist": "Mew Suppasit",
-        "name": "Summer Fireworks",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=943686f6430ebdd409960f6558355aa6&s=d490c485dcaa45728da7f1d9badc4aef",
-        "short_url": "http://t.cn/A6fvkJLQ",
-        "weibo_url": "https://weibo.com/detail/4649490671995580"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -70,14 +62,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5c0219e8968bdbcae580b33815c87e86&s=5c855675aff34acea31d893d8db0b292",
         "short_url": "http://t.cn/A6VFdPXs",
         "weibo_url": "https://weibo.com/detail/4649044087672283"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cfdf92f2ef81b4ad3f56f19bf583c803&s=2d7d671d1da74200afa371898e43a559",
-        "short_url": "http://t.cn/A6VkBb6b",
-        "weibo_url": "https://weibo.com/detail/4648772115893127"
     },
     {
         "artist": "朱正廷",
