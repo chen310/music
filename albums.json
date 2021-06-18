@@ -1,13 +1,5 @@
 [
     {
-        "artist": "Mew Suppasit",
-        "name": "Summer Fireworks",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=a04460381dadc03c66f31fd0fc5b1ea5&s=9d2bf9d557824cc9834cbfd826cd3f61",
-        "short_url": "http://t.cn/A6fvMhsy",
-        "weibo_url": "https://weibo.com/detail/4649402738412192"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -187,14 +179,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ada612b77a5f7f88cdce843d211fb848&s=93cf47cb385047de8631bdc3b5540cb2",
-        "short_url": "http://t.cn/A6VkCDpW",
-        "weibo_url": "https://weibo.com/detail/4648695028780767"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a036125d949f24bc2708174b22449a8b&s=833d69293dac488a878845ce0befab3d",
         "short_url": "http://t.cn/A6VkgjRz",
         "weibo_url": "https://weibo.com/detail/4648787198348205"
@@ -230,14 +214,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=806831f947c81e6cae276729aaf30262&s=ec756da949df4926bcc4a57cb15c9643",
         "short_url": "http://t.cn/A6VkWNqp",
         "weibo_url": "https://weibo.com/detail/4648713370472210"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "I'm Here",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7745771e6dce67b795644ef83b5f2da7&s=02e4f90475c749d089043d93bf38e552",
-        "short_url": "http://t.cn/A6Vk9rRn",
-        "weibo_url": "https://weibo.com/detail/4648691208291886"
     },
     {
         "artist": "范丞丞",
