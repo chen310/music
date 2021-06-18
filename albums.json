@@ -1,13 +1,5 @@
 [
     {
-        "artist": "Mew Suppasit",
-        "name": "Summer Fireworks",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=bfaee1f1da3387b4fa35766619255ac8&s=2864a3042a134d6ba725ad847760a850",
-        "short_url": "http://t.cn/A6fvpEvb",
-        "weibo_url": "https://weibo.com/detail/4649433734845039"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -166,14 +158,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=0a1779976922ce0c4a53b0fea5814c07&s=6767cd229ebb4f22a252a1a9a2f9bab6",
         "short_url": "http://t.cn/A6VkQX3H",
         "weibo_url": "https://weibo.com/detail/4648736707838221"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=806831f947c81e6cae276729aaf30262&s=ec756da949df4926bcc4a57cb15c9643",
-        "short_url": "http://t.cn/A6VkWNqp",
-        "weibo_url": "https://weibo.com/detail/4648713370472210"
     },
     {
         "artist": "范丞丞",
