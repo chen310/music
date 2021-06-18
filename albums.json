@@ -1,5 +1,13 @@
 [
     {
+        "artist": "Mew Suppasit",
+        "name": "Summer Fireworks",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=bfaee1f1da3387b4fa35766619255ac8&s=2864a3042a134d6ba725ad847760a850",
+        "short_url": "http://t.cn/A6fvpEvb",
+        "weibo_url": "https://weibo.com/detail/4649433734845039"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -174,21 +182,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d02ee94d0e1c396f2146554127bc7ef2&s=ebad188ae3584f50bff30b7e0ccecd8c",
         "short_url": "http://t.cn/A6VF1BGc",
         "weibo_url": "https://weibo.com/detail/4649035976148317"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=16ef313bc4f2215d5da8afa69de966cd&s=30095bf204954b8cb58132d23eb08587",
-        "short_url": "http://t.cn/A6VkOC12",
-        "weibo_url": "https://weibo.com/detail/4648709096476270"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=919c80b3f1b7a6ae7c4e2c74331f2a66&s=9c4aea89c1d74627847decfdcd0949c8",
-        "short_url": "http://t.cn/A6VkO0pd",
-        "weibo_url": "https://weibo.com/detail/4648794513739802"
     }
 ]
