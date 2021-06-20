@@ -19,14 +19,6 @@
         "artist": "吴宣仪",
         "name": "25",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=88724b2b9a06829cf79733f6196ec9a0&s=1877a1f541e54d2b8c63aefa3e627cb1",
-        "short_url": "http://t.cn/A6fhs5pU",
-        "weibo_url": "https://weibo.com/detail/4649943221145139"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "25",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=cacb830ef9d8880b9970a47249299b79&s=4b0998048e824d74acd55cb097d3feef",
         "short_url": "http://t.cn/A6fhgkLd",
         "weibo_url": "https://weibo.com/detail/4649936472246311"
@@ -38,6 +30,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=dce72855ed4b65da6917f12efdedb1a4&s=7f89abdd99054d3a8dabe1c9b16c8107",
         "short_url": "http://t.cn/A6fhrePe",
         "weibo_url": "https://weibo.com/detail/4649932542443911"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "25",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=88724b2b9a06829cf79733f6196ec9a0&s=1877a1f541e54d2b8c63aefa3e627cb1",
+        "short_url": "http://t.cn/A6fhs5pU",
+        "weibo_url": "https://weibo.com/detail/4649943221145139"
     },
     {
         "artist": "吴宣仪",
@@ -574,13 +574,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=25e0d4f628195742af71f02980d5ec8c&s=8fdad76f564a489d99a9a614f874ec15",
         "short_url": "http://t.cn/A6fhBdSA",
         "weibo_url": "https://weibo.com/detail/4649930667069931"
-    },
-    {
-        "artist": "李润祺",
-        "name": "做勇敢的大人",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=6f461dae8559bbed5e731defe9b2dc65&s=99380ec6ac604afb85291fff17817b0e",
-        "short_url": "http://t.cn/A6f7YyRw",
-        "weibo_url": "https://weibo.com/detail/4650112771424287"
     }
 ]
