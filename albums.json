@@ -205,7 +205,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e921d4dd76f5f2fd11acf235664967be&s=1e79893014274b208000580ac8c6a8ae",
         "short_url": "http://t.cn/A6fhn23s",
-        "weibo_url": "https://weibo.com/detail/4649920173441824"
+        "weibo_url": "https://weibo.com/detail/4649927425394408"
     },
     {
         "artist": "吴宣仪",
@@ -566,5 +566,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=25e0d4f628195742af71f02980d5ec8c&s=8fdad76f564a489d99a9a614f874ec15",
         "short_url": "http://t.cn/A6fhBdSA",
         "weibo_url": "https://weibo.com/detail/4649930667069931"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3b475c1873dd0e5b8f25cfa43b4d6c99&s=3d560f649584427692285a64c5524ab7",
+        "short_url": "http://t.cn/A6fzp71F",
+        "weibo_url": "https://weibo.com/detail/4650308888692091"
     }
 ]
