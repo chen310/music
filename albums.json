@@ -544,6 +544,14 @@
         "weibo_url": "https://weibo.com/detail/4649963844535410"
     },
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=82482e64f711fdde6181d2c34d9cffbc&s=e975159d92e14e938f57cefd8ae47533",
+        "short_url": "http://t.cn/A6fzAl2f",
+        "weibo_url": "https://weibo.com/detail/4650234531809263"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -590,13 +598,5 @@
         "url": "https://music.163.com/store/m/song/receive?tk=6f461dae8559bbed5e731defe9b2dc65&s=99380ec6ac604afb85291fff17817b0e",
         "short_url": "http://t.cn/A6f7YyRw",
         "weibo_url": "https://weibo.com/detail/4650112771424287"
-    },
-    {
-        "artist": "李鑫一",
-        "name": "失序抵抗",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=08589d26aaa4208ee18fcbb02037ec9f&s=e2fa3fb164974a2ba364e4d4064c372e",
-        "short_url": "http://t.cn/A6fzw5ax",
-        "weibo_url": "https://weibo.com/detail/4650229171749544"
     }
 ]
