@@ -35,6 +35,14 @@
         "artist": "Kaz",
         "name": "White Stallion",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f5ff01d478545739d10500613a28804e&s=54d711e4364542a48b1946a7de2b5e27",
+        "short_url": "http://t.cn/A6fz8GP2",
+        "weibo_url": "https://weibo.com/detail/4650329440258905"
+    },
+    {
+        "artist": "Kaz",
+        "name": "White Stallion",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f52f16f3c1ec11316021db0356a1b1e9&s=f90b986f50db4edbb49a44d937d8a754",
         "short_url": "http://t.cn/A6fzTGDX",
         "weibo_url": "https://weibo.com/detail/4650322963988941"
@@ -46,14 +54,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=de42faee99d77267b1984f74c2c0c348&s=aabcbd9d9a8140f6a932d495b9214f34",
         "short_url": "http://t.cn/A6fzugMM",
         "weibo_url": "https://weibo.com/detail/4650352390963854"
-    },
-    {
-        "artist": "Kaz",
-        "name": "White Stallion",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f5ff01d478545739d10500613a28804e&s=54d711e4364542a48b1946a7de2b5e27",
-        "short_url": "http://t.cn/A6fz8GP2",
-        "weibo_url": "https://weibo.com/detail/4650329440258905"
     },
     {
         "artist": "Kaz",
@@ -574,14 +574,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5c3cbad07697dabe3e95c7f6bd32d814&s=28d2569f39044e8387b1fe855d4891a1",
         "short_url": "http://t.cn/A6fhupwi",
         "weibo_url": "https://weibo.com/detail/4649924795568829"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5ea5a86470c6605209c78c9e48efa3db&s=4d3fad29feac45b3b3631e157a617337",
-        "short_url": "http://t.cn/A6fhBS8m",
-        "weibo_url": "https://weibo.com/detail/4649929945122003"
     },
     {
         "artist": "吴宣仪",
