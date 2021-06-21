@@ -19,17 +19,17 @@
         "artist": "Kaz",
         "name": "White Stallion",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=69f6cd46029d11112ea72667144d35a5&s=167d577857264028ab009bec120b07fd",
-        "short_url": "http://t.cn/A6fZhc6c",
-        "weibo_url": "https://weibo.com/detail/4650432146442494"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0d81030ea7d5f8023f5327c309c55fe0&s=07328cc4527447a197c464d0ad6c5329",
+        "short_url": "http://t.cn/A6fzjU3S",
+        "weibo_url": "https://weibo.com/detail/4650318685536793"
     },
     {
         "artist": "Kaz",
         "name": "White Stallion",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0d81030ea7d5f8023f5327c309c55fe0&s=07328cc4527447a197c464d0ad6c5329",
-        "short_url": "http://t.cn/A6fzjU3S",
-        "weibo_url": "https://weibo.com/detail/4650318685536793"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=69f6cd46029d11112ea72667144d35a5&s=167d577857264028ab009bec120b07fd",
+        "short_url": "http://t.cn/A6fZhc6c",
+        "weibo_url": "https://weibo.com/detail/4650432146442494"
     },
     {
         "artist": "Kaz",
@@ -46,14 +46,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=eb9e6ed6cbbd538425ee851066d12f8f&s=e2d3fa191a00433d98ce4d0e142d40c0",
         "short_url": "http://t.cn/A6fzTP0a",
         "weibo_url": "https://weibo.com/detail/4650322532238669"
-    },
-    {
-        "artist": "Kaz",
-        "name": "White Stallion",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f5ff01d478545739d10500613a28804e&s=54d711e4364542a48b1946a7de2b5e27",
-        "short_url": "http://t.cn/A6fz8GP2",
-        "weibo_url": "https://weibo.com/detail/4650329440258905"
     },
     {
         "artist": "吴宣仪",
@@ -614,5 +606,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=3b475c1873dd0e5b8f25cfa43b4d6c99&s=3d560f649584427692285a64c5524ab7",
         "short_url": "http://t.cn/A6fzp71F",
         "weibo_url": "https://weibo.com/detail/4650308888692091"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=118d7917e6f6c09970bad0f825737fa5&s=139576a12b03401d95c797b6782d1138",
+        "short_url": "http://t.cn/A6fZzILL",
+        "weibo_url": "https://weibo.com/detail/4650440446184132"
     }
 ]
