@@ -25,14 +25,6 @@
     },
     {
         "artist": "吴宣仪",
-        "name": "25",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cacb830ef9d8880b9970a47249299b79&s=4b0998048e824d74acd55cb097d3feef",
-        "short_url": "http://t.cn/A6fhgkLd",
-        "weibo_url": "https://weibo.com/detail/4649936472246311"
-    },
-    {
-        "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4c9c4908b022424fd81249399aa97fa7&s=0db7979d3fab4d8fb8a770c8a23b7aaa",
@@ -443,14 +435,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=bd9e07b3af07cdee2e2edf2424ed7d23&s=2f727446ec9a4ca79d631d03cc07a109",
-        "short_url": "http://t.cn/A6fhHsiN",
-        "weibo_url": "https://weibo.com/detail/4649905988306836"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5c3cbad07697dabe3e95c7f6bd32d814&s=28d2569f39044e8387b1fe855d4891a1",
         "short_url": "http://t.cn/A6fhupwi",
         "weibo_url": "https://weibo.com/detail/4649924795568829"
@@ -494,6 +478,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b7393a6b0b8aa943fee4bb586d45c2d2&s=3d1f9b28e0fb4a7c89a4175818d4a9f2",
         "short_url": "http://t.cn/A6fZWnCn",
         "weibo_url": "https://weibo.com/detail/4650582624699503"
+    },
+    {
+        "artist": "李润祺",
+        "name": "请杀死我的浪漫",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=8c1a54860364b5c8bd0eb4f318843418&s=9de3b14e47ad44e09bc57e0f7ac7e859",
+        "short_url": "http://t.cn/A6fZmFHg",
+        "weibo_url": "https://weibo.com/detail/4650628137880740"
     },
     {
         "artist": "毕雯珺",
