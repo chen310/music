@@ -1,34 +1,42 @@
 [
     {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3b475c1873dd0e5b8f25cfa43b4d6c99&s=3d560f649584427692285a64c5524ab7",
-        "short_url": "http://t.cn/A6fzp71F",
-        "weibo_url": "https://weibo.com/detail/4650308888692091"
+        "artist": "SNH48孔肖吟",
+        "name": "我的世界还有你",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=78fc846a737a14261fcfba2b13ee1df6&s=e9341d5134cf45bb8c24300600cc35ab",
+        "short_url": "http://t.cn/A6ffmWyP",
+        "weibo_url": "https://weibo.com/detail/4653887962748111"
     },
     {
-        "artist": "李润祺",
-        "name": "茫",
+        "artist": "林凡Marco",
+        "name": "梵Cloud pt.2:LOVE",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b7393a6b0b8aa943fee4bb586d45c2d2&s=3d1f9b28e0fb4a7c89a4175818d4a9f2",
-        "short_url": "http://t.cn/A6fZWnCn",
-        "weibo_url": "https://weibo.com/detail/4650582624699503"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=932c2dfb8e4cc757391c87e7c3500108&s=501403fb2fd149c0987e96a520efa768",
-        "short_url": "http://t.cn/A6fZY0EK",
-        "weibo_url": "https://weibo.com/detail/4650593556104195"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4ca9e90fdc94cf2c6b7ff11c6ca15fb8&s=c07514d8881c4bb09f1e466f12fd7898",
+        "short_url": "http://t.cn/A6ffu0fc",
+        "weibo_url": "https://weibo.com/detail/4653891663169293"
     },
     {
         "artist": "王一博",
-        "name": "无感",
+        "name": "我的世界守则",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fb45b57119f5a0161f4aafe0baf6cf69&s=eb935e89319d49fa877c859c578fe722",
-        "short_url": "http://t.cn/A6fZf4pj",
-        "weibo_url": "https://weibo.com/detail/4650502547571578"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=09706d1dd105080f18cf25b9fec5f2c4&s=f9456a11684f4f85b0b3e1c89b7be831",
+        "short_url": "http://t.cn/A6fIdAOt",
+        "weibo_url": "https://weibo.com/detail/4654168855545776"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2e01abbc846c48c0aef739ece1f7f629&s=bfabe22aa3a049d2bc2edc70c83c491f",
+        "short_url": "http://t.cn/A6fIBEvR",
+        "weibo_url": "https://weibo.com/detail/4654161582622006"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a5177ab5a8e1a9be0cd2bb9ef568301b&s=bc7ba34cc3df48878ec03e6d259e162e",
+        "short_url": "http://t.cn/A6fIlLg8",
+        "weibo_url": "https://weibo.com/detail/4654091303653016"
     }
 ]
