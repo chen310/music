@@ -33,11 +33,27 @@
     },
     {
         "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=60a2b7ea647f79c88ed873717f7eb8a6&s=8652dce849e645668d26157b2ed6b4f6",
+        "short_url": "http://t.cn/A6f6iz4N",
+        "weibo_url": "https://weibo.com/detail/4655567316714788"
+    },
+    {
+        "artist": "范丞丞",
         "name": "I'm Here",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d446001627d781db6c62d46faed862d7&s=943873074d3348f7886cd81a5c147df0",
         "short_url": "http://t.cn/A6f6xClp",
         "weibo_url": "https://weibo.com/detail/4655561662795303"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7c549f3e7d1a88cdc9417cff87cc63d4&s=45b684e34ed5452cb65a67c7edf42662",
+        "short_url": "http://t.cn/A6f6iz4C",
+        "weibo_url": "https://weibo.com/detail/4655567316714788"
     },
     {
         "artist": "范丞丞",
@@ -48,11 +64,11 @@
         "weibo_url": "https://weibo.com/detail/4655559947061463"
     },
     {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
+        "artist": "范丞丞",
+        "name": "Like A Fan",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f617851a8fe011fe3e47fb004750d4b8&s=8a8bf5fdae7e4b5a8e84959267aeaac7",
-        "short_url": "http://t.cn/A6fJZlon",
-        "weibo_url": "https://weibo.com/detail/4654842280414987"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=03e35c450ff97af1a0acbb891a588ca2&s=c660461939944a3ebed87b0da1244c61",
+        "short_url": "http://t.cn/A6f6iz49",
+        "weibo_url": "https://weibo.com/detail/4655567316714788"
     }
 ]
