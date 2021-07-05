@@ -1,6 +1,14 @@
 [
     {
         "artist": "朱正廷",
+        "name": "EMPTY SPACE",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5c1d1d3c4a6ef09e5ac236bd5965af73&s=acdb09a477924a4c840299e261d4558a",
+        "short_url": "http://t.cn/A6f6YEh8",
+        "weibo_url": "https://weibo.com/detail/4655639169339351"
+    },
+    {
+        "artist": "朱正廷",
         "name": "The Winter Light (冬日告白)",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=df0e1b5f4131d1f5bc4c61cf3304df01&s=eb1466365cd74b18a7cfc1f2937ddce4",
