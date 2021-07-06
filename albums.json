@@ -8,6 +8,14 @@
         "weibo_url": "https://weibo.com/detail/4655639387702896"
     },
     {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=71de761bc15a12be668f792ddcc5a52e&s=4397d0c1b3d241e797ea611e26a13327",
+        "short_url": "http://t.cn/A6fXHnYO",
+        "weibo_url": "https://weibo.com/detail/4655940613177485"
+    },
+    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
@@ -46,5 +54,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=03e35c450ff97af1a0acbb891a588ca2&s=c660461939944a3ebed87b0da1244c61",
         "short_url": "http://t.cn/A6f6iz49",
         "weibo_url": "https://weibo.com/detail/4655567316714788"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Liar",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=43bc04a447b725c68eeb8582eb26a716&s=7e8c0583fae547a5813a89828880142c",
+        "short_url": "http://t.cn/A6fXQ7rF",
+        "weibo_url": "https://weibo.com/detail/4655941829527756"
     }
 ]
