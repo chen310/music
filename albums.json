@@ -1,19 +1,19 @@
 [
     {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2f9959ac6f5797e6abc7f1b69bf0d30a&s=bc5fdf1bc30248379651786e65398e5e",
+        "short_url": "http://t.cn/A6fXkOcA",
+        "weibo_url": "https://weibo.com/detail/4656010050930904"
+    },
+    {
         "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5c1d1d3c4a6ef09e5ac236bd5965af73&s=acdb09a477924a4c840299e261d4558a",
         "short_url": "http://t.cn/A6f6YEh8",
         "weibo_url": "https://weibo.com/detail/4655639387702896"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=60a2b7ea647f79c88ed873717f7eb8a6&s=8652dce849e645668d26157b2ed6b4f6",
-        "short_url": "http://t.cn/A6f6iz4N",
-        "weibo_url": "https://weibo.com/detail/4655567316714788"
     },
     {
         "artist": "范丞丞",
@@ -51,16 +51,72 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f18c7599944789e36477f99f39434601&s=aa012d069be9439a8fa034ca9561e8a2",
+        "short_url": "http://t.cn/A6fXdKA2",
+        "weibo_url": "https://weibo.com/detail/4655991368977452"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=178ddc9c8b9bc809dffe90db45145fe4&s=8c42ac3af7ef493ea27b70602ee682e3",
+        "short_url": "http://t.cn/A6fXdsYD",
+        "weibo_url": "https://weibo.com/detail/4655993977307179"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=246d839a26e401a7d5b4c83dfcb8a926&s=d7bc4768a7654dddba4dee1fcbf07b8d",
+        "short_url": "http://t.cn/A6fX116P",
+        "weibo_url": "https://weibo.com/detail/4655978534669353"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ba9c2c84c21f1c568731b67a5bc8ea31&s=0cee198817b3449996419011fa4bc949",
+        "short_url": "http://t.cn/A6fXdaaT",
+        "weibo_url": "https://weibo.com/detail/4655991154545404"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0a7b331c1a5259318d8e4975e07473ce&s=8163174436204ab6bab34c686b86f8b2",
+        "short_url": "http://t.cn/A6faZUSU",
+        "weibo_url": "https://weibo.com/detail/4656046955562988"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ebef0aa99545fee9c1adb9263f2bbad2&s=31cfd0212ca3478a91078c6fb5d5c0db",
+        "short_url": "http://t.cn/A6fX1A28",
+        "weibo_url": "https://weibo.com/detail/4655975358793848"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d529afe1df70897f9b9c334d8242539d&s=aa7506d083734d30bb8bbf0d71831af5",
+        "short_url": "http://t.cn/A6fXDi1A",
+        "weibo_url": "https://weibo.com/detail/4656004786031137"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6d20faff860478e04c440fb5674b2ce1&s=d611b526e17845aea567f7d06d442d77",
+        "short_url": "http://t.cn/A6fXrDr3",
+        "weibo_url": "https://weibo.com/detail/4655988559579242"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=62255ac42a2b0005448cea33d41d7c57&s=adf33db942174625aa2f9620e5847522",
         "short_url": "http://t.cn/A6fXnCOm",
         "weibo_url": "https://weibo.com/detail/4655961514443036"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Liar",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=43bc04a447b725c68eeb8582eb26a716&s=7e8c0583fae547a5813a89828880142c",
-        "short_url": "http://t.cn/A6fXQ7rF",
-        "weibo_url": "https://weibo.com/detail/4655941829527756"
     }
 ]
