@@ -32,6 +32,14 @@
         "weibo_url": "https://weibo.com/detail/4656404360594042"
     },
     {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ea327cd659294205f4fe380951b7b8cf&s=af4ec55c01a34f0a984d16091b30961d",
+        "short_url": "http://t.cn/A6fSxanb",
+        "weibo_url": "https://weibo.com/detail/4656412137100781"
+    },
+    {
         "artist": "张哲瀚",
         "name": "光",
         "type": "album",
@@ -64,14 +72,6 @@
         "weibo_url": "https://weibo.com/detail/4656010050930904"
     },
     {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=177705c7a42f3a2f099585990b3cdbed&s=a842aad9938b42669395fd3f32d7bfea",
-        "short_url": "http://t.cn/A6fSh1f4",
-        "weibo_url": "https://weibo.com/detail/4656309931082523"
-    },
-    {
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
@@ -83,17 +83,17 @@
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=178ddc9c8b9bc809dffe90db45145fe4&s=8c42ac3af7ef493ea27b70602ee682e3",
-        "short_url": "http://t.cn/A6fXdsYD",
-        "weibo_url": "https://weibo.com/detail/4655993977307179"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=246d839a26e401a7d5b4c83dfcb8a926&s=d7bc4768a7654dddba4dee1fcbf07b8d",
+        "short_url": "http://t.cn/A6fX116P",
+        "weibo_url": "https://weibo.com/detail/4655978534669353"
     },
     {
         "artist": "鞠婧祎",
         "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=246d839a26e401a7d5b4c83dfcb8a926&s=d7bc4768a7654dddba4dee1fcbf07b8d",
-        "short_url": "http://t.cn/A6fX116P",
-        "weibo_url": "https://weibo.com/detail/4655978534669353"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=178ddc9c8b9bc809dffe90db45145fe4&s=8c42ac3af7ef493ea27b70602ee682e3",
+        "short_url": "http://t.cn/A6fXdsYD",
+        "weibo_url": "https://weibo.com/detail/4655993977307179"
     },
     {
         "artist": "鞠婧祎",
@@ -126,14 +126,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=6d20faff860478e04c440fb5674b2ce1&s=d611b526e17845aea567f7d06d442d77",
         "short_url": "http://t.cn/A6fXrDr3",
         "weibo_url": "https://weibo.com/detail/4655988559579242"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ded00987bd43cc532611648261bdc7c2&s=1f48987e90524a9b81457b08dc3fcf55",
-        "short_url": "http://t.cn/A6fSMFUW",
-        "weibo_url": "https://weibo.com/detail/4656409377769245"
     },
     {
         "artist": "黄明昊 (Justin)",
