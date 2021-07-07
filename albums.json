@@ -11,6 +11,14 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d2b91563c5f2ba748bc80dd54751dd71&s=715344550fed4d739060b1c443bd8774",
+        "short_url": "http://t.cn/A6fSMpLh",
+        "weibo_url": "https://weibo.com/detail/4656407128835900"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d75e1b3de7ee113726127e4c1a3a5416&s=ba6a6b2795fb43928abe7fd3d2919949",
         "short_url": "http://t.cn/A6fSf8kL",
         "weibo_url": "https://weibo.com/detail/4656396970495724"
@@ -22,14 +30,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e11022e829a11cebf28bf45fe13befc5&s=191f56b965b94d7da260491d0ecb7048",
         "short_url": "http://t.cn/A6fSMzXG",
         "weibo_url": "https://weibo.com/detail/4656404360594042"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=165ba9fea4c368327e7c451c9f340f49&s=9e44e270f0714be891c55023576b9da1",
-        "short_url": "http://t.cn/A6fSVW49",
-        "weibo_url": "https://weibo.com/detail/4656390968969407"
     },
     {
         "artist": "张哲瀚",
@@ -126,5 +126,21 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=6d20faff860478e04c440fb5674b2ce1&s=d611b526e17845aea567f7d06d442d77",
         "short_url": "http://t.cn/A6fXrDr3",
         "weibo_url": "https://weibo.com/detail/4655988559579242"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ded00987bd43cc532611648261bdc7c2&s=1f48987e90524a9b81457b08dc3fcf55",
+        "short_url": "http://t.cn/A6fSMFUW",
+        "weibo_url": "https://weibo.com/detail/4656409377769245"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Liar",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a537e49f11b9994245ad0d429584024c&s=ea7b2e7d8ef040e2aec6666633276541",
+        "short_url": "http://t.cn/A6fSMk6H",
+        "weibo_url": "https://weibo.com/detail/4656409298600867"
     }
 ]
