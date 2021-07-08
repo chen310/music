@@ -59,14 +59,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2f9959ac6f5797e6abc7f1b69bf0d30a&s=bc5fdf1bc30248379651786e65398e5e",
-        "short_url": "http://t.cn/A6fXkOcA",
-        "weibo_url": "https://weibo.com/detail/4656010050930904"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=17728796d955300111eb6e4f1ee20b22&s=f378055db68c4f1d82a339454881342a",
         "short_url": "http://t.cn/A6fauCVS",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
@@ -102,6 +94,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=774710981b43be6f6f7e491dbcf388f8&s=cc808d39842f4e988bc4b71c84b964a0",
         "short_url": "http://t.cn/A6foiAHF",
         "weibo_url": "https://weibo.com/detail/4656689556753960"
+    },
+    {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7e717d8ece7d37d1cd125bf4d8458a42&s=6b8c6ad27f7a431b811185eb3b9e5242",
+        "short_url": "http://t.cn/A6fo03ra",
+        "weibo_url": "https://weibo.com/detail/4656739468707240"
     },
     {
         "artist": "鞠婧祎",
