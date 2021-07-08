@@ -1,11 +1,19 @@
 [
     {
         "artist": "吴宣仪",
+        "name": "25",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=377e34aa924acf90b2a1bc5d78aa51b1&s=c4eab0a8600443278915df4572d68165",
+        "short_url": "http://t.cn/A6fSpRpb",
+        "weibo_url": "https://weibo.com/detail/4656463836611755"
+    },
+    {
+        "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f0cf547600ef4975fc8c27965945f7ba&s=8c71f6e880e14f7eade072d6d870d946",
         "short_url": "http://t.cn/A6fSIa05",
-        "weibo_url": "https://weibo.com/detail/4656401656319109"
+        "weibo_url": "https://weibo.com/detail/4656403815598524"
     },
     {
         "artist": "吴宣仪",
@@ -43,14 +51,6 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=256dc1e361d47e23a83e128cf2b6739f&s=816e45c3406c47c6b2c2ad6f9db218b0",
-        "short_url": "http://t.cn/A6fSavOT",
-        "weibo_url": "https://weibo.com/detail/4656433122248753"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ea327cd659294205f4fe380951b7b8cf&s=af4ec55c01a34f0a984d16091b30961d",
         "short_url": "http://t.cn/A6fSxanb",
         "weibo_url": "https://weibo.com/detail/4656412137100781"
@@ -67,14 +67,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=17728796d955300111eb6e4f1ee20b22&s=f378055db68c4f1d82a339454881342a",
-        "short_url": "http://t.cn/A6fauCVS",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e4f1099c7ae0473adc161e7b5f19a5bd&s=8c17e29ff0e94d7bb0fc7bfa74fb715a",
         "short_url": "http://t.cn/A6fSL5Wi",
         "weibo_url": "https://weibo.com/detail/4656340032556836"
@@ -86,6 +78,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=2f9959ac6f5797e6abc7f1b69bf0d30a&s=bc5fdf1bc30248379651786e65398e5e",
         "short_url": "http://t.cn/A6fXkOcA",
         "weibo_url": "https://weibo.com/detail/4656010050930904"
+    },
+    {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=17728796d955300111eb6e4f1ee20b22&s=f378055db68c4f1d82a339454881342a",
+        "short_url": "http://t.cn/A6fauCVS",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
         "artist": "鞠婧祎",
