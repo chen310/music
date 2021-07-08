@@ -1,14 +1,6 @@
 [
     {
         "days": 7,
-        "senderId": 283333737,
-        "url": "https://music.163.com/prime/m/gift-receive?u=ae410872cdc34a6a8a9e7f38d11f3eb6f149d8f00cc841d29e86d177c1067b8a",
-        "short_url": "http://t.cn/A6fSEZPM",
-        "weibo_url": "https://weibo.com/detail/4656509894001208",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=173412473&giftSrc=3&nm_style=sbt&bounces=false"
-    },
-    {
-        "days": 7,
         "senderId": 401041102,
         "url": "https://music.163.com/prime/m/gift-receive?u=c714059d4ad5495bb9b16059d84f0e41b970311b0ca64d3283effc8bb8a74e81",
         "short_url": "http://t.cn/A6fSKR7E",
@@ -30,13 +22,5 @@
         "short_url": "http://t.cn/A6fS1ego",
         "weibo_url": "https://weibo.com/detail/4656546754330921",
         "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=173396481&giftSrc=3&nm_style=sbt&bounces=false"
-    },
-    {
-        "days": 5,
-        "senderId": 298946739,
-        "url": "https://music.163.com/prime/m/gift-receive?u=6751d3a128774a03b532cf1bcc25f90ac8bca1a20d32467da9894b0967ef70db",
-        "short_url": "http://t.cn/A6fI98EH",
-        "weibo_url": "https://weibo.com/detail/4654064996199182",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=171619332&giftSrc=3&nm_style=sbt&bounces=false"
     }
 ]
