@@ -48,28 +48,12 @@
         "weibo_url": "https://weibo.com/detail/4656412137100781"
     },
     {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1da7180133667a1bfe7b28afe3bf3d16&s=856c2ea23e1d4c94a0d5d6b950c04fda",
-        "short_url": "http://t.cn/A6fomUqR",
-        "weibo_url": "https://weibo.com/detail/4656794133070748"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e4f1099c7ae0473adc161e7b5f19a5bd&s=8c17e29ff0e94d7bb0fc7bfa74fb715a",
         "short_url": "http://t.cn/A6fSL5Wi",
         "weibo_url": "https://weibo.com/detail/4656340032556836"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=17728796d955300111eb6e4f1ee20b22&s=f378055db68c4f1d82a339454881342a",
-        "short_url": "http://t.cn/A6fauCVS",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
         "artist": "朱正廷",
@@ -118,21 +102,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=77a23b6d6c11062da8efd22fc0049e2e&s=eb1dbd2116f04507a5939bf6e8465bb5",
         "short_url": "http://t.cn/A6foNxOI",
         "weibo_url": "https://weibo.com/detail/4656728891983648"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fd19506cd07e88472160922b64b7597f&s=16dabc5d143243b29841bb339d6bc15d",
-        "short_url": "http://t.cn/A6foYeH2",
-        "weibo_url": "https://weibo.com/detail/4656763096276243"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Liar",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d0c6055e6c51752d8a3e9453d117cd0b&s=02c639cb7d024b5d85ee8fdcce5343e8",
-        "short_url": "http://t.cn/A6foYeHL",
-        "weibo_url": "https://weibo.com/detail/4656763096276243"
     }
 ]
