@@ -3,33 +3,9 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f0cf547600ef4975fc8c27965945f7ba&s=8c71f6e880e14f7eade072d6d870d946",
-        "short_url": "http://t.cn/A6fSIa05",
-        "weibo_url": "https://weibo.com/detail/4656403815598524"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d2b91563c5f2ba748bc80dd54751dd71&s=715344550fed4d739060b1c443bd8774",
-        "short_url": "http://t.cn/A6fSMpLh",
-        "weibo_url": "https://weibo.com/detail/4656407128835900"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=c89d9d405400bdaa32a3ebe4a92a33f0&s=3303bbed970b4723a7e62b8b109bb784",
         "short_url": "http://t.cn/A6fSaR4s",
         "weibo_url": "https://weibo.com/detail/4656435952880640"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d75e1b3de7ee113726127e4c1a3a5416&s=ba6a6b2795fb43928abe7fd3d2919949",
-        "short_url": "http://t.cn/A6fSf8kL",
-        "weibo_url": "https://weibo.com/detail/4656396970495724"
     },
     {
         "artist": "吴宣仪",
@@ -67,16 +43,32 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f1ac44a6656376df7fd8eba0f18b15ce&s=b6d21b3ebb8a47da962239ff5d199f24",
-        "short_url": "http://t.cn/A6fK7UEL",
-        "weibo_url": "https://weibo.com/detail/4656986610729710"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=eae4261e6e40682c164c5579b65429bf&s=e73f029710584c49979b2bd1e66356d6",
+        "short_url": "http://t.cn/A6fKFnrL",
+        "weibo_url": "https://weibo.com/detail/4657120300238619"
     },
     {
-        "artist": "黄明昊 (Justin)",
-        "name": "18",
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=77a23b6d6c11062da8efd22fc0049e2e&s=eb1dbd2116f04507a5939bf6e8465bb5",
-        "short_url": "http://t.cn/A6foNxOI",
-        "weibo_url": "https://weibo.com/detail/4656728891983648"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7bc4705c56748c45666c69785c3961fa&s=a54dc56acd8246b3b1248341698a51ea",
+        "short_url": "http://t.cn/A6fKdnYQ",
+        "weibo_url": "https://weibo.com/detail/4657096572013615"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9bb737d01f7fa3ce09e20dc5abd66107&s=19e986bd75394747ba8026925f877714",
+        "short_url": "http://t.cn/A6fKet3g",
+        "weibo_url": "https://weibo.com/detail/4657103257469767"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f5982b22c2001e71fa5d5c4c41392758&s=9bec57ffd23c403989a23e1175d03a26",
+        "short_url": "http://t.cn/A6fKe58V",
+        "weibo_url": "https://weibo.com/detail/4657103174635655"
     }
 ]
