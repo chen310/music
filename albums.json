@@ -1,35 +1,11 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c89d9d405400bdaa32a3ebe4a92a33f0&s=3303bbed970b4723a7e62b8b109bb784",
-        "short_url": "http://t.cn/A6fSaR4s",
-        "weibo_url": "https://weibo.com/detail/4656435952880640"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0747c77990f5c1ba3e5abe0a868d3cc1&s=b56e30e4200844bbbd131c0c74a129a4",
-        "short_url": "http://t.cn/A6foiAHk",
-        "weibo_url": "https://weibo.com/detail/4656689556753960"
-    },
-    {
         "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9bc3fa8ac6d54726793822344656cd1e&s=ddc90b16001d4a89a6085a1266eb7ef6",
         "short_url": "http://t.cn/A6fo65n7",
         "weibo_url": "https://weibo.com/detail/4656694363426068"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "The Winter Light (冬日告白)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=774710981b43be6f6f7e491dbcf388f8&s=cc808d39842f4e988bc4b71c84b964a0",
-        "short_url": "http://t.cn/A6foiAHF",
-        "weibo_url": "https://weibo.com/detail/4656689556753960"
     },
     {
         "artist": "毕雯珺",
@@ -54,13 +30,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=9bb737d01f7fa3ce09e20dc5abd66107&s=19e986bd75394747ba8026925f877714",
         "short_url": "http://t.cn/A6fKet3g",
         "weibo_url": "https://weibo.com/detail/4657103257469767"
-    },
-    {
-        "artist": "鞠婧祎",
-        "name": "过去完成时",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f5982b22c2001e71fa5d5c4c41392758&s=9bec57ffd23c403989a23e1175d03a26",
-        "short_url": "http://t.cn/A6fKe58V",
-        "weibo_url": "https://weibo.com/detail/4657103174635655"
     }
 ]
