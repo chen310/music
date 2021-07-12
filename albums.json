@@ -24,11 +24,59 @@
         "weibo_url": "https://weibo.com/detail/4657932555521551"
     },
     {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5d3320ebb13564e0d6bac92bc9fa0a29&s=4170516689da4b0c9b9d948f23f11581",
+        "short_url": "http://t.cn/A6fCNRE1",
+        "weibo_url": "https://weibo.com/detail/4657576564231336"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cd3fa7b4cd82130694b3b7ecc3249c42&s=74597a1ab74e4911bb49c50d6d7cc215",
+        "short_url": "http://t.cn/A6fCpVJJ",
+        "weibo_url": "https://weibo.com/detail/4657578837280977"
+    },
+    {
+        "artist": "黄新淳",
+        "name": "近你环行日记",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d657803a60b0ea7b1df9a746f10a0654&s=df04ab064bb14be0aebdcec5a66cb367",
+        "short_url": "http://t.cn/A6fNY8RN",
+        "weibo_url": "https://weibo.com/detail/4657918416259049"
+    },
+    {
         "artist": "黄明昊 (Justin)",
         "name": "18",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=3a21e434b7bbb48bffeeab66722b4612&s=86d325622e9b4143a71b441be4c6a10a",
         "short_url": "http://t.cn/A6fN3IJc",
         "weibo_url": "https://weibo.com/detail/4657949555033072"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=16348c0c33d60985021be6691563b773&s=4ad8e74ba59d4bb2be2abe2029933b70",
+        "short_url": "http://t.cn/A6fCJGOU",
+        "weibo_url": "https://weibo.com/detail/4657539930655446"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Liar",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=802c8bbc07684e803c3952222c4f12e9&s=47d5d00b52c64b7dbae27b1196c0b4fa",
+        "short_url": "http://t.cn/A6fCJGO4",
+        "weibo_url": "https://weibo.com/detail/4657539930655446"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Liar",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6faa51036315200b195bb0f213fdb335&s=5518837875f446ae882a587f98064b4a",
+        "short_url": "http://t.cn/A6fNuuUd",
+        "weibo_url": "https://weibo.com/detail/4657947047100838"
     }
 ]
