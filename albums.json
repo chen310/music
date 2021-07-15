@@ -16,6 +16,14 @@
         "weibo_url": "https://weibo.com/detail/4659242160619914"
     },
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ca052379b900bd649cdfa3e1ff5d6b8c&s=9cf3f308eb3e414fa5bc88951e737d2b",
+        "short_url": "http://t.cn/A6flO1ZN",
+        "weibo_url": "https://weibo.com/detail/4659267624240470"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -93,7 +101,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d127a073d65f9be26c28bcb6a92267a9&s=e69c326165e446de8e17524e9f71ab78",
         "short_url": "http://t.cn/A6flCiwy",
-        "weibo_url": "https://weibo.com/detail/4659250061639981"
+        "weibo_url": "https://weibo.com/detail/4659250154178703"
     },
     {
         "artist": "鞠婧祎",
@@ -110,5 +118,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=3d4b1ea4d74bf8e2cef469f17a04d4a0&s=cb22948d20fa4fbfad0a9337462cb755",
         "short_url": "http://t.cn/A6flpmzv",
         "weibo_url": "https://weibo.com/detail/4659259361198963"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Liar",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cd56fe80033736a2ead00783ced76b47&s=317c0c19ebba4de2b266799f87177330",
+        "short_url": "http://t.cn/A6fl0n88",
+        "weibo_url": "https://weibo.com/detail/4659263214980219"
     }
 ]
