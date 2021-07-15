@@ -64,14 +64,6 @@
         "weibo_url": "https://weibo.com/detail/4659300474031524"
     },
     {
-        "artist": "朱正廷",
-        "name": "陷",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=58abd5f20dced61e92e43ad69f72e5a7&s=2389edea1a03422c9de857a91da11cf0",
-        "short_url": "http://t.cn/A6flQkgT",
-        "weibo_url": "https://weibo.com/detail/4659300474031524"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -118,6 +110,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=44f5f905fabcf3babe553502038aec6c&s=ebd5a07c01e743dd99e6aaa64671ecec",
         "short_url": "http://t.cn/A6flCf5z",
         "weibo_url": "https://weibo.com/detail/4659249709580760"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f00f180a22ba27e333e8e4c50cbebd49&s=c38bc92034b74fcea0a91b4ba3bd0bae",
+        "short_url": "http://t.cn/A6fl8ZfN",
+        "weibo_url": "https://weibo.com/detail/4659301006709269"
     },
     {
         "artist": "范丞丞",
