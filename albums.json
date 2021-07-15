@@ -16,14 +16,6 @@
         "weibo_url": "https://weibo.com/detail/4659242160619914"
     },
     {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ca052379b900bd649cdfa3e1ff5d6b8c&s=9cf3f308eb3e414fa5bc88951e737d2b",
-        "short_url": "http://t.cn/A6flO1ZN",
-        "weibo_url": "https://weibo.com/detail/4659267624240470"
-    },
-    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -86,6 +78,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=51296f7fc6365ddb84f3069474f20e87&s=66523d1365d64179bd18e2c486ec2dbc",
         "short_url": "http://t.cn/A6flCYgO",
         "weibo_url": "https://weibo.com/detail/4659251173135093"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7097c833578c1b677d1f837e6bb0f877&s=ce5e024fba484ac2abc21b75e01fbc2d",
+        "short_url": "http://t.cn/A6fllQwU",
+        "weibo_url": "https://weibo.com/detail/4659275848751218"
     },
     {
         "artist": "范丞丞",
