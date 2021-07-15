@@ -49,11 +49,35 @@
     },
     {
         "artist": "王一博",
+        "name": "Lucky",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7473d5744d3c150526fb593c53b3833b&s=cfd09ee0c9c3478db738febcd9ed6db6",
+        "short_url": "http://t.cn/A6fl4gxZ",
+        "weibo_url": "https://weibo.com/detail/4659163651639802"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b832a65078d0b02b34be08f8a5f07c24&s=de1557fb32dc44a48f7bb11acc346bc1",
+        "short_url": "http://t.cn/A6fl4lxd",
+        "weibo_url": "https://weibo.com/detail/4659162691144291"
+    },
+    {
+        "artist": "王一博",
         "name": "无感",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=3d2c0efad7633b88c3679d4c87ed2e50&s=e3d016dba653438b87ba107877c811e6",
         "short_url": "http://t.cn/A6fl7BMg",
         "weibo_url": "https://weibo.com/detail/4659127508272495"
+    },
+    {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=581e919042a4b1a17afcd7969d32abfb&s=a98a4438666d4f7dadc09891fd299d34",
+        "short_url": "http://t.cn/A6fl4CLl",
+        "weibo_url": "https://weibo.com/detail/4659162329646984"
     },
     {
         "artist": "鞠婧祎",
