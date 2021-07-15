@@ -57,14 +57,6 @@
     },
     {
         "artist": "毕雯珺",
-        "name": "如果",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=56fe50fa0b33767fbd06128f9123dd1d&s=bcbc6101569e46938ce9088afb2112cd",
-        "short_url": "http://t.cn/A6flNKLh",
-        "weibo_url": "https://weibo.com/detail/4659254394357678"
-    },
-    {
-        "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f3b8f6e45fa606f18e7e6c37b90e937d&s=8c637c150da44c6d9e4ea91c65f0d8dc",
@@ -110,5 +102,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ff98a9f45ad1a3f7f782b6c8a8f521e7&s=36fa96ede64448469f70f4b99e7e87c3",
         "short_url": "http://t.cn/A6fWi0kD",
         "weibo_url": "https://weibo.com/detail/4658936697586136"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3d4b1ea4d74bf8e2cef469f17a04d4a0&s=cb22948d20fa4fbfad0a9337462cb755",
+        "short_url": "http://t.cn/A6flpmzv",
+        "weibo_url": "https://weibo.com/detail/4659259361198963"
     }
 ]
