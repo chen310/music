@@ -57,6 +57,14 @@
     },
     {
         "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=56fe50fa0b33767fbd06128f9123dd1d&s=bcbc6101569e46938ce9088afb2112cd",
+        "short_url": "http://t.cn/A6flNKLh",
+        "weibo_url": "https://weibo.com/detail/4659254394357678"
+    },
+    {
+        "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f3b8f6e45fa606f18e7e6c37b90e937d&s=8c637c150da44c6d9e4ea91c65f0d8dc",
@@ -77,7 +85,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=51296f7fc6365ddb84f3069474f20e87&s=66523d1365d64179bd18e2c486ec2dbc",
         "short_url": "http://t.cn/A6flCYgO",
-        "weibo_url": "https://weibo.com/detail/4659238049421365"
+        "weibo_url": "https://weibo.com/detail/4659251173135093"
     },
     {
         "artist": "范丞丞",
