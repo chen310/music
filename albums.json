@@ -1,27 +1,11 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8b3dfcfeff587f9edc789200a61c1df7&s=b52ab4bb6673405c851377132b140c3f",
-        "short_url": "http://t.cn/A6fjT8YF",
-        "weibo_url": "https://weibo.com/detail/4659583006279392"
-    },
-    {
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=8b1e62a6b7cc4ea509b22901ccdb4763&s=f7e7541cca9e4547a842c1b22accc607",
         "short_url": "http://t.cn/A6flKCL4",
         "weibo_url": "https://weibo.com/detail/4659242160619914"
-    },
-    {
-        "artist": "孟美岐",
-        "name": "爱·不爱",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0ea37a347d6d864ebda95e8d7a78271e&s=ff0929481d2948b99aed1bbd75508b3b",
-        "short_url": "http://t.cn/A6fl3fYi",
-        "weibo_url": "https://weibo.com/detail/4659328752025870"
     },
     {
         "artist": "张哲瀚",
@@ -158,5 +142,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=f368ede7f2b47aa5fc0945e2905fdb5b&s=c4f989fd54154bd39824e5afc4464252",
         "short_url": "http://t.cn/A6fjcTYP",
         "weibo_url": "https://weibo.com/detail/4659483399948155"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Liar",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=53be537040ec453c6a864cacccbf0253&s=9eb12406d2dc4db29e3853da13d4ce7f",
+        "short_url": "http://t.cn/A6fjQ0Qs",
+        "weibo_url": "https://weibo.com/detail/4659591344292913"
     }
 ]
