@@ -91,6 +91,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4c27ded51f9e9c24d715fc2b3821d4da&s=561288d29a7d41faa0167488c19bc976",
+        "short_url": "http://t.cn/A6fjlQFx",
+        "weibo_url": "https://weibo.com/detail/4659568803582279"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=72df93165fcad03994e218d4bf42dddb&s=cc6f72237dc04703b7fefff4d8b47882",
         "short_url": "http://t.cn/A6fjcY53",
         "weibo_url": "https://weibo.com/detail/4659483261273053"
@@ -158,6 +166,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=ff98a9f45ad1a3f7f782b6c8a8f521e7&s=36fa96ede64448469f70f4b99e7e87c3",
         "short_url": "http://t.cn/A6fWi0kD",
         "weibo_url": "https://weibo.com/detail/4658936697586136"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=65044668ee824f07389d125a1f54d867&s=a92ca379ddb54e0393c5f2e73709bfa5",
+        "short_url": "http://t.cn/A6fjjUyj",
+        "weibo_url": "https://weibo.com/detail/4659570923018649"
     },
     {
         "artist": "黄明昊 (Justin)",
