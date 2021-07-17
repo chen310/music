@@ -40,14 +40,6 @@
         "weibo_url": "https://weibo.com/detail/4659563205232081"
     },
     {
-        "artist": "王一博",
-        "name": "无感",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=355ddb4753310e0bb11b2398169e6345&s=da22f5f427a64b1b8abf035b0eee76b7",
-        "short_url": "http://t.cn/A6fYWqj3",
-        "weibo_url": "https://weibo.com/detail/4659867895467806"
-    },
-    {
         "artist": "程潇",
         "name": "聚焦-X",
         "type": "album",
@@ -206,13 +198,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=0eb4820c59dfc72e001ea835985363c4&s=39818c0b3c95469ea3ea98600f1ced8a",
         "short_url": "http://t.cn/A6fYMMuL",
         "weibo_url": "https://weibo.com/detail/4659754758833729"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0d4c5b260301c7c105bc0269f4ed06a4&s=d808dbf8477849dd92b74a9dc4b1bdc0",
-        "short_url": "http://t.cn/A6fY1Mg5",
-        "weibo_url": "https://weibo.com/detail/4659928277451352"
     }
 ]
