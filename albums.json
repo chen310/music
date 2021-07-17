@@ -35,14 +35,6 @@
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=745f43315089eec0a2ebfa37791ab59d&s=37b074aded054324926f2c002f374ced",
-        "short_url": "http://t.cn/A6flazb1",
-        "weibo_url": "https://weibo.com/detail/4659228339339388"
-    },
-    {
-        "artist": "张哲瀚",
-        "name": "环绕",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a8d1273fc13886ab406e1360a29a7955&s=8028d14ad6ae4f60881d1bc14e3e1162",
         "short_url": "http://t.cn/A6fjWaoW",
         "weibo_url": "https://weibo.com/detail/4659563205232081"
@@ -54,6 +46,22 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=355ddb4753310e0bb11b2398169e6345&s=da22f5f427a64b1b8abf035b0eee76b7",
         "short_url": "http://t.cn/A6fYWqj3",
         "weibo_url": "https://weibo.com/detail/4659867895467806"
+    },
+    {
+        "artist": "程潇",
+        "name": "聚焦-X",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1583f004127290fb9fef7ca2bb96cde6&s=b8e95d6a080e47a38b8ecac723d86a39",
+        "short_url": "http://t.cn/A6fYee9u",
+        "weibo_url": "https://weibo.com/detail/4659957558149422"
+    },
+    {
+        "artist": "程潇",
+        "name": "聚焦-X",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ad9bbc34e61fdc6df113e4d2c84fcc7e&s=8ccc3417d0de45a4bcc8bf1abdf8df64",
+        "short_url": "http://t.cn/A6fYemCQ",
+        "weibo_url": "https://weibo.com/detail/4659955410143105"
     },
     {
         "artist": "范丞丞",
