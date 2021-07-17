@@ -83,14 +83,6 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=63fd478fd5acb9c1a0e392f91a35b098&s=2e72dfb4e9674b06862cf1649095cd27",
-        "short_url": "http://t.cn/A6fT4wkp",
-        "weibo_url": "https://weibo.com/detail/4660032425690729"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=0a1c8907cc7d23ebb4832f866f932e44&s=18a048b34d894931bbb877ea2b5459d9",
         "short_url": "http://t.cn/A6fTy30m",
         "weibo_url": "https://weibo.com/detail/4660026310399379"
@@ -110,6 +102,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=d80bf4f8dba0efa4e3f8f172f058994f&s=eba6f934ae794563856e33f0b0237993",
         "short_url": "http://t.cn/A6fTvq1A",
         "weibo_url": "https://weibo.com/detail/4660024963501993"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=63fd478fd5acb9c1a0e392f91a35b098&s=2e72dfb4e9674b06862cf1649095cd27",
+        "short_url": "http://t.cn/A6fT4wkp",
+        "weibo_url": "https://weibo.com/detail/4660032425690729"
     },
     {
         "artist": "程潇",
@@ -158,5 +158,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=f368ede7f2b47aa5fc0945e2905fdb5b&s=c4f989fd54154bd39824e5afc4464252",
         "short_url": "http://t.cn/A6fjcTYP",
         "weibo_url": "https://weibo.com/detail/4659483399948155"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "18",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3bc42f838bfb0f7d31ddf9aabe091efb&s=5c14df37980146fdb8b09b220882a227",
+        "short_url": "http://t.cn/A6fTqivk",
+        "weibo_url": "https://weibo.com/detail/4660047550876201"
     }
 ]
