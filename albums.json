@@ -1,5 +1,13 @@
 [
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=717f99ea2f5ddaff9607df147b0a5c55&s=09709fc6df204b61b3ab9f3fab09eaad",
+        "short_url": "http://t.cn/A6fYMsy5",
+        "weibo_url": "https://weibo.com/detail/4660020141099877"
+    },
+    {
         "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
@@ -24,12 +32,100 @@
         "weibo_url": "https://weibo.com/detail/4659563205232081"
     },
     {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1551265b33515553243469029c889773&s=d3c62e6ef9404a078dbfcc8a13d17747",
+        "short_url": "http://t.cn/A6fTyaNC",
+        "weibo_url": "https://weibo.com/detail/4660024514971530"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=23539c76371b467f8b45e0b68b44c1bf&s=26bca8c852224152aa75bd4e7de2690e",
+        "short_url": "http://t.cn/A6fTyV8r",
+        "weibo_url": "https://weibo.com/detail/4660023822911094"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=05d10cdd64354426dd0fc214e028759c&s=93c507b453cf4ec2b31fda6a796e8e23",
+        "short_url": "http://t.cn/A6fTUbE3",
+        "weibo_url": "https://weibo.com/detail/4660028126791394"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9b23f88bb82ba4babe29757d1b0e5a6e&s=6ef60b3237c24cb894772f12459b4882",
+        "short_url": "http://t.cn/A6fTyWh7",
+        "weibo_url": "https://weibo.com/detail/4660025248711067"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5d8ceb2f89b44b73b7b156e58e1b9bbb&s=493b337b16244f008652d8603e0c6dd3",
+        "short_url": "http://t.cn/A6fTyV8k",
+        "weibo_url": "https://weibo.com/detail/4660023822911094"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a828bb972ae8204e668c3df794165de4&s=ea82a40ec0254c84b50fc6d4bedeeb9c",
+        "short_url": "http://t.cn/A6fTUEPp",
+        "weibo_url": "https://weibo.com/detail/4660030743250541"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e331889940152444c89702e16a210124&s=5630a02c6c2d47758c71bbe24365d14d",
+        "short_url": "http://t.cn/A6fTLQG4",
+        "weibo_url": "https://weibo.com/detail/4660026930891967"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0a1c8907cc7d23ebb4832f866f932e44&s=18a048b34d894931bbb877ea2b5459d9",
+        "short_url": "http://t.cn/A6fTy30m",
+        "weibo_url": "https://weibo.com/detail/4660026310399379"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d501c0578471f681cc480cb43c73bddb&s=3ccac4252e094225a99b67f087c4e7fb",
+        "short_url": "http://t.cn/A6fTU1nc",
+        "weibo_url": "https://weibo.com/detail/4660031171071787"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d80bf4f8dba0efa4e3f8f172f058994f&s=eba6f934ae794563856e33f0b0237993",
+        "short_url": "http://t.cn/A6fTvq1A",
+        "weibo_url": "https://weibo.com/detail/4660024963501993"
+    },
+    {
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4c27ded51f9e9c24d715fc2b3821d4da&s=561288d29a7d41faa0167488c19bc976",
         "short_url": "http://t.cn/A6fjlQFx",
         "weibo_url": "https://weibo.com/detail/4659568803582279"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=51ca91b05cda4669d8a51def49f1c53f&s=1975e074f71543ff8f1e655f8cf223da",
+        "short_url": "http://t.cn/A6fYNG00",
+        "weibo_url": "https://weibo.com/detail/4659849968748401"
     },
     {
         "artist": "范丞丞",
@@ -46,6 +142,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=622e25f40fee7e5f454714c04596d56d&s=a1c60eb689ce48d8ae1e72477fcf360e",
         "short_url": "http://t.cn/A6fjOSrs",
         "weibo_url": "https://weibo.com/detail/4659558906332789"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0c126248a9c2b370a6a5b87c1522acab&s=a3210943122b443a858b4019d46582d3",
+        "short_url": "http://t.cn/A6fY4WQ9",
+        "weibo_url": "https://weibo.com/detail/4659721229832568"
     },
     {
         "artist": "范丞丞",
