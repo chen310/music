@@ -59,14 +59,6 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=51ca91b05cda4669d8a51def49f1c53f&s=1975e074f71543ff8f1e655f8cf223da",
-        "short_url": "http://t.cn/A6fYNG00",
-        "weibo_url": "https://weibo.com/detail/4659849968748401"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4c27ded51f9e9c24d715fc2b3821d4da&s=561288d29a7d41faa0167488c19bc976",
         "short_url": "http://t.cn/A6fjlQFx",
         "weibo_url": "https://weibo.com/detail/4659568803582279"
@@ -83,6 +75,14 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=51ca91b05cda4669d8a51def49f1c53f&s=1975e074f71543ff8f1e655f8cf223da",
+        "short_url": "http://t.cn/A6fYNG00",
+        "weibo_url": "https://weibo.com/detail/4659849968748401"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=72df93165fcad03994e218d4bf42dddb&s=cc6f72237dc04703b7fefff4d8b47882",
         "short_url": "http://t.cn/A6fjcY53",
         "weibo_url": "https://weibo.com/detail/4659483261273053"
@@ -94,14 +94,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=51296f7fc6365ddb84f3069474f20e87&s=66523d1365d64179bd18e2c486ec2dbc",
         "short_url": "http://t.cn/A6flCYgO",
         "weibo_url": "https://weibo.com/detail/4659251173135093"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=97547db8115fa267a04e0c1c750a8c70&s=f640b9735b754be894b423e2c5699bd9",
-        "short_url": "http://t.cn/A6fYYhP7",
-        "weibo_url": "https://weibo.com/detail/4659879456014361"
     },
     {
         "artist": "范丞丞",
@@ -126,6 +118,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7097c833578c1b677d1f837e6bb0f877&s=ce5e024fba484ac2abc21b75e01fbc2d",
         "short_url": "http://t.cn/A6fllQwU",
         "weibo_url": "https://weibo.com/detail/4659275848751218"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e9dc41181ffa60b0d5efbd7b83174047&s=603e4d2ed99943b1a225fb17ec71b81b",
+        "short_url": "http://t.cn/A6fY59KX",
+        "weibo_url": "https://weibo.com/detail/4659898312822002"
     },
     {
         "artist": "范丞丞",
