@@ -32,12 +32,28 @@
         "weibo_url": "https://weibo.com/detail/4660465978578706"
     },
     {
+        "artist": "李权哲",
+        "name": "我要我们在一起",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7102416b4e132213e16e6ad5b38302e0&s=ac193877bddc407b8ae69b7c2550c1bf",
+        "short_url": "http://t.cn/A6fQpLc0",
+        "weibo_url": "https://weibo.com/detail/4660743519342168"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=520588a68aff500292743d8599e97a57&s=3e82120b477a4798aaad4f115e56bda6",
         "short_url": "http://t.cn/A6fQC6mj",
         "weibo_url": "https://weibo.com/detail/4660735245029325"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c83b38693e936b865600360e86f3e41e&s=610b607b411645d5af2854f1f88b44b6",
+        "short_url": "http://t.cn/A6fQND8j",
+        "weibo_url": "https://weibo.com/detail/4660742504321098"
     },
     {
         "artist": "毕雯珺",
@@ -105,6 +121,14 @@
     },
     {
         "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8bbd801b27d534aa8bd0683ff6f9c9c9&s=c00fb53c56b04f8cb78bff227fb8243a",
+        "short_url": "http://t.cn/A6fQNFHG",
+        "weibo_url": "https://weibo.com/detail/4660742677073094"
+    },
+    {
+        "artist": "王一博",
         "name": "无感",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=62c0e0357d900c2f3ff3e8741f5516b8&s=65b7f818146c41c983adab013db5cea1",
@@ -150,5 +174,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=40c33a7afb9089a069fcdb66ebce4b1f&s=1b3502fd33214071b5e6c4c87739de33",
         "short_url": "http://t.cn/A6fTXYIe",
         "weibo_url": "https://weibo.com/detail/4660261468769969"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a932395934c83e20e691b05eb9ee984f&s=8e7d1a1502494f4ca5ad9977002bb050",
+        "short_url": "http://t.cn/A6fQNgPs",
+        "weibo_url": "https://weibo.com/detail/4660742290672226"
     }
 ]
