@@ -88,14 +88,6 @@
         "weibo_url": "https://weibo.com/detail/4660030743250541"
     },
     {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d80bf4f8dba0efa4e3f8f172f058994f&s=eba6f934ae794563856e33f0b0237993",
-        "short_url": "http://t.cn/A6fTvq1A",
-        "weibo_url": "https://weibo.com/detail/4660024963501993"
-    },
-    {
         "artist": "王一博",
         "name": "无感",
         "type": "album",
@@ -110,6 +102,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7245d6474097b3be564c64f664c984b9&s=a630fcf2f8274f6699df1ccece9673b3",
         "short_url": "http://t.cn/A6fTJHGR",
         "weibo_url": "https://weibo.com/detail/4660634362317163"
+    },
+    {
+        "artist": "胡烨韬",
+        "name": "UGLY",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=a266b3a18faee655e63fa1c1c7e2acd3&s=499d08af20944541834e19a8b91d4598",
+        "short_url": "http://t.cn/A6fQiqIg",
+        "weibo_url": "https://weibo.com/detail/4660700889224076"
     },
     {
         "artist": "范丞丞",
@@ -133,6 +133,6 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=40c33a7afb9089a069fcdb66ebce4b1f&s=1b3502fd33214071b5e6c4c87739de33",
         "short_url": "http://t.cn/A6fTXYIe",
-        "weibo_url": "https://weibo.com/detail/4660104131249930"
+        "weibo_url": "https://weibo.com/detail/4660261468769969"
     }
 ]
