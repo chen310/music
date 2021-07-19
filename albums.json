@@ -19,6 +19,14 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=41ce2285651d36663a4d29d0fbd682d5&s=59f0a1d8611244f78c38729becfc543c",
+        "short_url": "http://t.cn/A6fTCwZ2",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
+    },
+    {
+        "artist": "吴宣仪",
+        "name": "We Were In Love",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=31ad7731b1fcfe195f0dc1a1ba020b3a&s=34e7e5a3152040128dd8d4cc37f6b67b",
         "short_url": "http://t.cn/A6fQodzb",
         "weibo_url": "https://weibo.com/detail/4660724372607019"
@@ -65,6 +73,14 @@
     },
     {
         "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=413280cc11340fa17e5a621c9f3d87c5&s=501c483588164ec7b81b8a29e3c4b7d6",
+        "short_url": "http://t.cn/A6fQjkFR",
+        "weibo_url": "https://weibo.com/detail/4660771764311454"
+    },
+    {
+        "artist": "王一博",
         "name": "无感",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=62c0e0357d900c2f3ff3e8741f5516b8&s=65b7f818146c41c983adab013db5cea1",
@@ -77,7 +93,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=7245d6474097b3be564c64f664c984b9&s=a630fcf2f8274f6699df1ccece9673b3",
         "short_url": "http://t.cn/A6fTJHGR",
-        "weibo_url": "https://weibo.com/detail/4660634362317163"
+        "weibo_url": "https://weibo.com/detail/4660083637617908"
     },
     {
         "artist": "胡烨韬",
@@ -86,6 +102,14 @@
         "url": "https://music.163.com/store/m/song/receive?tk=a266b3a18faee655e63fa1c1c7e2acd3&s=499d08af20944541834e19a8b91d4598",
         "short_url": "http://t.cn/A6fQiqIg",
         "weibo_url": "https://weibo.com/detail/4660700889224076"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=cd41db6fc5da88d8bbc9e8fb08ccc707&s=182e3f4ef8964e52a65fe3255aa414b1",
+        "short_url": "http://t.cn/A6fTxFpe",
+        "weibo_url": "https://weibo.com/detail/4660080941472086"
     },
     {
         "artist": "范丞丞",
@@ -109,7 +133,7 @@
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=40c33a7afb9089a069fcdb66ebce4b1f&s=1b3502fd33214071b5e6c4c87739de33",
         "short_url": "http://t.cn/A6fTXYIe",
-        "weibo_url": "https://weibo.com/detail/4660104131249930"
+        "weibo_url": "https://weibo.com/detail/4660261468769969"
     },
     {
         "artist": "范丞丞",
@@ -118,5 +142,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a932395934c83e20e691b05eb9ee984f&s=8e7d1a1502494f4ca5ad9977002bb050",
         "short_url": "http://t.cn/A6fQNgPs",
         "weibo_url": "https://weibo.com/detail/4660742290672226"
+    },
+    {
+        "artist": "黄明昊 (Justin)",
+        "name": "Hard Road",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=55cf3e69f283ff1bc5d3f1319e98aa13&s=ac398b68b1c74afb8c3906f13fed8a79",
+        "short_url": "http://t.cn/A6fTX6so",
+        "weibo_url": "https://weibo.com/detail/4660093687435002"
     }
 ]
