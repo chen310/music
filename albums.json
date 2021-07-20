@@ -1,37 +1,5 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=2eb99e9409325bf00fa0da263b315c70&s=ff96618deed64ee8a85d84f458637aab",
-        "short_url": "http://t.cn/A6fTNd5D",
-        "weibo_url": "https://weibo.com/detail/4660118370910256"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=9ad20152a9b9806d478c67cb7b9e92b7&s=347d85922a0f435bb4b972fb8da70dfa",
-        "short_url": "http://t.cn/A6fTJmL1",
-        "weibo_url": "https://weibo.com/detail/4660457199375809"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=41ce2285651d36663a4d29d0fbd682d5&s=59f0a1d8611244f78c38729becfc543c",
-        "short_url": "http://t.cn/A6fTCwZ2",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=31ad7731b1fcfe195f0dc1a1ba020b3a&s=34e7e5a3152040128dd8d4cc37f6b67b",
-        "short_url": "http://t.cn/A6fQodzb",
-        "weibo_url": "https://weibo.com/detail/4660724372607019"
-    },
-    {
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
@@ -64,12 +32,20 @@
         "weibo_url": "https://weibo.com/detail/4660742504321098"
     },
     {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f1633933a53b8dd312e81ef5fad63660&s=1d17110a5c1e4daaa2a4322da36e00f8",
+        "short_url": "http://t.cn/A6f8P39T",
+        "weibo_url": "https://weibo.com/detail/4660873446293825"
+    },
+    {
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=32d1cb67d8579a783f6e26b272f9aa9e&s=8cd47158735f48edaa3744e0c0fc786b",
-        "short_url": "http://t.cn/A6fTKFor",
-        "weibo_url": "https://weibo.com/detail/4660106794893374"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dd5cd7e00b1412c46ff4ddd271672284&s=cdee97f7c59c4c36b681fd3b3ad23bdf",
+        "short_url": "http://t.cn/A6f8hgNU",
+        "weibo_url": "https://weibo.com/detail/4660886755868974"
     },
     {
         "artist": "王一博",
@@ -83,9 +59,9 @@
         "artist": "胡春杨",
         "name": "Can You Remember",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7245d6474097b3be564c64f664c984b9&s=a630fcf2f8274f6699df1ccece9673b3",
-        "short_url": "http://t.cn/A6fTJHGR",
-        "weibo_url": "https://weibo.com/detail/4660083637617908"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=90627dde9268929ac3ba834f7056c93f&s=5d018fe9bfe541a6bfe9a4988a723195",
+        "short_url": "http://t.cn/A6fQByyx",
+        "weibo_url": "https://weibo.com/detail/4660818476013480"
     },
     {
         "artist": "胡烨韬",
@@ -99,33 +75,9 @@
         "artist": "范丞丞",
         "name": "EMERGING",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=cd41db6fc5da88d8bbc9e8fb08ccc707&s=182e3f4ef8964e52a65fe3255aa414b1",
-        "short_url": "http://t.cn/A6fTxFpe",
-        "weibo_url": "https://weibo.com/detail/4660080941472086"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=37b2c36e1cff3553b239e612ee664540&s=4d1e9a643f8647daa2d07f97a93529ee",
         "short_url": "http://t.cn/A6fQbISw",
         "weibo_url": "https://weibo.com/detail/4660711353750285"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "EMERGING",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=70e6b2f18b0defc1e9d4ab50bf4bd815&s=8ef2795c6cbd4718a4812ae738fef224",
-        "short_url": "http://t.cn/A6fTRRNO",
-        "weibo_url": "https://weibo.com/detail/4660212366312101"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=40c33a7afb9089a069fcdb66ebce4b1f&s=1b3502fd33214071b5e6c4c87739de33",
-        "short_url": "http://t.cn/A6fTXYIe",
-        "weibo_url": "https://weibo.com/detail/4660104131249930"
     },
     {
         "artist": "范丞丞",
@@ -134,13 +86,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a932395934c83e20e691b05eb9ee984f&s=8e7d1a1502494f4ca5ad9977002bb050",
         "short_url": "http://t.cn/A6fQNgPs",
         "weibo_url": "https://weibo.com/detail/4660742290672226"
-    },
-    {
-        "artist": "黄明昊 (Justin)",
-        "name": "Hard Road",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=55cf3e69f283ff1bc5d3f1319e98aa13&s=ac398b68b1c74afb8c3906f13fed8a79",
-        "short_url": "http://t.cn/A6fTX6so",
-        "weibo_url": "https://weibo.com/detail/4660093687435002"
     }
 ]
