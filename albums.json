@@ -82,17 +82,17 @@
     {
         "artist": "李润祺",
         "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5e9f05f4684d5eb5fb8ecb5069d436b4&s=3463259bb4da4072a5ee8aa3a5e46e70",
+        "short_url": "http://t.cn/A6I5yJYv",
+        "weibo_url": "https://weibo.com/detail/4668387143975533"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=56b5829f0e1117195d75d898e5a3d67d&s=0bc1b7631b0c420b9c4c9b6a50eaefe1",
         "short_url": "http://t.cn/A6Iy1yah",
         "weibo_url": "https://weibo.com/detail/4667723664065657"
-    },
-    {
-        "artist": "胡烨韬",
-        "name": "UGLY",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=6660a2cf4f6be46fae57c12966842dbb&s=910fc4c2fb3b4dceb2feba0b63f5cd8a",
-        "short_url": "http://t.cn/A6Iy03sw",
-        "weibo_url": "https://weibo.com/detail/4667682480194784"
     }
 ]
