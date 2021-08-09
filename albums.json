@@ -1,13 +1,5 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "25",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1d68fd1f88b586b1b21732bd5d42bf2a&s=bc9f3411f46b4927aadf29d651459c82",
-        "short_url": "http://t.cn/A6IqnVr8",
-        "weibo_url": "https://weibo.com/detail/4668299860772463"
-    },
-    {
         "artist": "孟美岐",
         "name": "爱·不爱",
         "type": "album",
@@ -16,12 +8,20 @@
         "weibo_url": "https://weibo.com/detail/4668268688446813"
     },
     {
+        "artist": "张哲瀚",
+        "name": "环绕",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a64212ab7fc76be4f99440f668dbd37f&s=a0fd1bf588fd4837b2d1389e6e5862ab",
+        "short_url": "http://t.cn/A6IqdWyq",
+        "weibo_url": "https://weibo.com/detail/4668327337918917"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=de9337bd74e73232d985abdb56b0876c&s=706eeaee098d4621ac6b356115d458a5",
         "short_url": "http://t.cn/A6IyY1Zu",
-        "weibo_url": "https://weibo.com/detail/4667691300816438"
+        "weibo_url": "https://weibo.com/detail/4667727249408909"
     },
     {
         "artist": "李润祺",
