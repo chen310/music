@@ -22,5 +22,37 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5e9f05f4684d5eb5fb8ecb5069d436b4&s=3463259bb4da4072a5ee8aa3a5e46e70",
         "short_url": "http://t.cn/A6I5yJYv",
         "weibo_url": "https://weibo.com/detail/4668387143975533"
+    },
+    {
+        "artist": "胡烨韬",
+        "name": "UGLY",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=d2723101052fd31c859db9ee3b0a353d&s=e719d9fbd3a64e34876b5c1365dfff59",
+        "short_url": "http://t.cn/A6I5D1WF",
+        "weibo_url": "https://weibo.com/detail/4668614000775285"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fbe1a92579c45a841a995451d627529a&s=b0b36e73bc3f4ad58deedf1915067739",
+        "short_url": "http://t.cn/A6I5si0A",
+        "weibo_url": "https://weibo.com/detail/4668623392084196"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "I'm Here",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c374ae958a7656cfaf7fafcdce07b997&s=f401f301638a4f1587cbac06053518b8",
+        "short_url": "http://t.cn/A6I5si0w",
+        "weibo_url": "https://weibo.com/detail/4668623392084196"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "Like A Fan",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7771833ef2b06c253a63e68ea76a6dd9&s=4af6114b0302418e8896868415de2b29",
+        "short_url": "http://t.cn/A6I5si02",
+        "weibo_url": "https://weibo.com/detail/4668623392084196"
     }
 ]
