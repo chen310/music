@@ -1,27 +1,19 @@
 [
     {
         "artist": "张哲瀚",
+        "name": "光",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=92a3f9379080c497495e5a105afb89b0&s=82bd9345bf1f4f6a8bf2a43e23ab35a3",
+        "short_url": "http://t.cn/A6I5jnlt",
+        "weibo_url": "https://weibo.com/detail/4668544199427174"
+    },
+    {
+        "artist": "张哲瀚",
         "name": "环绕",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=a64212ab7fc76be4f99440f668dbd37f&s=a0fd1bf588fd4837b2d1389e6e5862ab",
         "short_url": "http://t.cn/A6IqdWyq",
         "weibo_url": "https://weibo.com/detail/4668327337918917"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=16b3eadff78b83323d0a8ea106b4a182&s=cc97241720e24c6cb406aa25605282d7",
-        "short_url": "http://t.cn/A6IUbkjv",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5d25349ef676e98fe4ff9480d59aa023&s=557d1fc150574abd937dcccd8a0c5414",
-        "short_url": "http://t.cn/A6IyuBFx",
-        "weibo_url": "https://weibo.com/detail/4667719637797318"
     },
     {
         "artist": "李润祺",
@@ -35,22 +27,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=fb50584d53c5ea2fa6be31095af814d9&s=7a636c3325d0447b9abd4f847cff858c",
-        "short_url": "http://t.cn/A6Iy1Ner",
-        "weibo_url": "https://weibo.com/detail/4667725302991283"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b83b08863a3fc6c77c6d1139335e68df&s=48d0fa2e863e49dcb561a79b3ac8d43b",
-        "short_url": "http://t.cn/A6IyH2ad",
-        "weibo_url": "https://weibo.com/detail/4667695180551802"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=79273c0614ffde6745a69a4cdc20da82&s=37eaac941f3040988e04ef134edc62bf",
         "short_url": "http://t.cn/A6IUoEii",
         "weibo_url": "https://weibo.com/detail/4667915359488619"
@@ -59,40 +35,8 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=de9337bd74e73232d985abdb56b0876c&s=706eeaee098d4621ac6b356115d458a5",
-        "short_url": "http://t.cn/A6IyY1Zu",
-        "weibo_url": "https://weibo.com/detail/4667691300816438"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=420f25062f61063043d9b5e38e6d4f9e&s=f41a0e43085546d081371faca30f86fa",
-        "short_url": "http://t.cn/A6IyjbI8",
-        "weibo_url": "https://weibo.com/detail/4667684748788935"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=488680bb33648e34d8e5455b3273ed1e&s=e0e8145bdaa7436d9fb511511a1868d1",
-        "short_url": "http://t.cn/A6Iy3Sfc",
-        "weibo_url": "https://weibo.com/detail/4667721289567006"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5e9f05f4684d5eb5fb8ecb5069d436b4&s=3463259bb4da4072a5ee8aa3a5e46e70",
         "short_url": "http://t.cn/A6I5yJYv",
         "weibo_url": "https://weibo.com/detail/4668387143975533"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=56b5829f0e1117195d75d898e5a3d67d&s=0bc1b7631b0c420b9c4c9b6a50eaefe1",
-        "short_url": "http://t.cn/A6Iy1yah",
-        "weibo_url": "https://weibo.com/detail/4667723664065657"
     }
 ]
