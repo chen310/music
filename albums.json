@@ -8,14 +8,6 @@
         "weibo_url": "https://weibo.com/detail/4669368514644868"
     },
     {
-        "artist": "李权哲",
-        "name": "我要我们在一起",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f95dc0222639482339d049a6d1206c63&s=4c481a55bbc14a2ea4ea8ab0ab17b5e4",
-        "short_url": "http://t.cn/A6IVRyMG",
-        "weibo_url": "https://weibo.com/detail/4669385728333806"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -30,13 +22,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=56cab07b904521f707f83ad81d99574a&s=986350a38b9f4a299a63dcfdb08ab935",
         "short_url": "http://t.cn/A6Ic269J",
         "weibo_url": "https://weibo.com/detail/4668960123127710"
-    },
-    {
-        "artist": "王霏霏",
-        "name": "Stalker窥探者",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=01d8f6a64a1d211dd120b2880878d39e&s=719e0f988d5b4260a7be1b5f7815750e",
-        "short_url": "http://t.cn/A6IVRspB",
-        "weibo_url": "https://weibo.com/detail/4669388265621248"
     }
 ]
