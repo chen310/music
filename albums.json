@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "artist": "周深",
+        "name": "无限",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=738ab911588ccf4159b02bbf83f3f920&s=0c105b9256dd459187d81a5c46297bd4",
+        "short_url": "http://t.cn/A6IIo1tl",
+        "weibo_url": "https://weibo.com/detail/4669770765435383"
+    },
+    {
+        "artist": "朱一龙",
+        "name": "重启",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=073a3ea17343ccc0f6bef7377a130df5&s=33bc0e8529f445eaaeed360dea83b59b",
+        "short_url": "http://t.cn/A6IIo3ik",
+        "weibo_url": "https://weibo.com/detail/4669770714846457"
+    },
+    {
+        "artist": "李常超 (Lao乾妈)",
+        "name": "无途",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=128a72bcad356a96992a586d1cd1ad50&s=646bb4dd5912490f8f77094e3e2fc897",
+        "short_url": "http://t.cn/A6IIolQb",
+        "weibo_url": "https://weibo.com/detail/4669769914253796"
+    }
+]
