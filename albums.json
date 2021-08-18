@@ -16,19 +16,11 @@
         "weibo_url": "https://weibo.com/detail/4671257621042180"
     },
     {
-        "artist": "Kaz",
-        "name": "White Stallion",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4c5d518f5e24dbef28554ba14d7155d4&s=44ecf75eac9c4cf5ac41585a120ce4d0",
-        "short_url": "http://t.cn/A6ISCIkA",
-        "weibo_url": "https://weibo.com/detail/4671539489806164"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7ef769415593aa3b88247c20bed39157&s=90f2010c3acd4573b9fe59f25e340c31",
-        "short_url": "http://t.cn/A6IXaLA3",
-        "weibo_url": "https://weibo.com/detail/4670901733294799"
+        "artist": "周深",
+        "name": "化身孤岛的鲸",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=592bbd958fd2e467dadc1977d665c024&s=e07f32d9cde04d3fb01c9df6a5ffbc9f",
+        "short_url": "http://t.cn/A6ISOdl0",
+        "weibo_url": "https://weibo.com/detail/4671558062967253"
     }
 ]
