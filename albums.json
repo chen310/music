@@ -14,5 +14,21 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=efe3998429e382b96abbb70c56848d8c&s=d274b77f649542be86a5140e3183d61c",
         "short_url": "http://t.cn/A6IaAK4R",
         "weibo_url": "https://weibo.com/detail/4671257621042180"
+    },
+    {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3edc6233ef7138989bd6253f76225c9e&s=626c7f497e1e4bf4bbceeb42c4d62ba0",
+        "short_url": "http://t.cn/A6ISDQFX",
+        "weibo_url": "https://weibo.com/detail/4671650811353665"
+    },
+    {
+        "artist": "水果星球",
+        "name": "From Earth to Space太空放风",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=69a2352a95c30c5d9b1246eb36901e59&s=3e6524fd68c84340ad84ab934a2efe74",
+        "short_url": "http://t.cn/A6ISkoRX",
+        "weibo_url": "https://weibo.com/detail/4671653780920962"
     }
 ]
