@@ -1,10 +1,34 @@
 [
     {
         "artist": "Kaz",
+        "name": "Drown",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2d688e3517aab27627b8c93284cc8b14&s=a3e73d7e74084db982ec120ed5d696bb",
+        "short_url": "http://t.cn/A6Iom51b",
+        "weibo_url": "https://weibo.com/detail/4671912653357096"
+    },
+    {
+        "artist": "Kaz",
         "name": "White Stallion",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=487ad2675fa702ac1c59c9a03fa1ba68&s=574a35cfd099444eb6d431584ebb53a2",
         "short_url": "http://t.cn/A6IaWzak",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
+    },
+    {
+        "artist": "Kaz",
+        "name": "White Stallion",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0c04f5d9fcf7c6817f2d68843ae5efa6&s=ea6447fb3d6f410191cd12f09febc2ca",
+        "short_url": "http://t.cn/A6Iom514",
+        "weibo_url": "https://weibo.com/detail/4671912653357096"
+    },
+    {
+        "artist": "水果星球",
+        "name": "From Earth to Space太空放风",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e02a2c9b228b92e3caced8fd724c4dcb&s=6b74fb55bd97446db505cba5c58881b2",
+        "short_url": "http://t.cn/A6ISaV1n",
         "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
