@@ -1,13 +1,5 @@
 [
     {
-        "artist": "付思超",
-        "name": "If I'm With You",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=2cf15486aac9faa4f78d700ea90f4434&s=953601b88c284db8b9957be8a01ff60f",
-        "short_url": "http://t.cn/A6INBPdV",
-        "weibo_url": "https://weibo.com/detail/4672577131515777"
-    },
-    {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
@@ -81,22 +73,6 @@
     },
     {
         "artist": "李润祺",
-        "name": "微风吹",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=c18da141de67ee538200d081edf94b2b&s=7828dbe1c2a242a7b4c67114f1ea3123",
-        "short_url": "http://t.cn/A6I9LfuQ",
-        "weibo_url": "https://weibo.com/detail/4672322167898360"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5dd6fce7ae711bba2b800de1f9b45be2&s=37d4ac35dd084c7db7af8f8b41604cfa",
-        "short_url": "http://t.cn/A6INpsvJ",
-        "weibo_url": "https://weibo.com/detail/4672554353298132"
-    },
-    {
-        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=696061d4939a7f8ace9160c579983195&s=a47116010dcd4f4a95d6f123e3d476b6",
@@ -110,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=786be738813534848c5d94afcc815108&s=2cd7b8c10b2f4962a8c38b0218ca8b3e",
         "short_url": "http://t.cn/A6IN0tMe",
         "weibo_url": "https://weibo.com/detail/4672554750445285"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5dd6fce7ae711bba2b800de1f9b45be2&s=37d4ac35dd084c7db7af8f8b41604cfa",
+        "short_url": "http://t.cn/A6INpsvJ",
+        "weibo_url": "https://weibo.com/detail/4672554353298132"
     },
     {
         "artist": "李润祺",
@@ -130,10 +114,26 @@
     {
         "artist": "李润祺",
         "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=36700e2598a212e73e15d224c74cc65a&s=951fc42f03944a98b7bd9f4a5e077018",
+        "short_url": "http://t.cn/A6IpPtmG",
+        "weibo_url": "https://weibo.com/detail/4672595540055934"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=4b8a0bc15fa7c74091a1b34d102e387c&s=be8c6d248c8d4529b1e758a703884b2d",
         "short_url": "http://t.cn/A6IKjFEu",
         "weibo_url": "https://weibo.com/detail/4672191998987164"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=58cad84cac82c913bc9bb3337bd40bc1&s=6a791f49092c4cfd8524d49d401176ab",
+        "short_url": "http://t.cn/A6IpP4lK",
+        "weibo_url": "https://weibo.com/detail/4672595175409920"
     },
     {
         "artist": "毕雯珺",
