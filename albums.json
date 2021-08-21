@@ -107,17 +107,17 @@
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=51f0261f9df9e5e14e788722cd047a1c&s=00a503a3a4cf459785eafd89b3ae49f2",
-        "short_url": "http://t.cn/A6Ip27gd",
-        "weibo_url": "https://weibo.com/detail/4672626935201926"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b7ef3ecd0bb0da6db294e765f17f4d8b&s=4041174a88be477398df452ea7417424",
+        "short_url": "http://t.cn/A6Ip2cP0",
+        "weibo_url": "https://weibo.com/detail/4672628071338196"
     },
     {
         "artist": "吴宣仪",
         "name": "We Were In Love",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b7ef3ecd0bb0da6db294e765f17f4d8b&s=4041174a88be477398df452ea7417424",
-        "short_url": "http://t.cn/A6Ip2cP0",
-        "weibo_url": "https://weibo.com/detail/4672628071338196"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=51f0261f9df9e5e14e788722cd047a1c&s=00a503a3a4cf459785eafd89b3ae49f2",
+        "short_url": "http://t.cn/A6Ip27gd",
+        "weibo_url": "https://weibo.com/detail/4672626935201926"
     },
     {
         "artist": "吴宣仪",
@@ -219,6 +219,14 @@
         "artist": "李润祺",
         "name": "微风吹",
         "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=884a07d9af34ae8fee474be9b7b38057&s=48acf8a383e14c659ecbac240ff03baf",
+        "short_url": "http://t.cn/A6IpxjXT",
+        "weibo_url": "https://weibo.com/detail/4672707041952233"
+    },
+    {
+        "artist": "李润祺",
+        "name": "微风吹",
+        "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=458f681e9f942fd570fcb9d6094b092a&s=c697b62decfb444f94d552ebb216b2e2",
         "short_url": "http://t.cn/A6Ip23pH",
         "weibo_url": "https://weibo.com/detail/4672630714009119"
@@ -246,6 +254,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e70a0e287807df4c35e6a901c6ef1f07&s=7c7d0cc73bfd4cafa863ec6f71b11f71",
         "short_url": "http://t.cn/A6IN0LxR",
         "weibo_url": "https://weibo.com/detail/4672554592371623"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=54e5680607c54dbf68349d03ec17cb6c&s=a182d2c924794c56861e985a3bfc6902",
+        "short_url": "http://t.cn/A6Ipxn2n",
+        "weibo_url": "https://weibo.com/detail/4672707700458635"
     },
     {
         "artist": "李润祺",
