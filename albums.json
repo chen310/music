@@ -1,21 +1,5 @@
 [
     {
-        "artist": "付思超",
-        "name": "If I'm With You",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=51b89bfc09ace4a6920a5c217e8c2d34&s=d65c9218fd244e7aabae7ca4c07f4d84",
-        "short_url": "http://t.cn/A6IOcWRe",
-        "weibo_url": "https://weibo.com/detail/4672401180200563"
-    },
-    {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=932e2612c8716aa6d88c341d20e94084&s=ecd56d4c10944666b06118a5c2f0a755",
-        "short_url": "http://t.cn/A6IpbItd",
-        "weibo_url": "https://weibo.com/detail/4672652369202867"
-    },
-    {
         "artist": "李润祺",
         "name": "微风吹",
         "type": "song",
@@ -67,14 +51,6 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=61cf4f8105d8741267a62090357cef99&s=35e7f26ba5a34ff79b866eba07521156",
-        "short_url": "http://t.cn/A6IOS5YY",
-        "weibo_url": "https://weibo.com/detail/4673372095777591"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=87655e4a5c2b4ec0afb01ae06c9a97bf&s=eb73b0339129420d82e5183b95729deb",
         "short_url": "http://t.cn/A6IOSwbA",
         "weibo_url": "https://weibo.com/detail/4673371348930963"
@@ -86,6 +62,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=3566fa2a870f37d331742e35c42ad4b1&s=5b8529b14b0f473b8f91adc7f1f474d8",
         "short_url": "http://t.cn/A6IOS4ln",
         "weibo_url": "https://weibo.com/detail/4673371801652516"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=61cf4f8105d8741267a62090357cef99&s=35e7f26ba5a34ff79b866eba07521156",
+        "short_url": "http://t.cn/A6IOS5YY",
+        "weibo_url": "https://weibo.com/detail/4673372095777591"
     },
     {
         "artist": "李润祺",
