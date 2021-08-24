@@ -3,6 +3,14 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=898a8ed1489083206b4ffc22eca1b523&s=7387f0bc2fa7435bafe64f5805571d86",
+        "short_url": "http://t.cn/A6IWInQy",
+        "weibo_url": "https://weibo.com/detail/4673524188841414"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d94e595f37d5f21151fc2f659405990d&s=f1aa5c6a143a4cebb3b838447f268895",
         "short_url": "http://t.cn/A6IOcwsz",
         "weibo_url": "https://weibo.com/detail/4673326129089688"
@@ -86,21 +94,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=664e7354c728d36dd399a5ba683708a3&s=eb9185da53134ab1ab2a1b107f33345a",
         "short_url": "http://t.cn/A6IWHkP7",
         "weibo_url": "https://weibo.com/detail/4673643038639192"
-    },
-    {
-        "artist": "水果星球",
-        "name": "From Earth to Space太空放风",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=faacd925a705f29e2a437d0d040fcc12&s=c2de5a8ffd764c68acca35ffc5def4ea",
-        "short_url": "http://t.cn/A6IWmEFp",
-        "weibo_url": "https://weibo.com/detail/4673665478428582"
-    },
-    {
-        "artist": "王一博",
-        "name": "无感",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=ae8bd33100f82bb948ac41ea0411fddc&s=ed93ffb4998c46e4ab0f8173b24890f8",
-        "short_url": "http://t.cn/A6IW36Zp",
-        "weibo_url": "https://weibo.com/detail/4673671974617219"
     }
 ]
