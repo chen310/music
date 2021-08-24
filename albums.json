@@ -1,14 +1,6 @@
 [
     {
         "artist": "李润祺",
-        "name": "微风吹",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=6ee8500114d1c37386f4a0031d8c2655&s=55de9166de7e4e41aea54abd211f3f13",
-        "short_url": "http://t.cn/A6IO6K5L",
-        "weibo_url": "https://weibo.com/detail/4673361475800468"
-    },
-    {
-        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d94e595f37d5f21151fc2f659405990d&s=f1aa5c6a143a4cebb3b838447f268895",
@@ -51,17 +43,17 @@
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0a53abd33e4a538746218fab5d8cef65&s=15f5ed604a5a4474978d82ef0e9373dd",
-        "short_url": "http://t.cn/A6IOSq9N",
-        "weibo_url": "https://weibo.com/detail/4673372015035071"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3566fa2a870f37d331742e35c42ad4b1&s=5b8529b14b0f473b8f91adc7f1f474d8",
+        "short_url": "http://t.cn/A6IOS4ln",
+        "weibo_url": "https://weibo.com/detail/4673371801652516"
     },
     {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3566fa2a870f37d331742e35c42ad4b1&s=5b8529b14b0f473b8f91adc7f1f474d8",
-        "short_url": "http://t.cn/A6IOS4ln",
-        "weibo_url": "https://weibo.com/detail/4673371801652516"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=0a53abd33e4a538746218fab5d8cef65&s=15f5ed604a5a4474978d82ef0e9373dd",
+        "short_url": "http://t.cn/A6IOSq9N",
+        "weibo_url": "https://weibo.com/detail/4673372015035071"
     },
     {
         "artist": "李润祺",
@@ -78,21 +70,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b4c0c2a9d08b7921cab4b96bad3ca836&s=22fcb4bb60744683b45c8968eca78c00",
         "short_url": "http://t.cn/A6IO6Xdl",
         "weibo_url": "https://weibo.com/detail/4673361232005873"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1b35e6e615a4283bea14f2122861f39b&s=6f8c34d6a3a546cb9a261aaf4dbda422",
-        "short_url": "http://t.cn/A6IpDZlB",
-        "weibo_url": "https://weibo.com/detail/4672024889527122"
-    },
-    {
-        "artist": "王一博",
-        "name": "无感",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e275d989c922294c98f9475fa25d9d61&s=117861308daa4077b6f1a22f72240180",
-        "short_url": "http://t.cn/A6IOQIHg",
-        "weibo_url": "https://weibo.com/detail/4673404533214116"
     }
 ]
