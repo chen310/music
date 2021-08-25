@@ -98,6 +98,14 @@
     {
         "artist": "李润祺",
         "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c1cdb4a55937357d39d5903c2e20a485&s=10faa1648ab84adc9ffb7f71e25ca9a6",
+        "short_url": "http://t.cn/A6IjIHci",
+        "weibo_url": "https://weibo.com/detail/4674122637118526"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=51eb27ba14afedcdd571a12d959fbbf5&s=039118e2e4c34dc3a7069b0a01103f77",
         "short_url": "http://t.cn/A6IjP8Ga",
