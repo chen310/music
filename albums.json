@@ -9,6 +9,14 @@
     },
     {
         "artist": "李润祺",
+        "name": "微风吹",
+        "type": "song",
+        "url": "https://music.163.com/store/m/song/receive?tk=8b10877b47e3bc7b92c146039eb5d307&s=26866fe73905428a896ed2dfa67021df",
+        "short_url": "http://t.cn/A6IYGE60",
+        "weibo_url": "https://weibo.com/detail/4674397803381367"
+    },
+    {
+        "artist": "李润祺",
         "name": "茫",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=b6745434220d2cdc81d22cc9198c3752&s=963003a20ce84a61b917747854f6566d",
