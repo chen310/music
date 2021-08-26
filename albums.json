@@ -1,5 +1,21 @@
 [
     {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=baca4d9cf23a38d8d3c6129f7447171b&s=38474f97c77a499ebce76992fada5b1c",
+        "short_url": "http://t.cn/A6IYxJ6W",
+        "weibo_url": "https://weibo.com/detail/4674434876576949"
+    },
+    {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8a825cced68d9319f09d13d487c2147b&s=2cc5cb7e354b4a39a73f1171ddddda39",
+        "short_url": "http://t.cn/A6IYM3rv",
+        "weibo_url": "https://weibo.com/detail/4674433212746137"
+    },
+    {
         "artist": "李润祺",
         "name": "微风吹",
         "type": "song",
@@ -86,5 +102,13 @@
         "url": "https://music.163.com/store/m/song/receive?tk=51eb27ba14afedcdd571a12d959fbbf5&s=039118e2e4c34dc3a7069b0a01103f77",
         "short_url": "http://t.cn/A6IjP8Ga",
         "weibo_url": "https://weibo.com/detail/4674035558385319"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c8a2d2f5fc5bf37a475371986db91019&s=266e52881f9f4758bfbc887bc8de3d71",
+        "short_url": "http://t.cn/A6IYfZJF",
+        "weibo_url": "https://weibo.com/detail/4674420084572866"
     }
 ]
