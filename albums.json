@@ -74,18 +74,18 @@
     {
         "artist": "李润祺",
         "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=387ffa1c2cf73486c29b07ed5a756779&s=99f93af5220d47c8a4a954dc7ac9e6cd",
-        "short_url": "http://t.cn/A6IjIJvR",
-        "weibo_url": "https://weibo.com/detail/4674121155220079"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
         "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=51eb27ba14afedcdd571a12d959fbbf5&s=039118e2e4c34dc3a7069b0a01103f77",
         "short_url": "http://t.cn/A6IjP8Ga",
         "weibo_url": "https://weibo.com/detail/4674035558385319"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=387ffa1c2cf73486c29b07ed5a756779&s=99f93af5220d47c8a4a954dc7ac9e6cd",
+        "short_url": "http://t.cn/A6IjIJvR",
+        "weibo_url": "https://weibo.com/detail/4674121155220079"
     },
     {
         "artist": "毕雯珺",
