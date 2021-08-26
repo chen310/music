@@ -3,14 +3,6 @@
         "artist": "李润祺",
         "name": "微风吹",
         "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=4f8f8163385b5e0517dda4822107c808&s=7ac9cc2b2f914679bbb8b3c50d807145",
-        "short_url": "http://t.cn/A6IjfByu",
-        "weibo_url": "https://weibo.com/detail/4674118702076588"
-    },
-    {
-        "artist": "李润祺",
-        "name": "微风吹",
-        "type": "song",
         "url": "https://music.163.com/store/m/song/receive?tk=8b10877b47e3bc7b92c146039eb5d307&s=26866fe73905428a896ed2dfa67021df",
         "short_url": "http://t.cn/A6IYGE60",
         "weibo_url": "https://weibo.com/detail/4674397803381367"
@@ -94,13 +86,5 @@
         "url": "https://music.163.com/store/m/song/receive?tk=51eb27ba14afedcdd571a12d959fbbf5&s=039118e2e4c34dc3a7069b0a01103f77",
         "short_url": "http://t.cn/A6IjP8Ga",
         "weibo_url": "https://weibo.com/detail/4674035558385319"
-    },
-    {
-        "artist": "王一博",
-        "name": "无感",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a0071fdbf1941effe36a04a316aca2b4&s=364eac62f3cf45adbd58783ce51c5d12",
-        "short_url": "http://t.cn/A6Il9UXm",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
     }
 ]
