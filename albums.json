@@ -1,5 +1,13 @@
 [
     {
+        "artist": "Kaz",
+        "name": "White Stallion",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a25bd02746733b7b30daed8dde1ecfed&s=b5d4559136a847f7a8ae9e1ce29caf05",
+        "short_url": "http://t.cn/A6ITtbpp",
+        "weibo_url": "https://weibo.com/detail/4674720371313156"
+    },
+    {
         "artist": "吴哲晗",
         "name": "Don't let me down",
         "type": "album",
@@ -38,14 +46,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=e984ad3dc3f15f0a1ac92cb5cb6f0e59&s=5f41a85c820442cc9c360abb5108060d",
         "short_url": "http://t.cn/A6IYQdSc",
         "weibo_url": "https://weibo.com/detail/4674533288576574"
-    },
-    {
-        "artist": "朱正廷",
-        "name": "EMPTY SPACE",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3322cb1fd7f4db8631c8b4ab7e2b6d30&s=84d46f5e45434d55bdc954bbf373e0ff",
-        "short_url": "http://t.cn/A6IYRbwK",
-        "weibo_url": "https://weibo.com/detail/4674538707093707"
     },
     {
         "artist": "李润祺",
