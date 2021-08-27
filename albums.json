@@ -8,6 +8,14 @@
         "weibo_url": "https://weibo.com/detail/4674720371313156"
     },
     {
+        "artist": "丁泽仁",
+        "name": "Circle",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9460d2ed88910ccd8a800620c681b20c&s=ca50b00db45c49ea8f4b8bdf041b4a73",
+        "short_url": "http://t.cn/A6IHvw9U",
+        "weibo_url": "https://weibo.com/detail/4674915200141977"
+    },
+    {
         "artist": "吴哲晗",
         "name": "Don't let me down",
         "type": "album",
@@ -27,6 +35,14 @@
         "artist": "吴哲晗",
         "name": "Don't let me down",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a2354c1e2438f3b96dd0c5a373434657&s=85bee66c7be8449e82c2fa19bddd3de0",
+        "short_url": "http://t.cn/A6IHv1FL",
+        "weibo_url": "https://weibo.com/detail/4674918308120959"
+    },
+    {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ead34f309126894a2caa377e9722cc0d&s=8fabd36fab9142d3afb171c44dcb9df6",
         "short_url": "http://t.cn/A6IYp3rf",
         "weibo_url": "https://weibo.com/detail/4674491341078552"
@@ -40,35 +56,11 @@
         "weibo_url": "https://weibo.com/detail/4674784853757989"
     },
     {
-        "artist": "吴哲晗",
-        "name": "Don't let me down",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=94217df2e382f1b86c76781f000b7008&s=6972a0443c1c4f3b86d32b26ebe7e6a5",
-        "short_url": "http://t.cn/A6ITe68Q",
-        "weibo_url": "https://weibo.com/detail/4674895188859071"
-    },
-    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e984ad3dc3f15f0a1ac92cb5cb6f0e59&s=5f41a85c820442cc9c360abb5108060d",
         "short_url": "http://t.cn/A6IYQdSc",
         "weibo_url": "https://weibo.com/detail/4674533288576574"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=3c0d7f530bf2b00493f9c21154da5890&s=72ab23a1b35944289c39f2271e42d647",
-        "short_url": "http://t.cn/A6IYWBSa",
-        "weibo_url": "https://weibo.com/detail/4674505366307921"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "如果",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=c8a2d2f5fc5bf37a475371986db91019&s=266e52881f9f4758bfbc887bc8de3d71",
-        "short_url": "http://t.cn/A6IYfZJF",
-        "weibo_url": "https://weibo.com/detail/4674420084572866"
     }
 ]
