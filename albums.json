@@ -43,14 +43,6 @@
         "artist": "吴哲晗",
         "name": "Don't let me down",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1de11bbd21e801dd51f8cbfb2223b0f9&s=bb733e9d1893443ba502fe62a4d710cd",
-        "short_url": "http://t.cn/A6ITxrwu",
-        "weibo_url": "https://weibo.com/detail/4674747004880152"
-    },
-    {
-        "artist": "吴哲晗",
-        "name": "Don't let me down",
-        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=bb2cb3690c0aecf697752d5981517d21&s=e61fb322bcb7452e87f8733741ac1260",
         "short_url": "http://t.cn/A6ITNMuI",
         "weibo_url": "https://weibo.com/detail/4674790542279571"
@@ -62,6 +54,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=8a825cced68d9319f09d13d487c2147b&s=2cc5cb7e354b4a39a73f1171ddddda39",
         "short_url": "http://t.cn/A6IYM3rv",
         "weibo_url": "https://weibo.com/detail/4674433212746137"
+    },
+    {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1de11bbd21e801dd51f8cbfb2223b0f9&s=bb733e9d1893443ba502fe62a4d710cd",
+        "short_url": "http://t.cn/A6ITxrwu",
+        "weibo_url": "https://weibo.com/detail/4674747004880152"
     },
     {
         "artist": "朱正廷",
@@ -102,14 +102,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=7cb6cddaf71b34c03b7c3bcdd2938b3e&s=b2571538e5c740bf8a4543ac0cdda6aa",
         "short_url": "http://t.cn/A6IjfNIx",
         "weibo_url": "https://weibo.com/detail/4674117289381666"
-    },
-    {
-        "artist": "李润祺",
-        "name": "茫",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=26eabf1d68093f226156d845a2a2cad6&s=06162eb14bb04ec5a553d3d370bde371",
-        "short_url": "http://t.cn/A6IYWdZg",
-        "weibo_url": "https://weibo.com/detail/4674505488990926"
     },
     {
         "artist": "李润祺",
