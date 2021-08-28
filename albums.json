@@ -64,14 +64,6 @@
         "weibo_url": "https://weibo.com/detail/4674533288576574"
     },
     {
-        "artist": "朱正廷",
-        "name": "Chapter Z",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8d5cca644d73840f5c8a545b899faea2&s=89816f67e2d44b5992381da46e133820",
-        "short_url": "http://t.cn/A6IHbmh3",
-        "weibo_url": "https://weibo.com/detail/4674974847862054"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -86,22 +78,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=94695d37e2d8fff04023bff2c7fcb4b6&s=4534a43186ea484db2910fceb3c15986",
         "short_url": "http://t.cn/A6IHawrn",
         "weibo_url": "https://weibo.com/detail/4675082947133603"
-    },
-    {
-        "artist": "李鑫一",
-        "name": "失序抵抗",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6f53c1cd6b0bdb08ea7ccd3c7bd7be82&s=7c01f8f5667a483ead677990c03e9579",
-        "short_url": "http://t.cn/A6IHOZkG",
-        "weibo_url": "https://weibo.com/detail/4675120524955979"
-    },
-    {
-        "artist": "李鑫一",
-        "name": "失序抵抗",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8face156f7420960757643ea72dca5e5&s=0730a78e794d4d6bb3d7dc9c00ef7482",
-        "short_url": "http://t.cn/A6IHS9Cd",
-        "weibo_url": "https://weibo.com/detail/4675089155230745"
     },
     {
         "artist": "毕雯珺",
@@ -158,5 +134,13 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5eab996337e405788c18487ccb2801c1&s=6d3724ec792d42d086e1951ba55e6855",
         "short_url": "http://t.cn/A6IHwa23",
         "weibo_url": "https://weibo.com/detail/4674943524541158"
+    },
+    {
+        "artist": "莫寒",
+        "name": "夏天的故事",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b3cbeeb0f74176e30b28ef32678b3760&s=1507dffbce8c4f3ba08862c59476b572",
+        "short_url": "http://t.cn/A6IHlq2J",
+        "weibo_url": "https://weibo.com/detail/4519400655758042"
     }
 ]
