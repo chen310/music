@@ -64,11 +64,99 @@
         "weibo_url": "https://weibo.com/detail/4674533288576574"
     },
     {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8d5cca644d73840f5c8a545b899faea2&s=89816f67e2d44b5992381da46e133820",
+        "short_url": "http://t.cn/A6IHbmh3",
+        "weibo_url": "https://weibo.com/detail/4674974847862054"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "The Winter Light (冬日告白)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=52a85f1047a9346de10e5b78bec95780&s=840372fd4202478eae534af4dd661fa2",
+        "short_url": "http://t.cn/A6IHGwbh",
+        "weibo_url": "https://weibo.com/detail/4674976294635418"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=33eaca2b17e114e90104a142a39e903a&s=54325f05888649c4a0c7c815e8abfb76",
+        "short_url": "http://t.cn/A6IH6Yg9",
+        "weibo_url": "https://weibo.com/detail/4675079286296036"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=94695d37e2d8fff04023bff2c7fcb4b6&s=4534a43186ea484db2910fceb3c15986",
+        "short_url": "http://t.cn/A6IHawrn",
+        "weibo_url": "https://weibo.com/detail/4675082947133603"
+    },
+    {
+        "artist": "李鑫一",
+        "name": "失序抵抗",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8face156f7420960757643ea72dca5e5&s=0730a78e794d4d6bb3d7dc9c00ef7482",
+        "short_url": "http://t.cn/A6IHS9Cd",
+        "weibo_url": "https://weibo.com/detail/4675089155230745"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c27de371008388da4f7c8abc43d9dc07&s=8de3600793f948bd9c28f9df76e78049",
+        "short_url": "http://t.cn/A6IHzTtN",
+        "weibo_url": "https://weibo.com/detail/4674935337258133"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e1aa3bf0099758ef37870b732584a0ea&s=f466fe85f7724ed4bd8e4143c66c24f9",
+        "short_url": "http://t.cn/A6IHzVhc",
+        "weibo_url": "https://weibo.com/detail/4674933597407644"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5758f6bcb4e462ffdbfbb9f34eeddd15&s=cf1d45fd99c0404f82c1c5bea7763ae6",
+        "short_url": "http://t.cn/A6IHz0qw",
+        "weibo_url": "https://weibo.com/detail/4674934889251444"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6db1c0f59bf3bf38e9a0e97a7fcad93a&s=b5eb2816cf7a4c4fa6bc8edbe7edec2a",
+        "short_url": "http://t.cn/A6IHzkUM",
+        "weibo_url": "https://weibo.com/detail/4674936624384124"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d8d30c4994955e7af831e6fb10c9b690&s=0cc960d22a0f4986accf917c5a56f69b",
+        "short_url": "http://t.cn/A6IHAr35",
+        "weibo_url": "https://weibo.com/detail/4674950516183869"
+    },
+    {
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=6222c13136c670d75cdb1a07d47dd84c&s=beaeb31bf1904e8d89acd9199abaf925",
         "short_url": "http://t.cn/A6IH7lsG",
         "weibo_url": "https://weibo.com/detail/4674930644098421"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5eab996337e405788c18487ccb2801c1&s=6d3724ec792d42d086e1951ba55e6855",
+        "short_url": "http://t.cn/A6IHwa23",
+        "weibo_url": "https://weibo.com/detail/4674943524541158"
     }
 ]
