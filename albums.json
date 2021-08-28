@@ -1,5 +1,13 @@
 [
     {
+        "artist": "IU",
+        "name": "에잇",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bbb483b03dcfd6dfd9575c2ed48512cd&s=5ad031e19d324e7f83d1684532c96e3a",
+        "short_url": "http://t.cn/A6IHDd6B",
+        "weibo_url": "https://weibo.com/detail/4675232222937376"
+    },
+    {
         "artist": "Kaz",
         "name": "Drown feat. Hikari Mitsushima",
         "type": "album",
@@ -48,12 +56,44 @@
         "weibo_url": "https://weibo.com/detail/4674784853757989"
     },
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fee92b5826f66ad46477557c511ec3ec&s=0465f93ad0e2478989ac2a660217fa7b",
+        "short_url": "http://t.cn/A6IHkt4z",
+        "weibo_url": "https://weibo.com/detail/4675234303050667"
+    },
+    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e984ad3dc3f15f0a1ac92cb5cb6f0e59&s=5f41a85c820442cc9c360abb5108060d",
         "short_url": "http://t.cn/A6IYQdSc",
         "weibo_url": "https://weibo.com/detail/4674533288576574"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c8b8fa98730a6b2f1a0060d8b4f945bc&s=6675f46d485245a9854110cf513ce72c",
+        "short_url": "http://t.cn/A6IHkZTY",
+        "weibo_url": "https://weibo.com/detail/4675233296683331"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "EMPTY SPACE",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=af98c36d9a8edc464e917bb4d130721d&s=16e323ef743743058efd832e41a1f24f",
+        "short_url": "http://t.cn/A6IHkwpj",
+        "weibo_url": "https://weibo.com/detail/4675233380827776"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "The Winter Light (冬日告白)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=08380b770474be84939515436533855e&s=884c3d285ed14b5c97719be792a8cd18",
+        "short_url": "http://t.cn/A6IHkhy2",
+        "weibo_url": "https://weibo.com/detail/4675232986040335"
     },
     {
         "artist": "李润祺",
@@ -136,6 +176,14 @@
         "weibo_url": "https://weibo.com/detail/4674943524541158"
     },
     {
+        "artist": "程潇",
+        "name": "聚焦-X",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=9fca81acc3e59cebb37b54085e02f8c4&s=8dc2717aa5ac452090278c9f4dc1883e",
+        "short_url": "http://t.cn/A6IHkt4P",
+        "weibo_url": "https://weibo.com/detail/4675234303050667"
+    },
+    {
         "artist": "莫寒",
         "name": "夏天的故事",
         "type": "album",
@@ -168,19 +216,11 @@
         "weibo_url": "https://weibo.com/detail/4675198290758919"
     },
     {
-        "artist": "莫寒",
-        "name": "夏天的故事",
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=35e46ecdaa9f71593ae1f0484cce5b01&s=dd4ae8b99d5840e9a457a3cd7038678d",
-        "short_url": "http://t.cn/A6IH8XC1",
-        "weibo_url": "https://weibo.com/detail/4675162601688785"
-    },
-    {
-        "artist": "莫寒",
-        "name": "夏天的故事",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=8b645ea4f4e3699eca57d60b055e3d57&s=57683c5a3ae04d14a450d4214d3282e9",
-        "short_url": "http://t.cn/A6IHnsA0",
-        "weibo_url": "https://weibo.com/detail/4675225470112911"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=82296a1e5080f4d42b6658c10667b63d&s=87515effa536411bab13cab0ad09d943",
+        "short_url": "http://t.cn/A6IHkt4h",
+        "weibo_url": "https://weibo.com/detail/4675234303050667"
     }
 ]
