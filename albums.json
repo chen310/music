@@ -56,12 +56,28 @@
         "weibo_url": "https://weibo.com/detail/4674784853757989"
     },
     {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=80b36f8767c85d5c8fe8ed63147684d1&s=b5621c1285b847d9972c4e1838b80495",
+        "short_url": "http://t.cn/A6IHuirf",
+        "weibo_url": "https://weibo.com/detail/4675186866259281"
+    },
+    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=e984ad3dc3f15f0a1ac92cb5cb6f0e59&s=5f41a85c820442cc9c360abb5108060d",
         "short_url": "http://t.cn/A6IYQdSc",
         "weibo_url": "https://weibo.com/detail/4674533288576574"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bc9959d58eb4e62f98103c442cd6bc1e&s=53ba4f7318b0414bb682f8e51b463bc3",
+        "short_url": "http://t.cn/A6IHmV5e",
+        "weibo_url": "https://weibo.com/detail/4675181190054857"
     },
     {
         "artist": "李润祺",
@@ -147,6 +163,14 @@
         "artist": "莫寒",
         "name": "夏天的故事",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a6c5906108766b5f964ba71139a221bc&s=58d1fcb52c0b4c3583c066956430d0f9",
+        "short_url": "http://t.cn/A6IHnVO7",
+        "weibo_url": "https://weibo.com/detail/4675177717173282"
+    },
+    {
+        "artist": "莫寒",
+        "name": "夏天的故事",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=817d5f3e4a922578b0b5cdd02e63cd9b&s=55e52c1d72304a96ab7fe639fecfc83f",
         "short_url": "http://t.cn/A6IH8YxB",
         "weibo_url": "https://weibo.com/detail/4675163872298167"
@@ -155,8 +179,24 @@
         "artist": "莫寒",
         "name": "夏天的故事",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3e83586550ace45537ed093196f4674f&s=50642f626f92445087d93790888712a7",
+        "short_url": "http://t.cn/A6IHuio5",
+        "weibo_url": "https://weibo.com/detail/4675186823267817"
+    },
+    {
+        "artist": "莫寒",
+        "name": "夏天的故事",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=35e46ecdaa9f71593ae1f0484cce5b01&s=dd4ae8b99d5840e9a457a3cd7038678d",
         "short_url": "http://t.cn/A6IH8XC1",
         "weibo_url": "https://weibo.com/detail/4675162601688785"
+    },
+    {
+        "artist": "莫寒",
+        "name": "夏天的故事",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2ddc7850cb08cad00675257df2995713&s=1db7b04d102c4d10ab7ef8a6bbe18ed3",
+        "short_url": "http://t.cn/A6IHuYmI",
+        "weibo_url": "https://weibo.com/detail/4675188220496887"
     }
 ]
