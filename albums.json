@@ -56,6 +56,22 @@
         "weibo_url": "https://weibo.com/detail/4674784853757989"
     },
     {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bf914dbf2a1d78018c31544f5b76de1a&s=d4c387bda1044898b0ef1de5dd5dd2a5",
+        "short_url": "http://t.cn/A6IHHwC9",
+        "weibo_url": "https://weibo.com/detail/4675150153256831"
+    },
+    {
+        "artist": "吴哲晗",
+        "name": "Don't let me down",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1774734bfe8db22f2a5c5260e414a03c&s=6934698e97374e5b8c3c445a9437b6fa",
+        "short_url": "http://t.cn/A6IHHPkF",
+        "weibo_url": "https://weibo.com/detail/4675149775244663"
+    },
+    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -99,6 +115,14 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6b3e9724c5152149eedb2091f605f354&s=abf65249f236464188dec5336e48ea3b",
+        "short_url": "http://t.cn/A6IHHUFE",
+        "weibo_url": "https://weibo.com/detail/4675150593658186"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5758f6bcb4e462ffdbfbb9f34eeddd15&s=cf1d45fd99c0404f82c1c5bea7763ae6",
         "short_url": "http://t.cn/A6IHz0qw",
         "weibo_url": "https://weibo.com/detail/4674934889251444"
@@ -134,13 +158,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=5eab996337e405788c18487ccb2801c1&s=6d3724ec792d42d086e1951ba55e6855",
         "short_url": "http://t.cn/A6IHwa23",
         "weibo_url": "https://weibo.com/detail/4674943524541158"
-    },
-    {
-        "artist": "莫寒",
-        "name": "夏天的故事",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b3cbeeb0f74176e30b28ef32678b3760&s=1507dffbce8c4f3ba08862c59476b572",
-        "short_url": "http://t.cn/A6IHlq2J",
-        "weibo_url": "https://weibo.com/detail/4519400655758042"
     }
 ]
