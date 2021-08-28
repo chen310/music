@@ -72,14 +72,6 @@
         "weibo_url": "https://weibo.com/detail/4674974847862054"
     },
     {
-        "artist": "朱正廷",
-        "name": "The Winter Light (冬日告白)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=52a85f1047a9346de10e5b78bec95780&s=840372fd4202478eae534af4dd661fa2",
-        "short_url": "http://t.cn/A6IHGwbh",
-        "weibo_url": "https://weibo.com/detail/4674976294635418"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -94,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=94695d37e2d8fff04023bff2c7fcb4b6&s=4534a43186ea484db2910fceb3c15986",
         "short_url": "http://t.cn/A6IHawrn",
         "weibo_url": "https://weibo.com/detail/4675082947133603"
+    },
+    {
+        "artist": "李鑫一",
+        "name": "失序抵抗",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6f53c1cd6b0bdb08ea7ccd3c7bd7be82&s=7c01f8f5667a483ead677990c03e9579",
+        "short_url": "http://t.cn/A6IHOZkG",
+        "weibo_url": "https://weibo.com/detail/4675120524955979"
     },
     {
         "artist": "李鑫一",
