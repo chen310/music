@@ -32,14 +32,6 @@
         "weibo_url": "https://weibo.com/detail/4675834734183870"
     },
     {
-        "artist": "李润祺",
-        "name": "微风吹",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=6f98bf0baf0cfba0838e1548d28919c7&s=383b82a0c4a24f629451826a651edca1",
-        "short_url": "http://t.cn/A6IQBosX",
-        "weibo_url": "https://weibo.com/detail/4675539702909386"
-    },
-    {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
@@ -67,17 +59,17 @@
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5456cf0682819f1a9d7f223cd8bc786d&s=20dd464ae09943c39d72fa9c86232642",
-        "short_url": "http://t.cn/A6I8ZtCu",
-        "weibo_url": "https://weibo.com/detail/4675618429469590"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=31c16d0b7fbf871022f3769e925d25b1&s=34ae86397c1b4dceb5930eec3cacfb11",
+        "short_url": "http://t.cn/A6I8ssW7",
+        "weibo_url": "https://weibo.com/detail/4675921095164545"
     },
     {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a8d71241cb9563a839f063b6bdd98ec8&s=9bda44e6cbea4ffa850fef2cc2102d7b",
-        "short_url": "http://t.cn/A6I8DfCv",
-        "weibo_url": "https://weibo.com/detail/4675903185226444"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5456cf0682819f1a9d7f223cd8bc786d&s=20dd464ae09943c39d72fa9c86232642",
+        "short_url": "http://t.cn/A6I8ZtCu",
+        "weibo_url": "https://weibo.com/detail/4675618429469590"
     },
     {
         "artist": "毕雯珺",
@@ -94,6 +86,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=13fafff62f29f3d51e8960b1a7130f8f&s=4afcde4ddb40400bbb653795612b23e0",
         "short_url": "http://t.cn/A6I8Gixc",
         "weibo_url": "https://weibo.com/detail/4675664202958678"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a8d71241cb9563a839f063b6bdd98ec8&s=9bda44e6cbea4ffa850fef2cc2102d7b",
+        "short_url": "http://t.cn/A6I8DfCv",
+        "weibo_url": "https://weibo.com/detail/4675903185226444"
     },
     {
         "artist": "毕雯珺",
@@ -163,6 +163,14 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b99325ff2400969af22853ef3e8da6e9&s=2c2f754e5ef94b77ad31d3f3731bd9c4",
+        "short_url": "http://t.cn/A6I8sef3",
+        "weibo_url": "https://weibo.com/detail/4675920754903665"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=078b25fd49450ee541190079f2ed0ed5&s=32395418fdc547b6a7049925cc9e8f8f",
         "short_url": "http://t.cn/A6I8yP9i",
         "weibo_url": "https://weibo.com/detail/4675643352549654"
@@ -182,14 +190,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a984b6921d5a568af2528caec6a1b944&s=ffa1aefdb7a6467d8e5cb86c59d3628f",
         "short_url": "http://t.cn/A6I85jQi",
         "weibo_url": "https://weibo.com/detail/4675675233714468"
-    },
-    {
-        "artist": "王一博",
-        "name": "Fire",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=0a8b7add4c4f9dee11202b93e7b5a1bf&s=e17f1920565646c488e4a0e151777802",
-        "short_url": "http://t.cn/A6I8dyW6",
-        "weibo_url": "https://weibo.com/detail/4675886354271020"
     },
     {
         "artist": "王一博",
