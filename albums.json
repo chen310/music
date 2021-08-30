@@ -9,11 +9,43 @@
     },
     {
         "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5102905f6c0af7240451fd69e1cfb8bf&s=2d569ccc34d94c638b3b48fdff463411",
+        "short_url": "http://t.cn/A6I8HLCR",
+        "weibo_url": "https://weibo.com/detail/4675834504023966"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "EMPTY SPACE",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a0a05aecd51a4c0b81bc4c6e1967e073&s=6c2be981018d4ccaab8d3702a7b2624e",
+        "short_url": "http://t.cn/A6I8Hbyk",
+        "weibo_url": "https://weibo.com/detail/4675834734183870"
+    },
+    {
+        "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f23c3ddeaaf6f134d093ce33efb1c17a&s=75d59c9ff0dc4aaeb12d5548d9941658",
         "short_url": "http://t.cn/A6I8LaFp",
         "weibo_url": "https://weibo.com/detail/4675800035493713"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "The Winter Light (冬日告白)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=06b1a0be38b141c4894c871dc1065444&s=6453ea428d9c4ce5bed867d6617828a4",
+        "short_url": "http://t.cn/A6I8HhGq",
+        "weibo_url": "https://weibo.com/detail/4675834017744538"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "待签收",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2e470164df56d3a6e74ec0a58fdfa6d2&s=02613931cd3d4b53bc77f46d6bf9a0ce",
+        "short_url": "http://t.cn/A6I8Hw11",
+        "weibo_url": "https://weibo.com/detail/4675834310296313"
     },
     {
         "artist": "李润祺",
