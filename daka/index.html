@@ -26,7 +26,7 @@
 <meta property="og:description" content="功能 签到领云贝 自动完成云贝任务，并领取云贝 打卡升级 刷指定歌曲的播放量 音乐人自动签到领取云豆 音乐人自动完成任务，并领取云豆 推送 多账号  下载最新版本压缩包下载地址密码 6gck  当前版本: V2.2修复了账号密码错误问题请把 api.py 里面 header 的 X-Real-IP 换成其他国内的任意 IP ，否则可能还有其他问题  腾讯云函数转到腾讯云函数，在“函数服务”里点击新">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2021-08-30T06:29:00.000Z">
-<meta property="article:modified_time" content="2021-08-30T06:31:57.285Z">
+<meta property="article:modified_time" content="2021-08-30T06:46:43.556Z">
 <meta property="article:author" content="chen10">
 <meta name="twitter:card" content="summary">
   <!-- Canonical links -->
@@ -173,7 +173,7 @@
                 <a href="../albums/" class="title">领取网易云音乐数字专辑&amp;礼品卡</a>
               </p>
               <p class="item-date">
-                <time datetime="2021-08-30T06:33:26.000Z" itemprop="datePublished">2021-08-30</time>
+                <time datetime="2021-08-30T07:23:38.000Z" itemprop="datePublished">2021-08-30</time>
               </p>
             </div>
           </li>
@@ -305,7 +305,7 @@
 <p>多账号使用如上的方法。</p>
 <h4 id="关注作者"><a href="#关注作者" class="headerlink" title="关注作者"></a>关注作者</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>:&#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;follow&quot;</span>:<span class="literal">true</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<p>默认会在网易云音乐中关注我，不喜欢的可自行取消，欢迎点击底部的捐赠。</p>
+<p>默认会在网易云音乐中关注我，不喜欢的可自行取消，欢迎点击底部的打赏。</p>
 <h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>修改完代码后，按ctrl+s保存代码，然后点击编辑器右上角的“部署”（每次修改完都要重新部署），左下角的“部署”也行。部署完成后点击部署旁边的测试按钮，观察结果，如果失败则检查修改代码。</p>
 <h2 id="定时触发"><a href="#定时触发" class="headerlink" title="定时触发"></a>定时触发</h2><p>点击“触发管理”，再点击“创建触发器”。触发周期选择“自定义触发周期”，再根据自己的需求在“Cron表达式”里填写所需的时间，比如<code>0 5 0 * * * *</code>表示每天0点5分触发，<code>0 20 12 * * * *</code>表示每天12点20分触发，<code>0 0 12,16 * * * *</code>表示每天12点和16点各触发一次。</p>
 <h2 id="更新代码"><a href="#更新代码" class="headerlink" title="更新代码"></a>更新代码</h2><p>需要更新代码时，在提交方法里选择“本地上传文件夹”，再上传压缩包，然后修改config.json文件，保存并部署。也可以将最新压缩包解压，将其中的index.py，usesr.py，api.py和config.json文件里的内容复制粘贴到编辑器里，再修改config.json，保存并部署。</p>
@@ -317,6 +317,10 @@
 </ol>
 <h2 id="对日推的影响"><a href="#对日推的影响" class="headerlink" title="对日推的影响"></a>对日推的影响</h2><p>打卡功能可能会影响日推，介意慎用。</p>
 <h2 id="可能的费用"><a href="#可能的费用" class="headerlink" title="可能的费用"></a>可能的费用</h2><p>由于不是使用别人的api，安全性较高，但外网出流量相对较大，有可能产生费用，介意慎用。正常使用应该没问题，但如果在同一个时间段里频繁测试可能会产生费用。</p>
+<h2 id="灵感来源"><a href="#灵感来源" class="headerlink" title="灵感来源"></a>灵感来源</h2><ol>
+<li><a target="_blank" rel="noopener" href="https://github.com/Binaryify/NeteaseCloudMusicApi">网易云音乐 API</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/darknessomi/musicbox">NetEase-MusicBox</a></li>
+</ol>
 
       
     </div>

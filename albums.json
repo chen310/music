@@ -75,6 +75,14 @@
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a8d71241cb9563a839f063b6bdd98ec8&s=9bda44e6cbea4ffa850fef2cc2102d7b",
+        "short_url": "http://t.cn/A6I8DfCv",
+        "weibo_url": "https://weibo.com/detail/4675903185226444"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=1d2b81c331f993c80df58ce41a44e92a&s=249cd06a66d7477ca71bec98e8454fa9",
         "short_url": "http://t.cn/A6I81VBL",
         "weibo_url": "https://weibo.com/detail/4675872940888079"
@@ -198,13 +206,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=f42c2cf6f5d3e83d6bfb0e6e763f841f&s=8e70e1eb651d4ab0b20d4407d0493de3",
         "short_url": "http://t.cn/A6I8bwGO",
         "weibo_url": "https://weibo.com/detail/4675658079275891"
-    },
-    {
-        "artist": "莫寒",
-        "name": "夏天的故事",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a6c5906108766b5f964ba71139a221bc&s=58d1fcb52c0b4c3583c066956430d0f9",
-        "short_url": "http://t.cn/A6IHnVO7",
-        "weibo_url": "https://weibo.com/detail/4675177717173282"
     }
 ]
