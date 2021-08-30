@@ -16,14 +16,6 @@
         "weibo_url": "https://weibo.com/detail/4675849842593908"
     },
     {
-        "artist": "Kaz",
-        "name": "Drown feat. Hikari Mitsushima",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f33f1ead1adddf93935a9a5dd4399f9e&s=fdab21584e6d41d7aa0e0f0604583f73",
-        "short_url": "http://t.cn/A6I8EA5a",
-        "weibo_url": "https://weibo.com/detail/4675850819866585"
-    },
-    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -75,6 +67,22 @@
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7cc8124bbb6eea3b7e492b3de9c3aedc&s=8c51a0c51b414eac91aae831cc42d443",
+        "short_url": "http://t.cn/A6I83g3a",
+        "weibo_url": "https://weibo.com/detail/4675871171152522"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1d2b81c331f993c80df58ce41a44e92a&s=249cd06a66d7477ca71bec98e8454fa9",
+        "short_url": "http://t.cn/A6I81VBL",
+        "weibo_url": "https://weibo.com/detail/4675872940888079"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=f75b5fccfd4ace80d82ede5b08df2b3f&s=dd3997fb8d0a4029bae5c56ef3746674",
         "short_url": "http://t.cn/A6I8Oa9N",
         "weibo_url": "https://weibo.com/detail/4675810588099928"
@@ -94,14 +102,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=13fafff62f29f3d51e8960b1a7130f8f&s=4afcde4ddb40400bbb653795612b23e0",
         "short_url": "http://t.cn/A6I8Gixc",
         "weibo_url": "https://weibo.com/detail/4675664202958678"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=6b3e9724c5152149eedb2091f605f354&s=abf65249f236464188dec5336e48ea3b",
-        "short_url": "http://t.cn/A6IHHUFE",
-        "weibo_url": "https://weibo.com/detail/4675150593658186"
     },
     {
         "artist": "毕雯珺",
@@ -163,9 +163,9 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dcfbdb127ea70fd39ece673067833b19&s=a07e36be6b2e472ea6b25db67b67d4b2",
-        "short_url": "http://t.cn/A6I8L4Z5",
-        "weibo_url": "https://weibo.com/detail/4675639149856425"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d6cdbfc1b0e28bb8a8c642998ac7e7ce&s=e81dd19bdcd44c1fba0e3c73e98a7714",
+        "short_url": "http://t.cn/A6I83nOQ",
+        "weibo_url": "https://weibo.com/detail/4675870558522017"
     },
     {
         "artist": "毕雯珺",
@@ -174,6 +174,14 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a984b6921d5a568af2528caec6a1b944&s=ffa1aefdb7a6467d8e5cb86c59d3628f",
         "short_url": "http://t.cn/A6I85jQi",
         "weibo_url": "https://weibo.com/detail/4675675233714468"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dcfbdb127ea70fd39ece673067833b19&s=a07e36be6b2e472ea6b25db67b67d4b2",
+        "short_url": "http://t.cn/A6I8L4Z5",
+        "weibo_url": "https://weibo.com/detail/4675639149856425"
     },
     {
         "artist": "糖醋排骨",
