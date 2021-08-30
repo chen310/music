@@ -24,14 +24,6 @@
         "weibo_url": "https://weibo.com/detail/4675800035493713"
     },
     {
-        "artist": "朱正廷",
-        "name": "EMPTY SPACE",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a0a05aecd51a4c0b81bc4c6e1967e073&s=6c2be981018d4ccaab8d3702a7b2624e",
-        "short_url": "http://t.cn/A6I8Hbyk",
-        "weibo_url": "https://weibo.com/detail/4675834734183870"
-    },
-    {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
@@ -179,6 +171,14 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=43e82bdf996c4e37e5008fe608492bb1&s=b020bc868f074f10821f3e7de1ae5388",
+        "short_url": "http://t.cn/A6IRZ3qX",
+        "weibo_url": "https://weibo.com/detail/4675952560571193"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=078b25fd49450ee541190079f2ed0ed5&s=32395418fdc547b6a7049925cc9e8f8f",
         "short_url": "http://t.cn/A6I8yP9i",
         "weibo_url": "https://weibo.com/detail/4675643352549654"
@@ -195,9 +195,33 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=ed289284472c1472cd73583ad8097823&s=bf0d8fb96b5149c08161e5e57d13056a",
+        "short_url": "http://t.cn/A6IRzw25",
+        "weibo_url": "https://weibo.com/detail/4675943056544411"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=35bbb9b5cc871d932b28003aadcddebe&s=e732352f3bc349d29c13bfcbc12fdeed",
+        "short_url": "http://t.cn/A6IRZUrK",
+        "weibo_url": "https://weibo.com/detail/4675949055182343"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=9c6394ad09ba78145fa11e5fa3c4eddc&s=00ace1a97d404d50836f7fd1f23f2188",
         "short_url": "http://t.cn/A6IRhr5j",
         "weibo_url": "https://weibo.com/detail/4675936526795186"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=896bbfa95f2c69bbc7b2cdde71563119&s=9a8a51ee29a444f18ae81a8240d4bf95",
+        "short_url": "http://t.cn/A6IRZa6R",
+        "weibo_url": "https://weibo.com/detail/4675950543638173"
     },
     {
         "artist": "毕雯珺",
@@ -211,9 +235,33 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=54ac0b4e0f45ab5a73a13ba256781584&s=eb6723c09e604e14b592bd449b7f2117",
+        "short_url": "http://t.cn/A6IR7BmG",
+        "weibo_url": "https://weibo.com/detail/4675942334597575"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8110b611f2622f1892dfd931298a2b14&s=bcd34eb169fb4815a1abb6754c8ff515",
+        "short_url": "http://t.cn/A6IRZnRr",
+        "weibo_url": "https://weibo.com/detail/4675943492225484"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=d6cdbfc1b0e28bb8a8c642998ac7e7ce&s=e81dd19bdcd44c1fba0e3c73e98a7714",
         "short_url": "http://t.cn/A6I83nOQ",
         "weibo_url": "https://weibo.com/detail/4675870558522017"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=dc604256008856bee10a96ca4a23832b&s=612af228e96d468e8cbe4534b93e94e2",
+        "short_url": "http://t.cn/A6IRzCMs",
+        "weibo_url": "https://weibo.com/detail/4675945917579283"
     },
     {
         "artist": "毕雯珺",
