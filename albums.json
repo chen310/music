@@ -8,14 +8,6 @@
         "weibo_url": "https://weibo.com/detail/4675664152628457"
     },
     {
-        "artist": "Kaz",
-        "name": "Drown feat. Hikari Mitsushima",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=941630b6e0c4c52b2bee400d39394a08&s=5b6903d7905d45ab93d3ea29323515ee",
-        "short_url": "http://t.cn/A6I8RrcG",
-        "weibo_url": "https://weibo.com/detail/4675849842593908"
-    },
-    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -27,17 +19,17 @@
         "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=a0a05aecd51a4c0b81bc4c6e1967e073&s=6c2be981018d4ccaab8d3702a7b2624e",
-        "short_url": "http://t.cn/A6I8Hbyk",
-        "weibo_url": "https://weibo.com/detail/4675834734183870"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=f23c3ddeaaf6f134d093ce33efb1c17a&s=75d59c9ff0dc4aaeb12d5548d9941658",
+        "short_url": "http://t.cn/A6I8LaFp",
+        "weibo_url": "https://weibo.com/detail/4675800035493713"
     },
     {
         "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=f23c3ddeaaf6f134d093ce33efb1c17a&s=75d59c9ff0dc4aaeb12d5548d9941658",
-        "short_url": "http://t.cn/A6I8LaFp",
-        "weibo_url": "https://weibo.com/detail/4675800035493713"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a0a05aecd51a4c0b81bc4c6e1967e073&s=6c2be981018d4ccaab8d3702a7b2624e",
+        "short_url": "http://t.cn/A6I8Hbyk",
+        "weibo_url": "https://weibo.com/detail/4675834734183870"
     },
     {
         "artist": "李润祺",
@@ -75,17 +67,17 @@
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=1d2b81c331f993c80df58ce41a44e92a&s=249cd06a66d7477ca71bec98e8454fa9",
-        "short_url": "http://t.cn/A6I81VBL",
-        "weibo_url": "https://weibo.com/detail/4675872940888079"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5456cf0682819f1a9d7f223cd8bc786d&s=20dd464ae09943c39d72fa9c86232642",
+        "short_url": "http://t.cn/A6I8ZtCu",
+        "weibo_url": "https://weibo.com/detail/4675618429469590"
     },
     {
         "artist": "毕雯珺",
         "name": "如果",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5456cf0682819f1a9d7f223cd8bc786d&s=20dd464ae09943c39d72fa9c86232642",
-        "short_url": "http://t.cn/A6I8ZtCu",
-        "weibo_url": "https://weibo.com/detail/4675618429469590"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1d2b81c331f993c80df58ce41a44e92a&s=249cd06a66d7477ca71bec98e8454fa9",
+        "short_url": "http://t.cn/A6I81VBL",
+        "weibo_url": "https://weibo.com/detail/4675872940888079"
     },
     {
         "artist": "毕雯珺",
@@ -184,14 +176,6 @@
         "weibo_url": "https://weibo.com/detail/4675675233714468"
     },
     {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=dcfbdb127ea70fd39ece673067833b19&s=a07e36be6b2e472ea6b25db67b67d4b2",
-        "short_url": "http://t.cn/A6I8L4Z5",
-        "weibo_url": "https://weibo.com/detail/4675639149856425"
-    },
-    {
         "artist": "王一博",
         "name": "Fire",
         "type": "album",
@@ -222,13 +206,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a6c5906108766b5f964ba71139a221bc&s=58d1fcb52c0b4c3583c066956430d0f9",
         "short_url": "http://t.cn/A6IHnVO7",
         "weibo_url": "https://weibo.com/detail/4675177717173282"
-    },
-    {
-        "artist": "莫寒",
-        "name": "夏天的故事",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=817d5f3e4a922578b0b5cdd02e63cd9b&s=55e52c1d72304a96ab7fe639fecfc83f",
-        "short_url": "http://t.cn/A6IH8YxB",
-        "weibo_url": "https://weibo.com/detail/4675163872298167"
     }
 ]
