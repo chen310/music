@@ -107,6 +107,14 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c017ddba6267c038699cf7bdf64a79fd&s=c37f7f95366348ccbdc9bf293c2ec7d9",
+        "short_url": "http://t.cn/A6IRMqcx",
+        "weibo_url": "https://weibo.com/detail/4676030339749783"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=eaad28236f9650d562176ce02010e352&s=24452d06c7c849cf8781a7c28b09a5f7",
         "short_url": "http://t.cn/A6I8OxD0",
         "weibo_url": "https://weibo.com/detail/4675810294761139"
@@ -390,14 +398,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=c7be2998739d14f329675e0b3246adb8&s=3a0d2e1740c748f8af638e45553d0228",
         "short_url": "http://t.cn/A6IRL3Tu",
         "weibo_url": "https://weibo.com/detail/4675973553852153"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d18bb88f8e491c746ee5f8a1d10c0af4&s=e82b1702ba4b4b6a972ed3b4d311ed55",
-        "short_url": "http://t.cn/A6IRY6gC",
-        "weibo_url": "https://weibo.com/detail/4676161546223830"
     },
     {
         "artist": "王一博",
