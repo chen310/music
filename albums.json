@@ -243,6 +243,14 @@
         "artist": "毕雯珺",
         "name": "欲控",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=5556754b7b4272989a74207e1728f3ec&s=7d1496b3ea074e39b918d6b50fa7f08e",
+        "short_url": "http://t.cn/A6IRUis7",
+        "weibo_url": "https://weibo.com/detail/4675982172882909"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=ed289284472c1472cd73583ad8097823&s=bf0d8fb96b5149c08161e5e57d13056a",
         "short_url": "http://t.cn/A6IRzw25",
         "weibo_url": "https://weibo.com/detail/4675943056544411"
@@ -254,14 +262,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=fccc87c0c702ed40659f04b325bed5b7&s=fd71a12474d54a1db1328b5de09f6710",
         "short_url": "http://t.cn/A6IRjpiR",
         "weibo_url": "https://weibo.com/detail/4676157800186934"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5556754b7b4272989a74207e1728f3ec&s=7d1496b3ea074e39b918d6b50fa7f08e",
-        "short_url": "http://t.cn/A6IRUis7",
-        "weibo_url": "https://weibo.com/detail/4675982172882909"
     },
     {
         "artist": "毕雯珺",
@@ -294,14 +294,6 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=a42c29aa9b87ce124e1b36accde8ab78&s=c5b2b5f93e7a41d38e045ecca215712e",
         "short_url": "http://t.cn/A6IRwQnl",
         "weibo_url": "https://weibo.com/detail/4675958206896138"
-    },
-    {
-        "artist": "毕雯珺",
-        "name": "欲控",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d18bb88f8e491c746ee5f8a1d10c0af4&s=e82b1702ba4b4b6a972ed3b4d311ed55",
-        "short_url": "http://t.cn/A6IRY6gC",
-        "weibo_url": "https://weibo.com/detail/4676161546223830"
     },
     {
         "artist": "毕雯珺",
@@ -400,12 +392,36 @@
         "weibo_url": "https://weibo.com/detail/4675973553852153"
     },
     {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d18bb88f8e491c746ee5f8a1d10c0af4&s=e82b1702ba4b4b6a972ed3b4d311ed55",
+        "short_url": "http://t.cn/A6IRY6gC",
+        "weibo_url": "https://weibo.com/detail/4676161546223830"
+    },
+    {
+        "artist": "王一博",
+        "name": "我的世界守则",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=fc06c68d99dd10ef98ee2b0706ba6daa&s=3279801d7aca4fff9815cea25724bda9",
+        "short_url": "http://t.cn/A6IRRE63",
+        "weibo_url": "https://weibo.com/detail/4676183264069326"
+    },
+    {
         "artist": "王一博",
         "name": "无感",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=5e391132dbaa46592a31e9bae1336218&s=56fd7e8e1abf4183ad1d67191e9f7bec",
         "short_url": "http://t.cn/A6I8dAKJ",
         "weibo_url": "https://weibo.com/detail/4675886089507961"
+    },
+    {
+        "artist": "王一博",
+        "name": "无感",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a15cc185a33b1ac0c3486e2d7f2f1dfd&s=9eabfe1835f84fcd99439a24076a2de2",
+        "short_url": "http://t.cn/A6IRRmOR",
+        "weibo_url": "https://weibo.com/detail/4676183382557894"
     },
     {
         "artist": "糖醋排骨",
