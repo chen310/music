@@ -1,10 +1,18 @@
 [
     {
-        "artist": "丁泽仁",
-        "name": "Open Your 爱",
-        "type": "song",
-        "url": "https://music.163.com/store/m/song/receive?tk=843398dd21c91f2a7b0254b67f8fefad&s=04be964af2c04a6a8a5e2477467fc37b",
-        "short_url": "http://t.cn/A6MPVeIB",
-        "weibo_url": "https://weibo.com/detail/4681330920787182"
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=4925354124c168494f6faa750e42427b&s=7ba639fe7b44449b904f78edf01846d0",
+        "short_url": "http://t.cn/A6MypNPb",
+        "weibo_url": "https://weibo.com/detail/4684007494653517"
+    },
+    {
+        "artist": "鞠婧祎",
+        "name": "过去完成时",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=c6061192a32ea56982b0452ba18de287&s=6a1002cb7cf8438bae52de7be48f44e7",
+        "short_url": "http://t.cn/A6My3vFx",
+        "weibo_url": "https://weibo.com/detail/4684119231693913"
     }
 ]
