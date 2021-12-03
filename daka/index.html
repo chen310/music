@@ -26,7 +26,7 @@
 <meta property="og:description" content="功能 签到领云贝 自动完成云贝任务，并领取云贝 打卡升级 刷指定歌曲的播放量 音乐人自动签到领取云豆 音乐人自动完成任务，并领取云豆 自动领取vip成长值（任务需自己完成） 推送 多账号   本脚本完全免费，谨防上当受骗，您可以选择下方的打赏。有问题可以联系我：酷安@IECAS  下载最新版本压缩包下载地址密码 6gck  当前版本: V2.6（2021-11-27 更新）增加pushPlus微信">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2021-11-29T00:45:00.000Z">
-<meta property="article:modified_time" content="2021-11-29T00:45:57.968Z">
+<meta property="article:modified_time" content="2021-12-03T13:08:27.646Z">
 <meta property="article:author" content="chen10">
 <meta name="twitter:card" content="summary">
   <!-- Canonical links -->
@@ -105,16 +105,6 @@
           </a>
         </li>
         
-        
-        <li class="menu-item menu-item-archives">
-          <a href="../archives">
-            
-            <i class="icon icon-archives-fill"></i>
-            
-            <span class="menu-title">归档</span>
-          </a>
-        </li>
-        
       </ul>
       
 	
@@ -149,16 +139,6 @@
     
       
   <div class="widget">
-    <h3 class="widget-title">归档</h3>
-    <div class="widget-body">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="../archives/2021/12/">十二月 2021</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="../archives/2021/11/">十一月 2021</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="../archives/2021/06/">六月 2021</a><span class="archive-list-count">1</span></li></ul>
-    </div>
-  </div>
-
-
-    
-      
-  <div class="widget">
     <h3 class="widget-title">最新文章</h3>
     <div class="widget-body">
       <ul class="recent-post-list list-unstyled no-thumbnail">
@@ -173,7 +153,7 @@
                 <a href="../albums/" class="title">领取网易云音乐数字专辑&amp;礼品卡</a>
               </p>
               <p class="item-date">
-                <time datetime="2021-12-03T01:43:26.000Z" itemprop="datePublished">2021-12-03</time>
+                <time datetime="2021-12-03T13:11:40.000Z" itemprop="datePublished">2021-12-03</time>
               </p>
             </div>
           </li>
@@ -335,7 +315,42 @@
 <li>随机歌单中的一部分歌曲之前听过，因此不再重复记录，解决方法：增加打卡的歌曲数。</li>
 </ol>
 <h2 id="对日推的影响"><a href="#对日推的影响" class="headerlink" title="对日推的影响"></a>对日推的影响</h2><p>打卡功能可能会影响日推，介意慎用。</p>
-<h2 id="云函数免费额度及计费方式"><a href="#云函数免费额度及计费方式" class="headerlink" title="云函数免费额度及计费方式"></a>云函数免费额度及计费方式</h2><p>详见<a target="_blank" rel="noopener" href="https://cloud.tencent.com/document/product/583/17299">官网</a></p>
+<h2 id="云函数免费额度及计费方式"><a href="#云函数免费额度及计费方式" class="headerlink" title="云函数免费额度及计费方式"></a>云函数免费额度及计费方式</h2><table>
+    <tr>
+        <td>发放时间</td> 
+        <td>计费项</td> 
+        <td>免费额度</td> 
+    </tr>
+    <tr>
+        <td rowspan="3">前三个月（包含开通当月）每月</td> 
+        <td>调用次数</td> 
+        <td>100万次（事件函数和 Web 函数各100万次）</td> 
+    </tr>
+    <tr> 
+        <td>资源使用量</td> 
+        <td>40万GBs</td> 
+    </tr>
+    <tr>
+        <td>外网出流量</td> 
+        <td>1GB</td> 
+    </tr>    
+    <tr>
+        <td rowspan="3">开通三个月后每月</td> 
+        <td>调用次数</td> 
+        <td>10万次（事件函数和 Web 函数各5万次）</td> 
+    </tr>
+    <tr> 
+        <td>资源使用量</td> 
+        <td>2万GBs</td> 
+    </tr>
+    <tr>
+        <td>外网出流量</td> 
+        <td>0.5GB</td> 
+    </tr>      
+</table>
+
+
+<p>详见<a target="_blank" rel="noopener" href="https://cloud.tencent.com/document/product/583/17299">官网</a></p>
 <h2 id="运行出错"><a href="#运行出错" class="headerlink" title="运行出错"></a>运行出错</h2><p>错误码详见<a target="_blank" rel="noopener" href="https://cloud.tencent.com/document/product/583/42611">官网</a></p>
 <h2 id="灵感来源"><a href="#灵感来源" class="headerlink" title="灵感来源"></a>灵感来源</h2><ol>
 <li><a target="_blank" rel="noopener" href="https://github.com/Binaryify/NeteaseCloudMusicApi">网易云音乐 API</a></li>
