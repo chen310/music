@@ -1,5 +1,13 @@
 [
     {
+        "artist": "嘉羿",
+        "name": "罗盘",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bc334594e46e811afab3fe58fe44f9cb&s=c82784ac9ca04b0895c30178dd6d7818",
+        "short_url": "http://t.cn/A6xOpZIC",
+        "weibo_url": "https://weibo.com/detail/4711371121623281"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
@@ -14,13 +22,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=379ad57706e1f242eda9a38cd0203a13&s=6e2fde9b6a664eb7ac7c9f2a8b0cea53",
         "short_url": "http://t.cn/A6x0OWWK",
         "weibo_url": "https://weibo.com/detail/4711029798339411"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "Like A Fan",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=70b5277e75824aec0ae5de78b28e23e2&s=be2f03cf11b94be4926d8a32fae3eaf5",
-        "short_url": "http://t.cn/A6xpKkae",
-        "weibo_url": "https://weibo.com/detail/4710668719358897"
     }
 ]
