@@ -1,11 +1,19 @@
 [
     {
-        "artist": "吴宣仪",
-        "name": "We Were In Love",
+        "artist": "李润祺",
+        "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=e2c501e667952f553f4e250a71f61ff1&s=19a2e70e71ca40c3a6ec27e31d951364",
-        "short_url": "http://t.cn/A6xCO2f8",
-        "weibo_url": "https://weibo.com/detail/4710072326034058"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3ff970b69950df6ef6ee987657436c46&s=24789e051a0a484dabb72c4ba370debd",
+        "short_url": "http://t.cn/A6x0O6Ep",
+        "weibo_url": "https://weibo.com/detail/4711028942180306"
+    },
+    {
+        "artist": "李润祺",
+        "name": "茫",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=379ad57706e1f242eda9a38cd0203a13&s=6e2fde9b6a664eb7ac7c9f2a8b0cea53",
+        "short_url": "http://t.cn/A6x0OWWK",
+        "weibo_url": "https://weibo.com/detail/4711029798339411"
     },
     {
         "artist": "范丞丞",
@@ -14,13 +22,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=70b5277e75824aec0ae5de78b28e23e2&s=be2f03cf11b94be4926d8a32fae3eaf5",
         "short_url": "http://t.cn/A6xpKkae",
         "weibo_url": "https://weibo.com/detail/4710668719358897"
-    },
-    {
-        "artist": "范丞丞",
-        "name": "咦？",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=d8c87a4002ef31440e59040c84b62b1a&s=5972b463b27649bfad6590c81ef50883",
-        "short_url": "http://t.cn/A6xppHrZ",
-        "weibo_url": "https://weibo.com/detail/4710687500667288"
     }
 ]
