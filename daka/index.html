@@ -18,17 +18,33 @@
   
   
   <title>网易云音乐打卡升级 | Music</title>
-  <meta name="description" content="代码以及部署方式已经上传到GitHub，以后直接在GitHub上更新。  1 功能 签到领云贝 自动完成云贝任务，并领取云贝 打卡升级 刷指定歌曲的播放量 音乐人自动签到领取云豆 音乐人自动完成任务，并领取云豆 自动领取vip成长值（任务需自己完成） 多种推送方式 支持多账号 支持腾讯云函数&amp;本地运行   本脚本完全免费，谨防上当受骗，您可以选择下方的打赏。有问题可以联系我：酷安@IEC">
+  <meta name="description" content="部署推荐方式: 直接查看 GitHub 文档进行部署。 代替方式: 如果 GitHub 无法访问或者不想使用 GitHub Actons 部署到云函数，可以用以下方式部署。使用这种方式部署不保证代码是最新的： 创建层首先下载依赖文件，然后到高级能力新建层。  层名称可自己决定，点击上传，上传刚刚下载的依赖文件，点击添加运行环境， 把 Python 3.6 勾选上，最后点击确定完成创建  创建函数下">
 <meta property="og:type" content="article">
 <meta property="og:title" content="网易云音乐打卡升级">
 <meta property="og:url" content="https://chen310.github.io/music/daka/index.html">
 <meta property="og:site_name" content="Music">
-<meta property="og:description" content="代码以及部署方式已经上传到GitHub，以后直接在GitHub上更新。  1 功能 签到领云贝 自动完成云贝任务，并领取云贝 打卡升级 刷指定歌曲的播放量 音乐人自动签到领取云豆 音乐人自动完成任务，并领取云豆 自动领取vip成长值（任务需自己完成） 多种推送方式 支持多账号 支持腾讯云函数&amp;本地运行   本脚本完全免费，谨防上当受骗，您可以选择下方的打赏。有问题可以联系我：酷安@IEC">
+<meta property="og:description" content="部署推荐方式: 直接查看 GitHub 文档进行部署。 代替方式: 如果 GitHub 无法访问或者不想使用 GitHub Actons 部署到云函数，可以用以下方式部署。使用这种方式部署不保证代码是最新的： 创建层首先下载依赖文件，然后到高级能力新建层。  层名称可自己决定，点击上传，上传刚刚下载的依赖文件，点击添加运行环境， 把 Python 3.6 勾选上，最后点击确定完成创建  创建函数下">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2021-12-10T02:37:00.000Z">
-<meta property="article:modified_time" content="2021-12-10T02:38:01.913Z">
+<meta property="og:image" content="https://chen310.github.io/music/daka/level.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/createlevel.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/newfunction.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/create.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/create2.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/addlevel.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/addlevel2.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/function.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/trigger.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/trigger2.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/trigger3.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/trigger4.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/config1.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/config2.png">
+<meta property="og:image" content="https://chen310.github.io/music/daka/config3.png">
+<meta property="article:published_time" content="2022-02-21T07:09:00.000Z">
+<meta property="article:modified_time" content="2022-02-21T07:09:17.191Z">
 <meta property="article:author" content="chen10">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://chen310.github.io/music/daka/level.png">
   <!-- Canonical links -->
   <link rel="canonical" href="https://chen310.github.io/music/daka/index.html">
   
@@ -153,7 +169,7 @@
                 <a href="../albums/" class="title">领取网易云音乐数字专辑&amp;礼品卡</a>
               </p>
               <p class="item-date">
-                <time datetime="2022-02-18T07:39:45.000Z" itemprop="datePublished">2022-02-18</time>
+                <time datetime="2022-02-21T07:10:35.000Z" itemprop="datePublished">2022-02-21</time>
               </p>
             </div>
           </li>
@@ -168,22 +184,7 @@
                 <a href="" class="title">网易云音乐打卡升级</a>
               </p>
               <p class="item-date">
-                <time datetime="2021-12-10T02:37:00.000Z" itemprop="datePublished">2021-12-10</time>
-              </p>
-            </div>
-          </li>
-          
-          <li>
-            
-            <div class="item-inner">
-              <p class="item-category">
-                
-              </p>
-              <p class="item-title">
-                <a href="../link/" class="title">获取网易云直链和m3u播放列表</a>
-              </p>
-              <p class="item-date">
-                <time datetime="2021-11-22T06:33:38.000Z" itemprop="datePublished">2021-11-22</time>
+                <time datetime="2022-02-21T07:09:00.000Z" itemprop="datePublished">2022-02-21</time>
               </p>
             </div>
           </li>
@@ -232,7 +233,7 @@
         <span class="article-date">
     <i class="icon icon-calendar-check"></i>
 	<a href="" class="article-date">
-	  <time datetime="2021-12-10T02:37:00.000Z" itemprop="datePublished">2021-12-10</time>
+	  <time datetime="2022-02-21T07:09:00.000Z" itemprop="datePublished">2022-02-21</time>
 	</a>
 </span>
         
@@ -246,139 +247,60 @@
     </div>
     <div class="article-entry marked-body" itemprop="articleBody">
       
-        <blockquote>
-<p>代码以及部署方式已经上传到<a target="_blank" rel="noopener" href="https://github.com/chen310/NeteaseCloudMusicTasks">GitHub</a>，以后直接在GitHub上更新。</p>
-</blockquote>
-<h2 id="1-功能"><a href="#1-功能" class="headerlink" title="1 功能"></a>1 功能</h2><ol>
-<li>签到领云贝</li>
-<li>自动完成云贝任务，并领取云贝</li>
-<li>打卡升级</li>
-<li>刷指定歌曲的播放量</li>
-<li>音乐人自动签到领取云豆</li>
-<li>音乐人自动完成任务，并领取云豆</li>
-<li>自动领取vip成长值（任务需自己完成）</li>
-<li>多种推送方式</li>
-<li>支持多账号</li>
-<li>支持腾讯云函数&amp;本地运行</li>
-</ol>
-<blockquote>
-<p>本脚本完全免费，谨防上当受骗，您可以选择下方的打赏。有问题可以联系我：酷安<a target="_blank" rel="noopener" href="http://www.coolapk.com/u/3189084">@IECAS</a></p>
-</blockquote>
-<h2 id="2-下载最新版本压缩包"><a href="#2-下载最新版本压缩包" class="headerlink" title="2 下载最新版本压缩包"></a>2 下载最新版本压缩包</h2><p><a target="_blank" rel="noopener" href="https://chen10.lanzoui.com/b01npw2ji">下载地址</a><br>密码 6gck</p>
-<blockquote>
-<p>当前版本: V2.9（2021-12-07 更新）</p>
-<ul>
-<li>增加对API网关触发的支持</li>
-</ul>
-<p>历史版本: V2.8（2021-12-07 更新）</p>
-<ul>
-<li>修复vip不能自动领取成长值的问题</li>
-<li>pushPlus支持一对多推送</li>
-</ul>
-</blockquote>
-<h2 id="3-腾讯云函数"><a href="#3-腾讯云函数" class="headerlink" title="3 腾讯云函数"></a>3 腾讯云函数</h2><h3 id="3-1-上传代码"><a href="#3-1-上传代码" class="headerlink" title="3.1 上传代码"></a>3.1 上传代码</h3><p>转到<a target="_blank" rel="noopener" href="https://console.cloud.tencent.com/scf/list">腾讯云函数</a>，在<code>函数服务</code>里点击新建，创建方式选择<code>自定义创建</code>，函数名称自行命名，运行环境选择<code>Python3.6</code>，提交方法选择<code>本地上传zip包</code>，然后点击<code>上传</code>，上传代码压缩包，上传完成后点击高级配置。在高级配置里，将执行超时时间改为900，然后点击完成。</p>
-<h3 id="3-2-修改配置"><a href="#3-2-修改配置" class="headerlink" title="3.2 修改配置"></a>3.2 修改配置</h3><p>点击函数代码，选择config.json文件，看到有很多红色的波浪，下拉到编辑器的右下角，点击<code>JSON</code>来更改语言模式，选择<code>JSON with Comments</code>，这样就不会报错了。对配置文件config.json进行修改。</p>
-<h4 id="3-2-1-账号密码"><a href="#3-2-1-账号密码" class="headerlink" title="3.2.1 账号密码"></a>3.2.1 账号密码</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;users&quot;</span>:[</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="attr">&quot;username&quot;</span>: <span class="string">&quot;188xxxx8888&quot;</span>,            </span><br><span class="line">        <span class="attr">&quot;md5&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">        <span class="attr">&quot;password&quot;</span>: <span class="string">&quot;mypassword&quot;</span>,</span><br><span class="line">        <span class="attr">&quot;X-Real-IP&quot;</span>: <span class="string">&quot;&quot;</span></span><br><span class="line">    &#125;</span><br><span class="line">],</span><br><span class="line"><span class="comment">// ...</span></span><br></pre></td></tr></table></figure>
-
-<p><code>username</code>里填写手机号或邮箱，<code>password</code>里填写账号密码。如果使用的是加密后的密码，则需要将<code>md5</code>的<code>false</code>改成<code>true</code>，<code>X-Real-IP</code>里填写国内任意IP，否则可能会有无法登录等情况出现，可填写本机IP，查看方法为：百度搜索ip，填写显示的ip即可。</p>
-<h4 id="3-2-2-签到"><a href="#3-2-2-签到" class="headerlink" title="3.2.2 签到"></a>3.2.2 签到</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>:&#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;sign&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>签到默认开启，连续签到每天可获取8云贝。</p>
-<h4 id="3-2-3-刷听歌量"><a href="#3-2-3-刷听歌量" class="headerlink" title="3.2.3 刷听歌量"></a>3.2.3 刷听歌量</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>:&#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;daka&quot;</span>:&#123;</span><br><span class="line">        <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">        <span class="attr">&quot;full_stop&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">        <span class="attr">&quot;song_number&quot;</span>: <span class="number">300</span>,</span><br><span class="line">        <span class="comment">// ...   </span></span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>网易云音乐升级需要听歌量以及登录天数，登录天数目前没法刷。每个账号每天最多只计算300首的听歌量，而且必须是没有听过的歌曲。<code>enable</code>表示开启刷听歌量的任务，<code>full_stop</code>表示满级后自动停止任务，无需手动将<code>enable</code>设为<code>false</code>。<code>song_number</code>表示每次要刷的歌曲数量，账号等级较低的时候可以设置得小一点，等级高的时候设置得大一点，因为等级高的时候刷到听过的歌可能性较大，可能较难刷满300首。</p>
-<h4 id="3-2-4-云贝任务"><a href="#3-2-4-云贝任务" class="headerlink" title="3.2.4 云贝任务"></a>3.2.4 云贝任务</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>:&#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;yunbei_task&quot;</span>: &#123;</span><br><span class="line">        <span class="comment">// 需要分享的歌单id</span></span><br><span class="line">        <span class="attr">&quot;发布动态&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>:<span class="literal">false</span>,</span><br><span class="line">            <span class="attr">&quot;id&quot;</span>: [],</span><br><span class="line">            <span class="attr">&quot;msg&quot;</span>: [<span class="string">&quot;每日分享&quot;</span>,<span class="string">&quot;今日分享&quot;</span>,<span class="string">&quot;分享歌单&quot;</span>],</span><br><span class="line">            <span class="attr">&quot;delete&quot;</span>: <span class="literal">true</span></span><br><span class="line">        &#125;,</span><br><span class="line">        <span class="attr">&quot;访问云音乐商城&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span></span><br><span class="line">        &#125;,</span><br><span class="line">        <span class="attr">&quot;云贝推歌&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">            <span class="attr">&quot;taskName&quot;</span>: <span class="string">&quot;云贝推歌&quot;</span>,</span><br><span class="line">            <span class="comment">// 填写歌曲ID</span></span><br><span class="line">            <span class="attr">&quot;songId&quot;</span>: [],</span><br><span class="line">            <span class="attr">&quot;yunbeiNum&quot;</span>: <span class="number">10</span>,</span><br><span class="line">            <span class="attr">&quot;reason&quot;</span>: []</span><br><span class="line">        &#125;          </span><br><span class="line">    &#125;, </span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p><code>发布动态</code>任务要分享歌单，可获得5云贝，可通过将<code>enable</code>设为<code>true</code>开启，<code>id</code>要填写需要分享的歌单id，可不填写，随机送推荐歌单中选取。<code>delete</code>表示动态发布之后自动删除。</p>
-<p><code>访问云音乐商城</code>任务可获得2云贝。</p>
-<p><code>云贝推歌</code>任务使用云贝对喜欢的歌曲进行推荐，可获得10云贝。<code>songId</code>填写喜欢的歌曲id，如<code>[65528, 64634]</code>，程序将会随机挑选一首歌，<code>yunbeiNum</code>是要使用的云贝数量，一般为<code>10</code>，<code>reason</code>填写推歌理由。</p>
-<h4 id="3-2-5-音乐人任务"><a href="#3-2-5-音乐人任务" class="headerlink" title="3.2.5 音乐人任务"></a>3.2.5 音乐人任务</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>: &#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;musician_task&quot;</span>: &#123;</span><br><span class="line">        <span class="attr">&quot;登录音乐人中心&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span></span><br><span class="line">        &#125;,</span><br><span class="line">        <span class="attr">&quot;发布动态&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">            <span class="comment">// 自定义要分享的歌单id，用逗号隔开，分享时随机选取一个，若为空，则从每日推荐歌单中随机选取</span></span><br><span class="line">            <span class="attr">&quot;id&quot;</span>: [],</span><br><span class="line">            <span class="attr">&quot;msg&quot;</span>: [<span class="string">&quot;每日分享&quot;</span>,<span class="string">&quot;今日分享&quot;</span>,<span class="string">&quot;分享歌单&quot;</span>],</span><br><span class="line">            <span class="attr">&quot;delete&quot;</span>: <span class="literal">true</span></span><br><span class="line">        &#125;,</span><br><span class="line">        <span class="attr">&quot;发布主创说&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">            <span class="comment">// 填写你自己歌曲的id，如有多首用,隔开，随机挑选一首</span></span><br><span class="line">            <span class="attr">&quot;id&quot;</span>: [],</span><br><span class="line">            <span class="attr">&quot;msg&quot;</span>: [<span class="string">&quot;感谢大家收听&quot;</span>],</span><br><span class="line">            <span class="attr">&quot;delete&quot;</span>: <span class="literal">true</span></span><br><span class="line">        &#125;,</span><br><span class="line">        <span class="attr">&quot;回复粉丝评论&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">            <span class="comment">// 填写你自己歌曲的id，如有多首用,隔开，随机挑选一首</span></span><br><span class="line">            <span class="attr">&quot;id&quot;</span>: [],</span><br><span class="line">            <span class="attr">&quot;msg&quot;</span>: [<span class="string">&quot;感谢收听&quot;</span>],</span><br><span class="line">            <span class="attr">&quot;delete&quot;</span>: <span class="literal">true</span></span><br><span class="line">        &#125;,</span><br><span class="line">        <span class="attr">&quot;回复粉丝私信&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">            <span class="comment">// 填写粉丝的用户id，如有多个用,隔开，随机挑选一个进行回复,可以用自己的小号</span></span><br><span class="line">            <span class="attr">&quot;id&quot;</span>: [],</span><br><span class="line">            <span class="attr">&quot;msg&quot;</span>: [<span class="string">&quot;你好&quot;</span>]</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>需要是音乐人才能执行，想要开启相应的任务，需要将<code>enable</code>由<code>false</code>改为<code>true</code>，<code>登录音乐人中心</code>自动开启，其他任务根据实际情况开启。<code>登录音乐人中心</code>即签到获取云豆；<code>发布动态</code>即转发歌单；<code>发布主创说</code>即在自己的歌曲评论区留言；<code>回复粉丝评论</code>即在自己歌曲的评论区回复粉丝留言，该任务是通过回复自己的留言实现的；<code>回复粉丝私信</code>需要填写粉丝id，可用小号。</p>
-<h4 id="3-2-6-推送"><a href="#3-2-6-推送" class="headerlink" title="3.2.6 推送"></a>3.2.6 推送</h4><p>支持三种推送方式，建议使用企业微信进行推送</p>
-<ol>
-<li>企业微信</li>
-<li>server酱</li>
-<li>酷推</li>
-<li>pushPlus</li>
-</ol>
-<p>使用API网关触发时默认关闭所有推送，您可以自行设置</p>
-<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>:&#123;</span><br><span class="line">    <span class="attr">&quot;stopPushOnAPIGateway&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>将<code>true</code>改为<code>false</code>即可在API网关触发时仍然进行消息的推送。API网关相关内容详见3.5</p>
-<h5 id="3-2-6-1-企业微信"><a href="#3-2-6-1-企业微信" class="headerlink" title="3.2.6.1 企业微信"></a>3.2.6.1 企业微信</h5><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>:&#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;WeCom&quot;</span>: &#123;</span><br><span class="line">        <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">        <span class="attr">&quot;corpid&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="attr">&quot;agentid&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="attr">&quot;secret&quot;</span>: <span class="string">&quot;&quot;</span>,</span><br><span class="line">        <span class="attr">&quot;userid&quot;</span>: <span class="string">&quot;@all&quot;</span>,</span><br><span class="line">        <span class="attr">&quot;msgtype&quot;</span>: <span class="string">&quot;text&quot;</span></span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>注册企业微信账号可参考<a target="_blank" rel="noopener" href="https://sct.ftqq.com/forward">这里</a></p>
-<p><code>corpid</code>为企业ID，登录企业微信后在管理后台<code>我的企业</code>－<code>企业信息</code>下查看；<code>agentid</code>为应用ID，在<code>应用管理</code>里，点进相应的应用可查看；<code>secret</code>为应用密钥，在<code>应用管理</code>里，点进相应的应用可查看；<code>userid</code>默认为<code>@all</code>，会向该企业应用的全部成员发送；<code>msgtype</code>为消息类型，可填写文本消息<code>text</code>、文本卡片消息<code>textcard</code>或markdown消息<code>markdown</code>，markdown消息不能在微信里查看，只能在企业微信里查看。</p>
-<h5 id="3-2-6-2-server酱"><a href="#3-2-6-2-server酱" class="headerlink" title="3.2.6.2 server酱"></a>3.2.6.2 server酱</h5><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>: &#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;serverChan&quot;</span>: &#123;</span><br><span class="line">        <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">        <span class="attr">&quot;KEY&quot;</span>: <span class="string">&quot;&quot;</span></span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>要使用server酱的话需要在<code>KEY</code>里填写旧版的SCKEY或新版的SendKey。</p>
-<h5 id="3-2-6-3-酷推"><a href="#3-2-6-3-酷推" class="headerlink" title="3.2.6.3 酷推"></a>3.2.6.3 酷推</h5><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>: &#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;CoolPush&quot;</span>: &#123;</span><br><span class="line">        <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">        <span class="attr">&quot;method&quot;</span>: [<span class="string">&quot;send&quot;</span>],</span><br><span class="line">        <span class="attr">&quot;Skey&quot;</span>: <span class="string">&quot;&quot;</span></span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>要使用酷推的话需要填写<code>Skey</code>。</p>
-<h5 id="3-2-6-4-pushPlus微信推送"><a href="#3-2-6-4-pushPlus微信推送" class="headerlink" title="3.2.6.4 pushPlus微信推送"></a>3.2.6.4 pushPlus微信推送</h5><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>: &#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;pushPlus&quot;</span>: &#123;</span><br><span class="line">        <span class="attr">&quot;enable&quot;</span>: <span class="literal">true</span>,</span><br><span class="line">        <span class="attr">&quot;pushToken&quot;</span>: <span class="string">&quot;&quot;</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>要使用酷推的话需要填写<code>pushToken</code>。</p>
-<h4 id="3-2-7-刷单曲播放量"><a href="#3-2-7-刷单曲播放量" class="headerlink" title="3.2.7 刷单曲播放量"></a>3.2.7 刷单曲播放量</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>: &#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;other&quot;</span>: &#123;</span><br><span class="line">        <span class="comment">/* 刷歌单中歌曲的播放次数，用来改变听歌风格，仅在需要时使用 */</span></span><br><span class="line">        <span class="attr">&quot;play_playlists&quot;</span>: &#123;</span><br><span class="line">            <span class="attr">&quot;enable&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">            <span class="comment">/* 歌单id,用逗号隔开,如 [5279371062,5279377564] */</span></span><br><span class="line">            <span class="attr">&quot;playlist_ids&quot;</span>: [],</span><br><span class="line">            <span class="comment">/* 播放次数 */</span></span><br><span class="line">            <span class="attr">&quot;times&quot;</span>: <span class="number">1</span></span><br><span class="line">        &#125;</span><br><span class="line">    &#125;, </span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>将要刷的歌曲加到歌单中，把歌单id填写到<code>playlist_ids</code>中，可以添加多个歌单id，用英文逗号隔开，如<code>&quot;playlist_ids&quot;:[5279371062,5279377564]</code>。该功能可以用来改变听歌风格。</p>
-<h4 id="3-2-8-多账号"><a href="#3-2-8-多账号" class="headerlink" title="3.2.8 多账号"></a>3.2.8 多账号</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;users&quot;</span>: [</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="attr">&quot;username&quot;</span>: <span class="string">&quot;188xxxx8888&quot;</span>,            </span><br><span class="line">        <span class="attr">&quot;md5&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">        <span class="attr">&quot;password&quot;</span>: <span class="string">&quot;mypassword&quot;</span></span><br><span class="line">    &#125;,</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="attr">&quot;username&quot;</span>: <span class="string">&quot;166xxxx6666&quot;</span>,            </span><br><span class="line">        <span class="attr">&quot;md5&quot;</span>: <span class="literal">false</span>,</span><br><span class="line">        <span class="attr">&quot;password&quot;</span>: <span class="string">&quot;anotherpassword&quot;</span></span><br><span class="line">    &#125;</span><br><span class="line">],</span><br><span class="line"><span class="comment">// ...</span></span><br></pre></td></tr></table></figure>
-
-<p>多账号需要删除第二个账号前后的<code>\*</code>和<code>*\</code>注释，如上所示。如果不会使用，可以每个账号创建一个相应的云函数。</p>
-<h4 id="3-2-9-关注作者"><a href="#3-2-9-关注作者" class="headerlink" title="3.2.9 关注作者"></a>3.2.9 关注作者</h4><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">&quot;setting&quot;</span>: &#123;</span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="attr">&quot;follow&quot;</span>: <span class="literal">true</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>默认会在网易云音乐中关注我，不喜欢的可自行取消，欢迎点击底部的打赏。</p>
-<h3 id="3-3-测试"><a href="#3-3-测试" class="headerlink" title="3.3 测试"></a>3.3 测试</h3><p>修改完代码后，按ctrl+s保存代码，然后点击编辑器右上角的<code>部署</code>（每次修改完都要重新部署），左下角的<code>部署</code>也行。部署完成后点击部署旁边的测试按钮，观察结果，如果失败则检查修改代码。</p>
-<h3 id="3-4-定时触发"><a href="#3-4-定时触发" class="headerlink" title="3.4 定时触发"></a>3.4 定时触发</h3><p>点击<code>触发管理</code>，再点击<code>创建触发器</code>。触发周期选择<code>自定义触发周期</code>，再根据自己的需求在<code>Cron表达式</code>里填写所需的时间，比如<code>0 5 0 * * * *</code>表示每天0点5分触发，<code>0 20 12 * * * *</code>表示每天12点20分触发，<code>0 0 12,16 * * * *</code>表示每天12点和16点各触发一次。</p>
-<h3 id="3-5-API网关触发"><a href="#3-5-API网关触发" class="headerlink" title="3.5 API网关触发"></a>3.5 API网关触发</h3><p>点击<code>触发管理</code>，再点击<code>创建触发器</code>。<code>触发方式</code>选择<code>API网关触发</code>，点击提交。可以看到一个访问路径，访问该链接，即可运行云函数。使用这种方式，无需登录腾讯云，即可随时随地运行。</p>
-<p>计费方式：<a target="_blank" rel="noopener" href="https://cloud.tencent.com/document/product/628/39300">官网</a></p>
-<h3 id="3-6-更新代码"><a href="#3-6-更新代码" class="headerlink" title="3.6 更新代码"></a>3.6 更新代码</h3><p>需要更新代码时，在提交方法里选择<code>本地上传文件夹</code>，再上传压缩包，填写好配置文件，保存并部署。</p>
-<h2 id="4-本地运行"><a href="#4-本地运行" class="headerlink" title="4 本地运行"></a>4 本地运行</h2><h3 id="4-1-安装python3运行环境"><a href="#4-1-安装python3运行环境" class="headerlink" title="4.1 安装python3运行环境"></a>4.1 安装python3运行环境</h3><h3 id="4-2-修改配置"><a href="#4-2-修改配置" class="headerlink" title="4.2 修改配置"></a>4.2 修改配置</h3><p>解压压缩包，修改config.json文件，详见 3.2</p>
-<h3 id="4-3-安装依赖"><a href="#4-3-安装依赖" class="headerlink" title="4.3 安装依赖"></a>4.3 安装依赖</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install -r requirements.txt</span><br></pre></td></tr></table></figure>
-<h3 id="4-4-运行"><a href="#4-4-运行" class="headerlink" title="4.4 运行"></a>4.4 运行</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python index.py</span><br></pre></td></tr></table></figure>
-
-<h2 id="5-打卡数不够300首"><a href="#5-打卡数不够300首" class="headerlink" title="5 打卡数不够300首"></a>5 打卡数不够300首</h2><p>可能的原因</p>
-<ol>
-<li>数据延迟导致结果显示不准确，可稍候到网易云APP中查看</li>
-<li>打卡之前在网易云音乐中听过歌，导致此次打卡无法达到300的上限</li>
-<li>随机歌单中的一部分歌曲之前听过，因此不再重复记录，解决方法：增加打卡的歌曲数。</li>
-</ol>
-<h2 id="6-对日推的影响"><a href="#6-对日推的影响" class="headerlink" title="6 对日推的影响"></a>6 对日推的影响</h2><p>打卡功能可能会影响日推，介意慎用。</p>
-<h2 id="7-云函数免费额度及计费方式"><a href="#7-云函数免费额度及计费方式" class="headerlink" title="7 云函数免费额度及计费方式"></a>7 云函数免费额度及计费方式</h2><table>
-    <tr>
-        <td>发放时间</td> 
-        <td>计费项</td> 
-        <td>免费额度</td> 
-    </tr>
-    <tr>
-        <td rowspan="3">前三个月（包含开通当月）每月</td> 
-        <td>调用次数</td> 
-        <td>100万次（事件函数和 Web 函数各100万次）</td> 
-    </tr>
-    <tr> 
-        <td>资源使用量</td> 
-        <td>40万GBs</td> 
-    </tr>
-    <tr>
-        <td>外网出流量</td> 
-        <td>1GB</td> 
-    </tr>    
-    <tr>
-        <td rowspan="3">开通三个月后每月</td> 
-        <td>调用次数</td> 
-        <td>10万次（事件函数和 Web 函数各5万次）</td> 
-    </tr>
-    <tr> 
-        <td>资源使用量</td> 
-        <td>2万GBs</td> 
-    </tr>
-    <tr>
-        <td>外网出流量</td> 
-        <td>0.5GB</td> 
-    </tr>      
-</table>
-
-<p>详见<a target="_blank" rel="noopener" href="https://cloud.tencent.com/document/product/583/17299">官网</a></p>
-<h2 id="8-运行出错"><a href="#8-运行出错" class="headerlink" title="8 运行出错"></a>8 运行出错</h2><p>错误码详见<a target="_blank" rel="noopener" href="https://cloud.tencent.com/document/product/583/42611">官网</a></p>
-<h2 id="9-灵感来源"><a href="#9-灵感来源" class="headerlink" title="9 灵感来源"></a>9 灵感来源</h2><ol>
-<li><a target="_blank" rel="noopener" href="https://github.com/Binaryify/NeteaseCloudMusicApi">网易云音乐 API</a></li>
-<li><a target="_blank" rel="noopener" href="https://github.com/darknessomi/musicbox">NetEase-MusicBox</a></li>
-</ol>
+        <h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><p><strong>推荐方式</strong>: 直接查看 <a target="_blank" rel="noopener" href="https://github.com/chen310/NeteaseCloudMusicTasks">GitHub</a> 文档进行部署。</p>
+<p>代替方式: 如果 GitHub 无法访问或者不想使用 GitHub Actons 部署到云函数，可以用以下方式部署。使用这种方式部署不保证代码是最新的：</p>
+<h3 id="创建层"><a href="#创建层" class="headerlink" title="创建层"></a>创建层</h3><p>首先下载<a target="_blank" rel="noopener" href="https://chen10.lanzouo.com/igHXzxf8wjc">依赖文件</a>，然后到<a target="_blank" rel="noopener" href="https://console.cloud.tencent.com/scf/layer">高级能力</a>新建<code>层</code>。</p>
+<p><img src="level.png" alt="level"></p>
+<p><code>层名称</code>可自己决定，点击<code>上传</code>，上传刚刚下载的依赖文件，点击<code>添加运行环境</code>， 把 <code>Python 3.6</code> 勾选上，最后点击<code>确定</code>完成创建</p>
+<p><img src="createlevel.png" alt="level"></p>
+<h3 id="创建函数"><a href="#创建函数" class="headerlink" title="创建函数"></a>创建函数</h3><p>下载<a target="_blank" rel="noopener" href="https://chen10.lanzouo.com/b01p4h8ij">代码文件</a>，密码: <code>h2jj</code></p>
+<p>在<a target="_blank" rel="noopener" href="https://console.cloud.tencent.com/scf/list">函数服务</a>新建函数</p>
+<p><img src="newfunction.png" alt="function"></p>
+<p>选择<code>从头开始</code>，<code>函数名称</code>可以自己决定，<code>运行环境</code>选择<code>Python3.6</code>，记住不能选择 <code>Python 3.7</code>，因为 Python 3.7 及之后版本，云函数平台不再额外内置依赖库，<code>提交方法</code>选择<code>本地上传zip文件</code>。点击<code>上传</code>，上传刚刚下载的代码文件。</p>
+<p><img src="create.png" alt="function"></p>
+<p>继续下拉，<code>点击高级配置</code>，将<code>执行超时时间</code>修改为 <code>900</code> 秒。<code>内存</code>默认是 <code>128MB</code>，可以不改，也可改为 <code>64MB</code>。在腾讯云<a target="_blank" rel="noopener" href="https://console.cloud.tencent.com/cam/capi">API 密钥管理</a>新建密钥，获取 SecretId 和 SecretKey。然后填写如下的环境变量</p>
+<table>
+<thead>
+<tr>
+<th align="left">key</th>
+<th align="left">value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">SONG_NUMBER</td>
+<td align="left">-1</td>
+</tr>
+<tr>
+<td align="left">TENCENT_SECRET_ID</td>
+<td align="left">填写上面获取的 SecretId</td>
+</tr>
+<tr>
+<td align="left">TENCENT_SECRET_KEY</td>
+<td align="left">填写上面获取的 SecretKey</td>
+</tr>
+</tbody></table>
+<p><img src="create2.png" alt="function"></p>
+<p>继续下拉，点击<code>添加层</code></p>
+<p><img src="addlevel.png" alt="level"></p>
+<p>选择刚刚创建的层</p>
+<p><img src="addlevel2.png" alt="level"></p>
+<p>最后点击<code>完成</code>结束函数的创建。</p>
+<h3 id="设置"><a href="#设置" class="headerlink" title="设置"></a>设置</h3><p>在<a target="_blank" rel="noopener" href="https://console.cloud.tencent.com/scf/list">函数服务</a>点进刚刚创建的函数</p>
+<p><img src="function.png" alt="function"></p>
+<p>点击<code>触发管理</code>，再点击<code>创建触发器</code>，一共需要创建两个触发器。</p>
+<p><img src="trigger.png" alt="trigger"></p>
+<p>第一个触发器<code>定时任务名称</code>可以使用默认名称，<code>触发周期</code>选择<code>自定义触发周期</code>，<code>Cron表达式</code>填写触发时间，比如 <code>0 30 0 * * * *</code> 表示每天 0 点 30 分自动运行，<code>0 20 12 * * * *</code> 表示每天 12 点 20 分自动运行，<code>0 0 12,16 * * * *</code> 表示每天 12 点和 16 点各运行一次。</p>
+<p><img src="trigger2.png" alt="trigger"></p>
+<p>第二个触发器<code>定时任务名称</code>必须修改为 <code>timer-songnumber</code>，<code>触发周期</code>选择<code>自定义触发周期</code>，<code>Cron表达式</code>填写 <code>10 0 0 * * * *</code>。第二个触发器的作用是在每天 00:00:10 时抓取听歌数量并填写到环境变量中。如果不需要刷等级，可以不创建该触发器，或者关闭该触发器。</p>
+<p><img src="trigger3.png" alt="trigger"></p>
+<p>创建完毕后即可看到两个定时触发器</p>
+<p><img src="trigger4.png" alt="trigger"></p>
+<p>点击<code>函数管理</code>、<code>函数代码</code>，再点进 <code>config.json</code> 这个配置文件</p>
+<p><img src="config1.png" alt="config"></p>
+<p>可以看到有很多错误提示，所以要将语言模式改为 <code>JSON with Comments</code>。</p>
+<p><img src="config2.png" alt="config"></p>
+<p>然后就可以对配置文件 <code>config.json</code> 进行修改。配置的含义都做了注释。修改完毕后，点击<code>部署</code>，看到部署成功后点击<code>测试</code>进行测试。</p>
+<p><img src="config3.png" alt="config"></p>
 
       
     </div>
@@ -438,7 +360,7 @@
     
     
     <li class="next">
-      <a href="../link/" title="获取网易云直链和m3u播放列表"><span>下一篇&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
+      <a href="../kodi/" title="在TV上使用Kodi播放网易云音乐"><span>下一篇&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
     </li>
     
     
