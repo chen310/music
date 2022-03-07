@@ -2,19 +2,10 @@
     {
         "days": 7,
         "goods": "黑胶VIP(7天)",
-        "senderId": 1461919121,
-        "url": "https://music.163.com/prime/m/gift-receive?u=ec85150f522941d1b06f388e4832f018f677e8523c004801ae5c921664d97828",
-        "short_url": "http://t.cn/A66LbSZL",
-        "weibo_url": "https://weibo.com/detail/4743218296786348",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=250161818&giftSrc=3&nm_style=sbt&bounces=false"
-    },
-    {
-        "days": 7,
-        "goods": "黑胶VIP(7天)",
-        "senderId": 531286685,
-        "url": "https://music.163.com/prime/m/gift-receive?u=a54a2e4d7ef049359d3b386d8fea83249be67315c8bb4a368b3cd0101ff477aa&userid=531286685&app_version=8.6.72",
-        "short_url": "http://t.cn/A662diI8",
-        "weibo_url": "https://weibo.com/detail/4743071038443541",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=250081170&giftSrc=3&nm_style=sbt&bounces=false"
+        "senderId": 3941107114,
+        "url": "https://music.163.com/prime/m/gift-receive?u=9b6e74aa3b3d4f06a4b3b13a9a488ff2c545fbd040024b9cbf9028eda7da2fde&userid=3941107114&app_version=8.6.60",
+        "short_url": "http://t.cn/A66LOcMk",
+        "weibo_url": "https://weibo.com/detail/4743344960310361",
+        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=250428651&giftSrc=3&nm_style=sbt&bounces=false"
     }
 ]

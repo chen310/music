@@ -1,10 +1,18 @@
 [
     {
+        "artist": "朱正廷",
+        "name": "待签收",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=10598acc30b6a6e360ac9c2dd914df47&s=093a98916cde49c7b87d96abff685786",
+        "short_url": "http://t.cn/A66Uf7Mt",
+        "weibo_url": "https://weibo.com/detail/4744001423149593"
+    },
+    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=3406f35373241111b8a63ddba82109fd&s=ef83521c350c4382ba6c064db78b027e",
-        "short_url": "http://t.cn/A662QCED",
-        "weibo_url": "https://weibo.com/detail/4743008245252240"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b657244495182ddf9531f7c22e78c183&s=c32f0bc26f6a4017b1891ff05ba79651",
+        "short_url": "http://t.cn/A66yC3kc",
+        "weibo_url": "https://weibo.com/detail/4743702713469828"
     }
 ]
