@@ -1,18 +1,18 @@
 [
     {
-        "artist": "朱正廷",
-        "name": "待签收",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=10598acc30b6a6e360ac9c2dd914df47&s=093a98916cde49c7b87d96abff685786",
-        "short_url": "http://t.cn/A66Uf7Mt",
-        "weibo_url": "https://weibo.com/detail/4744001423149593"
-    },
-    {
         "artist": "李润祺",
         "name": "茫",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=b657244495182ddf9531f7c22e78c183&s=c32f0bc26f6a4017b1891ff05ba79651",
-        "short_url": "http://t.cn/A66yC3kc",
-        "weibo_url": "https://weibo.com/detail/4743702713469828"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d27a34faa4eb5d8eb8110ed838db1448&s=4feb081bd3334d6f863e9546397e2d2e",
+        "short_url": "http://t.cn/A66UM4gP",
+        "weibo_url": "https://weibo.com/detail/4744014681607285"
+    },
+    {
+        "artist": "毕雯珺",
+        "name": "欲控",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8bd038c9fd682738c51f4501b5cad5c0&s=51cfa49bb1a74a4eaebd8af1f5c7851f",
+        "short_url": "http://t.cn/A664fP3e",
+        "weibo_url": "https://weibo.com/detail/4744384182225665"
     }
 ]
