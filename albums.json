@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d8052fac3e45723bfa04d933a34ac0c4&s=8fb7233de3554a3d9a4e1cba4ab6864b",
+        "short_url": "http://t.cn/A66TmuYy",
+        "weibo_url": "https://weibo.com/detail/4755239385432594"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a4f2890992961fd7ea7bc07c263dc103&s=780efbec266c44ed8540d4a255904ea3",
+        "short_url": "http://t.cn/A66Tm82t",
+        "weibo_url": "https://weibo.com/detail/4755238932455135"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a8c5b1091f8f9050351f8939abf6b58f&s=94399f2501494f6c9f44fb987ed5c38f",
+        "short_url": "http://t.cn/A66TuPNW",
+        "weibo_url": "https://weibo.com/detail/4755240438204867"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=51ca807404fc99b74bab47881b3ae20f&s=f5d47b911489450b9432e5c732229c4c",
+        "short_url": "http://t.cn/A66TuVDs",
+        "weibo_url": "https://weibo.com/detail/4755241973322842"
+    }
+]

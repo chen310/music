@@ -2,24 +2,6 @@
     {
         "days": 7,
         "goods": "黑胶VIP(7天)",
-        "senderId": 16205588,
-        "url": "https://music.163.com/prime/m/gift-receive?u=5dda9e0cbaf34ba5aace29afbe4c66e2f9ccfb522c094da495272173b2cd7bf1",
-        "short_url": "http://t.cn/A66O9FP3",
-        "weibo_url": "https://weibo.com/detail/4753369765513644",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=262293833&giftSrc=3&nm_style=sbt&bounces=false"
-    },
-    {
-        "days": 7,
-        "goods": "黑胶VIP(7天)",
-        "senderId": 83333521,
-        "url": "https://music.163.com/prime/m/gift-receive?u=e7547f1f77fd45439bcf5f46dbe807fdc0b10815ee76426f9d44646052f34778&userid=83333521&app_version=8.7.16",
-        "short_url": "http://t.cn/A66OCZm4",
-        "weibo_url": "https://weibo.com/detail/4753370307627974",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=262281213&giftSrc=3&nm_style=sbt&bounces=false"
-    },
-    {
-        "days": 7,
-        "goods": "黑胶VIP(7天)",
         "senderId": 266848741,
         "url": "https://music.163.com/prime/m/gift-receive?u=0cc31827b372431cb605752a46f05db644138e31ddcd417a91c66a82c0272ca6&userid=266848741&app_version=8.7.20",
         "short_url": "http://t.cn/A66OSd2y",
@@ -38,10 +20,10 @@
     {
         "days": 7,
         "goods": "黑胶VIP(7天)",
-        "senderId": 489294099,
-        "url": "https://music.163.com/prime/m/gift-receive?u=0dfa84964cc24c27b9d8fa1a23417093a7c7274352084e77926c09eefa4cc367",
-        "short_url": "http://t.cn/A66Oljb7",
-        "weibo_url": "https://weibo.com/detail/4753398156494272",
-        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=262347433&giftSrc=3&nm_style=sbt&bounces=false"
+        "senderId": 83333521,
+        "url": "https://music.163.com/prime/m/gift-receive?u=e7547f1f77fd45439bcf5f46dbe807fdc0b10815ee76426f9d44646052f34778&userid=83333521&app_version=8.7.16",
+        "short_url": "http://t.cn/A66OCZm4",
+        "weibo_url": "https://weibo.com/detail/4753370307627974",
+        "webUrl": "https://music.163.com/prime/m/gift-mypurchase?orderid=262281213&giftSrc=3&nm_style=sbt&bounces=false"
     }
 ]
