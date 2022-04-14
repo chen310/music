@@ -8,11 +8,27 @@
         "weibo_url": "https://weibo.com/detail/4519400655758042"
     },
     {
+        "artist": "毕雯珺",
+        "name": "如果",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b7a9c8d43ba1741158ea444fde1dd2d0&s=f6c11bb3f2c34ef9905e884c92dbd14b",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Fbar%3Dfoo%26app_version%3D8.7.25%26userid%3D1374436857%26tk%3Db7a9c8d43ba1741158ea444fde1dd2d0%26from%3Dout%26typeundefined%26s%3Df6c11bb3f2c34ef9905e884c92dbd14b",
+        "weibo_url": "https://weibo.com/detail/4757933953386247"
+    },
+    {
         "artist": "鹿晗",
         "name": "Slow Ride (兜风)",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=fc5fd8a6ae150a2d64619db98d03b7c9&s=748f65d30fb646e2ae579ba4c6ca1949",
         "short_url": "http://t.cn/A66m7zEB",
         "weibo_url": "https://weibo.com/detail/4758071731294094"
+    },
+    {
+        "artist": "鹿晗",
+        "name": "Slow Ride (兜风)",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1a59a8ffe3ce9a7fc9a4041966b83430&s=283292681b7a4cbaa0897cbb5fab483f",
+        "short_url": "http://t.cn/A66uLL3J",
+        "weibo_url": "https://weibo.com/detail/4758082536865982"
     }
 ]
