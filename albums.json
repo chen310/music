@@ -1,10 +1,58 @@
 [
     {
+        "artist": "孟美岐",
+        "name": "爱·不爱",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=b3337a2f1ccaf28ab2e611583791f0c0&s=d2f7d959162244198859efdc059e122d",
+        "short_url": "http://t.cn/A66rgtU1",
+        "weibo_url": "https://weibo.com/detail/4759447824761250"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=8a4e9ae13ce7a2f1d20a850af614a89e&s=172d1868ed2740d4a4052131390e9b72",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Fbar%3Dfoo%26app_version%3D8.2.21%26userid%3D3900729575%26tk%3D8a4e9ae13ce7a2f1d20a850af614a89e%26from%3Dout%26typeundefined%26s%3D172d1868ed2740d4a4052131390e9b72",
+        "weibo_url": "https://weibo.com/detail/4759330266022758"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7fc6fcba755e25f8cc24e5d4e8f4602c&s=f37651a46d9e4ec2bdcc79a95aa034d3",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Fbar%3Dfoo%26app_version%3D8.7.25%26userid%3D1881031356%26tk%3D7fc6fcba755e25f8cc24e5d4e8f4602c%26from%3Dout%26typeundefined%26s%3Df37651a46d9e4ec2bdcc79a95aa034d3",
+        "weibo_url": "https://weibo.com/detail/4759269498949075"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=2b934170fbf54941fa71b0af296557d6&s=c8e8e59aea7448cf88376d05082d36eb",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2F163.lu%2Ff2QV73",
+        "weibo_url": "https://weibo.com/detail/4759322456752925"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7b204ac0448158f7ba22ce8f8e0d3a85&s=10d1679efe764cf291952fbafd340d13",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Ffrom%3Dout%26tk%3D7b204ac0448158f7ba22ce8f8e0d3a85%26s%3D10d1679efe764cf291952fbafd340d13%26bar%3Dfoo%26typeundefined",
+        "weibo_url": "https://weibo.com/detail/4759313559850171"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=06e1b8aefa061cce4af01c74c117e51a&s=ef86992f569c40c9b8dd44bb74718692",
+        "short_url": "http://t.cn/A66r1RG3",
+        "weibo_url": "https://weibo.com/detail/4759414475587703"
+    },
+    {
         "artist": "鹿晗",
         "name": "Slow Ride (兜风)",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=56d044191b8eaee89fe136ea7e60062b&s=0395409e47cf45c4a5c1a0c78aaa1d48",
-        "short_url": "http://t.cn/A66ByWLF",
-        "weibo_url": "https://weibo.com/detail/4758841936052324"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=28caa5abc725e7e45a743274d3a6f840&s=85537b5a9ec44734b0093a7abd0061cb",
+        "short_url": "http://t.cn/A66rM4oz",
+        "weibo_url": "https://weibo.com/detail/4759521655786246"
     }
 ]
