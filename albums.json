@@ -1,10 +1,58 @@
 [
     {
         "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=6426465fe159954d25a0284001f11097&s=54677c715cc145f984e345d77d08e0b0",
+        "short_url": "http://t.cn/A66Fdnxp",
+        "weibo_url": "https://weibo.com/detail/4761561049072163"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "Chapter Z",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a7736f297954c2bd8ea0da834d6881eb&s=53f81f1188604ea6803c737b64082ced",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Fbar%3Dfoo%26app_version%3D8.7.35%26userid%3D1494287300%26tk%3Da7736f297954c2bd8ea0da834d6881eb%26from%3Dout%26typeundefined%26s%3D53f81f1188604ea6803c737b64082ced",
+        "weibo_url": "https://weibo.com/detail/4761383541674032"
+    },
+    {
+        "artist": "朱正廷",
         "name": "EMPTY SPACE",
         "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=95fb4f542f4c3647abe6fed2818f811c&s=beb15967076646bd8194bfe3e5825700",
-        "short_url": "http://t.cn/A66FPqQf",
-        "weibo_url": "https://weibo.com/detail/4761227878204332"
+        "url": "https://music.163.com/store/m/album/receive/update?tk=a695c00a97c2975688a27fcaf5291037&s=4d9b8bb235f9486f968810cfb3eab32e",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Ffrom%3Dout%26tk%3Da695c00a97c2975688a27fcaf5291037%26s%3D4d9b8bb235f9486f968810cfb3eab32e%26bar%3Dfoo%26typeundefined",
+        "weibo_url": "https://weibo.com/detail/4761377527039719"
+    },
+    {
+        "artist": "朱正廷",
+        "name": "EMPTY SPACE",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7d770526a6baf0862f3e25b8d8a02c8b&s=11c741b7c84f4ff8b7b3bd0c27cd3d83",
+        "short_url": "http://t.cn/A66Fd8bS",
+        "weibo_url": "https://weibo.com/detail/4761560776444658"
+    },
+    {
+        "artist": "秦霄贤",
+        "name": "是云白",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=e5ebcfc6ce17d22bf2b609f2413e0c52&s=51a81b3d0a554436b73489deacbfd044",
+        "short_url": "http://t.cn/A66szPE3",
+        "weibo_url": "https://weibo.com/detail/4761625288507432"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "EMERGING",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=7097b53550e2e16ef36be13c88663e4e&s=83cfa8ba8fb24b4ea0bb6773574b3cdd",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Ffrom%3Dout%26tk%3D7097b53550e2e16ef36be13c88663e4e%26s%3D83cfa8ba8fb24b4ea0bb6773574b3cdd%26bar%3Dfoo%26typeundefined",
+        "weibo_url": "https://weibo.com/detail/4761177324523093"
+    },
+    {
+        "artist": "范丞丞",
+        "name": "咦？",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=3e0f1e605b52efe5c9ac32e4a7fa54ba&s=ebe25fd66f7a4ff18999ad32b5292c56",
+        "short_url": "http://t.cn/A66Fgt60",
+        "weibo_url": "https://weibo.com/detail/4761563828849640"
     }
 ]
