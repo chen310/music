@@ -1,14 +1,6 @@
 [
     {
         "artist": "朱正廷",
-        "name": "EMPTY SPACE",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=7d770526a6baf0862f3e25b8d8a02c8b&s=11c741b7c84f4ff8b7b3bd0c27cd3d83",
-        "short_url": "http://t.cn/A66Fd8bS",
-        "weibo_url": "https://weibo.com/detail/4761560776444658"
-    },
-    {
-        "artist": "朱正廷",
         "name": "The Winter Light (冬日告白)",
         "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=4a69af96f66c9afa96ca508b7219696a&s=1e3fe3e3110d4cf2806d3136f1667671",
@@ -174,13 +166,5 @@
         "url": "https://music.163.com/store/m/album/receive/update?tk=b7f097d8efef144365594b9475b78367&s=fc1761c3179a42b2a70bc90dc5914669",
         "short_url": "http://t.cn/A6XvdRyw",
         "weibo_url": "https://weibo.com/detail/4762235748748746"
-    },
-    {
-        "artist": "鹿晗",
-        "name": "Slow Ride (兜风)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=5ce94cd0b97a2cfc587c7973a5505d41&s=f0817b86b6f742a6a97fb4afcf393820",
-        "short_url": "http://t.cn/A6XvBzkZ",
-        "weibo_url": "https://weibo.com/detail/4762195596935392"
     }
 ]
