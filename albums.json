@@ -1,13 +1,5 @@
 [
     {
-        "artist": "SNH48袁一琦",
-        "name": "水蒸气 (Paradise)",
-        "type": "album",
-        "url": "https://music.163.com/store/m/album/receive/update?tk=4a3ad3c52a7d0262ade3eba383b236fc&s=51970838bb56411d913c6cdf2dd06291",
-        "short_url": "http://t.cn/A6XzQLBt",
-        "weibo_url": "https://weibo.com/detail/4763524600172652"
-    },
-    {
         "artist": "朱正廷",
         "name": "Chapter Z",
         "type": "album",
@@ -35,6 +27,30 @@
         "artist": "胡春杨",
         "name": "Can You Remember",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=1def01684327b22cae6096dc97d6e66c&s=cdbde9ca647d498abb6fb35c2e9d9cb7",
+        "short_url": "http://t.cn/A6XzFOeS",
+        "weibo_url": "https://weibo.com/detail/4763601217520861"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=d302451e599a0cec7890a97c17934781&s=900e29f61a0a4def8b2fc81eb78da769",
+        "short_url": "http://t.cn/A6XzFFqL",
+        "weibo_url": "https://weibo.com/detail/4763593876178386"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=96b9159aca986f970bbe1d54dc405c65&s=467ad233e3c8437ca2c020077d3e06f6",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Ffrom%3Dout%26tk%3D96b9159aca986f970bbe1d54dc405c65%26s%3D467ad233e3c8437ca2c020077d3e06f6%26bar%3Dfoo%26typeundefined",
+        "weibo_url": "https://weibo.com/detail/4763548343601176"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=3dcaed48a84edb25fbe1dc167ca02ef5&s=257c613106404c66bd2033901b7bbadf",
         "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Ffrom%3Dout%26tk%3D3dcaed48a84edb25fbe1dc167ca02ef5%26s%3D257c613106404c66bd2033901b7bbadf%26bar%3Dfoo%26typeundefined",
         "weibo_url": "https://weibo.com/detail/4762893331465004"
@@ -51,9 +67,49 @@
         "artist": "胡春杨",
         "name": "Can You Remember",
         "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=37a27b758ca34108f620b3fc22bfe8d5&s=b8e53b22db85478b85aa6b5681816c5a",
+        "short_url": "http://t.cn/A6XzkiDA",
+        "weibo_url": "https://weibo.com/detail/4763584388661289"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
         "url": "https://music.163.com/store/m/album/receive/update?tk=25f3ba51897e2988102c71739b6f56f3&s=cd0eda7efc13457e8ffe3a5ab86ff25d",
         "short_url": "http://t.cn/A6XzORyj",
         "weibo_url": "https://weibo.com/detail/4763496363330508"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=28fad9d30028341fc77f9a9e2678441f&s=8999c1458def468cad7caa30c42afb2c",
+        "short_url": "http://t.cn/A6XzkSF0",
+        "weibo_url": "https://weibo.com/detail/4763584846627264"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=bed2be3048fb35a345bc63cf3d59eb83&s=052a7346924c4a2b8b4bff8b1eb76323",
+        "short_url": "https://weibo.cn/sinaurl?u=http%3A%2F%2Fmusic.163.com%2Fstore%2Fm%2Falbum%2Freceive%2Fupdate%3Ffrom%3Dout%26tk%3Dbed2be3048fb35a345bc63cf3d59eb83%26s%3D052a7346924c4a2b8b4bff8b1eb76323%26bar%3Dfoo%26typeundefined",
+        "weibo_url": "https://weibo.com/detail/4763547609333988"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=58252060159aeac558c942ecdc4d3830&s=10d5ad92f311424da844b13fa2db3691",
+        "short_url": "http://t.cn/A6XzDEiM",
+        "weibo_url": "https://weibo.com/detail/4763580019510719"
+    },
+    {
+        "artist": "胡春杨",
+        "name": "Can You Remember",
+        "type": "album",
+        "url": "https://music.163.com/store/m/album/receive/update?tk=137211498487947fc283b57d7a9a704a&s=78f83931a1c846268c60695849ea709e",
+        "short_url": "http://t.cn/A6XZPPYi",
+        "weibo_url": "https://weibo.com/detail/4763605062648330"
     },
     {
         "artist": "胡春杨",
