@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "artist": "罗云熙",
+        "name": "不渝梦",
+        "type": "album",
+        "url": "https://music.163.com/st/album/m/unReceivedCard/d51c0ec34024445bb45daed2fdb4c263/0b218f376abc4204b41f67d6fe330425",
+        "short_url": "https://weibo.cn/sinaurl?u=https%3A%2F%2Fy.music.163.com%2Fst%2Falbum%2Fm%2FunReceivedCard%2Fd51c0ec34024445bb45daed2fdb4c263%2F0b218f376abc4204b41f67d6fe330425%3FdonateType%3D0",
+        "weibo_url": "https://weibo.com/detail/5025886040230654"
+    },
+    {
+        "artist": "罗云熙",
+        "name": "不渝梦",
+        "type": "album",
+        "url": "https://music.163.com/st/album/m/unReceivedCard/fbf9b75c23c1406db8777afa9f986cbe/7f3e2e9ab37586c0e6c35d4c40355db0",
+        "short_url": "https://weibo.cn/sinaurl?u=https%3A%2F%2Fy.music.163.com%2Fst%2Falbum%2Fm%2FunReceivedCard%2Ffbf9b75c23c1406db8777afa9f986cbe%2F7f3e2e9ab37586c0e6c35d4c40355db0%3Fapp_version%3D8.20.02%26userid%3D574496386%26donateType%3D0%26dlt%3D0846",
+        "weibo_url": "https://weibo.com/detail/5025747429233620"
+    },
+    {
+        "artist": "罗云熙",
+        "name": "等风停",
+        "type": "album",
+        "url": "https://music.163.com/st/album/m/unReceivedCard/9300b5a56d204b54924f5a7cb1d996bd/435354ba06277d8f4634d96f40f517cc",
+        "short_url": "https://weibo.cn/sinaurl?u=https%3A%2F%2Fmusic.163.com%2Fst%2Falbum%2Fm%2FunReceivedCard%2F9300b5a56d204b54924f5a7cb1d996bd%2F435354ba06277d8f4634d96f40f517cc%3Fapp_version%3D9.0.60%26userid%3D378502730%26donateType%3D0%26dlt%3D0846",
+        "weibo_url": "https://weibo.com/detail/5025746982800453"
+    }
+]
